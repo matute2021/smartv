@@ -4,8 +4,7 @@
 https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/master.m3u8?hdnea=st=1634244936~exp=1634245536~acl=/*~hmac=9f022115d00ebe8c376803b4e1a96b422575c75369c4ad01870a745d2cc634ee
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://televisionlibre.net/img/logo_canal/TNT.png" group-title="CINE", TNT
-https://dltbdcxidnvdqfjv.wzcdn988.net:8443/hls/ty5e9aqf3.m3u8?s=pILp7pei24FrowVeu5C99w&e=1634267668
+https://dltbdcxidnvdqfjv.wzcdn988.net:8443/hls/ty5e9aqf3.m3u8?
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://televisionlibre.net/img/logo_canal/TNT_Series.png" group-title="CINE", TNT Series
-https://latam3-lh.akamaihd.net/i/TNS_PNR2@445602/master.m3u8?hdnea=st=1634245673~exp=1634246273~acl=/*~hmac=f957e1c47fa1a8bfc2ada9529c1c7372db2a2e46fc468a4bca8348e1c2952ea0
-
+https://latam3-lh.akamaihd.net/i/TNS_PNR2@445602/master.m3u8?
