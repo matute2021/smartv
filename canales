@@ -36,6 +36,44 @@ https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvIEx_O2USX9z-tjDlqrUSEERkk
 #EXTINF:-1 tvg-id="2" tvg-logo="https://futbollibre.net/img/logo-canal/ESPN.webp" group-title="DEPORTE", ESPN
 https://akamai2-br.cdn.booyah.live/hls/1500036/79691263.m3u8
 
+#EXTINF:-1 tvg-id="3" tvg-logo="https://futbollibre.net/img/logo-canal/Fox_Sports.webp" group-title="DEPORTE", FOX SPORT EU
+http://init.cheches.info/hls/105.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://futbollibre.net/img/logo-canal/GolTV.webp" group-title="DEPORTE", GOLTV
+https://playback2.akamaized.net/streams/28253671_9183137_lsiqpmbkfwou5ihz09c_1/exp=1634511310~acl=%2f*~data=hdntl~hmac=85a8eb26f2d439f7ae62047d802f955d417c7af2c7a9474d2f83bbd04eede304/media/28253671_9183137_lsiqpmbkfwou5ihz09c_1@5256000p.m3u8?dw=80&ts=1634421600
+
+#EXTINF:-1 tvg-id="5" tvg-logo="https://futbollibre.net/img/logo-canal/TUDN.png" group-title="DEPORTE", TUDN
+https://sv.tsnt2.xyz/g
+
+#EXTINF:-1 tvg-id="6" tvg-logo="https://futbollibre.net/img/logo-canal/Fox_Sports_Premium.webp" group-title="DEPORTE", FOX SPORT PREMIUM
+https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1634426249&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=ce3be07b0fd3bcf88c6a7e6accf8da16b1c5851ce163f43ec621ff8aa46cc9bb&euid=%7B58AAF5CE-1660-4200-BE5A-133C12C35A67%7D_000_1_001_live_00-06-00_0.0.7.42&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=506aaf1ad9efcf5e8340583539ee5580750c3ed93b161bae053f01ea0baee497&pbs=d833c340b7f5470b96bd9957b557d47c
+
+#EXTINF:-1 tvg-id="7" tvg-logo="https://futbollibre.net/img/logo-canal/TNT_Sports.webp" group-title="DEPORTE", TNT SPORT
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1634425660~exp=1634426260~acl=/*~hmac=898f081befb2675176f8803b39326aba9f53a6ef7a2903bbe1a2cc333368ade4
+
+#EXTINF:-1 tvg-id="8" tvg-logo="https://futbollibre.net/img/logo-canal/Fox_Sports_Premium.webp" group-title="DEPORTE", FOX SPORT PREMIUM
+https://jtbyeqpqtykwdiag.wzcdn804.net:8443/hls/6aki36z.m3u8?s=pzRIr339o2vcDg7oIp9tQA&e=1634448913
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
