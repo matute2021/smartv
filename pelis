@@ -116,8 +116,9 @@ https://v7.gomoplayer.com/vxoke7ahwkalavf4eraivjotqdsskwmhijyiqmc2ltisvvdfysnzsc
 #EXTINF:-1, tvg-name= "En el ojo del huracan", tvg-logo= "https://i1.wp.com/image.tmdb.org/t/p/w154/hMYAo7LntDexzenySf1sWvZti1x.jpg", group-title= "VAN DAMME"
 https://s72.upstreamcdn.co/hls/w47rzammofbnx2nrozx2arnbj3m3s7ctuz6wapaa7uw5pujyh5impdbdvkvq/seg-8-v1-a1.ts
 
+#EXTINF:-1, tvg-name= "El ultimo mercenario", tvg-logo= "https://image.tmdb.org/t/p/w185_and_h278_bestv2/lErxWgAtIOdxclev06lDqosYx8F.jpg", group-title= "VAN DAMME"
+https://www1975.ff-04.com/token=HUmzB5Y8zUQb4IkfUdYECA/1634683595/45.172.0.0/21/8/00/c8cced626723e7b4e4b2e9f0115a5008-720p.mp4
 
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= "VAN DAMME"
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= "VAN DAMME"
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= "VAN DAMME"
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= "VAN DAMME"
