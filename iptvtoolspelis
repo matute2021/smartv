@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-name= "FREE GUY" tvg-logo= "https://pics.filmaffinity.com/free_guy-297648487-mmed.jpg", group-title= "COMEDIA"
+http://54.39.52.63/PELICULA/96354/Free%20Guy.mkv
 #EXTINF:-1, tvg-name= "Gustavo Cerati - Fuerza Natural DVD Monterrey (2009)" tvg-logo= "https://1.bp.blogspot.com/-Yh-402dJ9sk/Xd_55ILjQII/AAAAAAAAIoQ/obvvGLidYMoY3tEVz40fO5vjUiknyv-fACLcBGAsYHQ/s1600/gc.jpg", group-title= "CONCIERTOS"
 http://74.208.251.230/Contenido/Peliculas/Conciertos/Gustavo%20Cerati%20-%20Fuerza%20Natural%20DVD%20Monterrey%20(2009).mkv
 #EXTINF:-1, tvg-name= "Avril Lavigne - The Best Damn Tour - Live in Toronto (2008)" tvg-logo= "https://images-na.ssl-images-amazon.com/images/I/51e7VS5sodL._SX300_SY300_QL70_FMwebp_.jpg", group-title= "CONCIERTOS"
