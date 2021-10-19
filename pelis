@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-name= "LIONHEART" tvg-logo= "https://pics.filmaffinity.com/lionheart-859027245-mmed.jpg", group-title= "VAN DAMME", Lionheart
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Lionheart.mkv
+
+#EXTINF:-1, tvg-name= "BLOODSPORT" tvg-logo= "https://images-na.ssl-images-amazon.com/images/I/51XDOPCZf2L._SX300_SY300_QL70_FMwebp_.jpg", group-title= "VAN DAMME", Contacto sangriento
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/Copy%20of%20Contacto%20sangriento%20(1988)%20.mp4
