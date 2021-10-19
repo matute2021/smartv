@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, tvg-name= "My Son (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt13234058.jpg", group-title= "SUSPENSO"
+https://s5.hdvid.tv/uirolbu5va4swchrlm3hprkwnig2btrrezjegv64kjomf26y2ngfwyg7jeda/v.mp4
+#EXTINF:-1, tvg-name= "CRY MACHO" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt1924245.jpg", group-title= "DRAMA"
+https://s5.hdvid.tv/uirolfm3va4swchrlm2xpgsiho5ox22wxgucw3najsokizhhkicpyquantxq/v.mp4
+#EXTINF:-1, tvg-name= "Dune (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt1160419.jpg", group-title= "ACCION"
+https://s8.hdvid.tv/uirokueqva4swchrlm2xpfcrmnnpzc7domqcswldi4pefxxibmi54lsdoclq/v.mp4
+#EXTINF:-1, tvg-name= "Halloween Kills: La noche aún no termina (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt10665338.jpg", group-title= "TERROR"
+https://s18.hdvid.tv/uirolwupva4swchrlm2xpqs3njaup6wvzpjfmwdmgnez2cjd3kgveoiha7nq/v.mp4
 #EXTINF:-1, tvg-name= "VIUDA NEGRA" tvg-logo= "https://pics.filmaffinity.com/black_widow-372790622-large.jpg", group-title= "ACCION"
 https://cdn4.pelisplus.icu/www11/d9ad06e5652387072a7fd7673da83a37/EP.0.1.720p.mp4
 #EXTINF:-1, tvg-name= "TERMINATOR SALVATION" tvg-logo= "https://pics.filmaffinity.com/terminator_salvation_the_future_begins_terminator_4-225185375-mmed.jpg", group-title= "ACCION"
