@@ -1,4 +1,17 @@
 #EXTM3U
+#EXTINF:-1, tvg-name= "Injustice (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt5012504.jpg", group-title= "ANIMACION"
+https://s4.hdvid.tv/uiroloutva4swchrlm2xph2uhjjwi2tuge7txg6n4efa5w6tb3p6ohlrfgyq/v.mp4
+#EXTINF:-1, tvg-name= "Pokémon, la película: Los secretos de la jungla" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt11819890.jpg", group-title= "ANIMACION"
+https://s1.hdvid.tv/uirokgeuva4swchrlm2xpfs7nhffu7qaootfatyn3pzb6pv4c5auy5p3ysmq/v.mp4
+#EXTINF:-1, tvg-name= "Blue Bayou (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt11121664.jpg", group-title= "DRAMA"
+https://s5.hdvid.tv/uirolieuva4swchrlm2xpfqcpfn23kon53y73tn5kmmcdewwwix24cdvg6tq/v.mp4
+#EXTINF:-1, tvg-name= "V/H/S/94 (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt14867006.jpg", group-title= "TERROR"
+https://s5.hdvid.tv/uirolimuva4swchrlm2xpckdh5rpip4rfj3fvehxpzqberp77ymdgehyixlq/v.mp4
+#EXTINF:-1, tvg-name= "" tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "" tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "" tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "" tvg-logo= "", group-title= ""
+
 #EXTINF:-1, tvg-name= "My Son (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt13234058.jpg", group-title= "SUSPENSO"
 https://s5.hdvid.tv/uirolbu5va4swchrlm3hprkwnig2btrrezjegv64kjomf26y2ngfwyg7jeda/v.mp4
 #EXTINF:-1, tvg-name= "CRY MACHO" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt1924245.jpg", group-title= "DRAMA"
