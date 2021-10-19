@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-name= "Dios mío ¡los niños han vuelto!" tvg-logo= "https://img.repelis.id/cover/chacun-chez-soi-2-1634638223.jpg", group-title= "COMEDIA"
+https://cdn4.pelisplus.icu/www12/bb0a8914d5ff85ff649ba4f36308cf2f/EP.0.1.v0.full.mp4
 #EXTINF:-1, tvg-name= "Asalto A La Casa De Moneda (2021)" tvg-logo= "https://image.tmdb.org/t/p/w300/mNfCgIIPo1efV4ACRL1tqd5bLrd.jpg", group-title= "ACCION"
 https://www1831.ff-04.com/token=XQyfUOurjcW8q7BWyCNnGQ/1634698386/45.172.0.0/177/a/73/77bd8fc68d1a598b4c7ef32a2bd1c73a-1080p.mp4
 #EXTINF:-1, tvg-name= "Distancia de rescate (2021)" tvg-logo= "https://image.tmdb.org/t/p/w300/hWVgahEaREAl8yIll1zE9HHeeYo.jpg", group-title= "TERROR"
