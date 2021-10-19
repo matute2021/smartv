@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-name= "TERMINATOR SALVATION" tvg-logo= "https://pics.filmaffinity.com/terminator_salvation_the_future_begins_terminator_4-225185375-mmed.jpg", group-title= "ACCION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Terminator%20Salvation%20_%20La%20salvaci%c3%b3n%20Online%20(2009)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
 #EXTINF:-1, tvg-name= "FREE GUY" tvg-logo= "https://pics.filmaffinity.com/free_guy-297648487-mmed.jpg", group-title= "COMEDIA"
 http://54.39.52.63/PELICULA/96354/Free%20Guy.mkv
 #EXTINF:-1, tvg-name= "Gustavo Cerati - Fuerza Natural DVD Monterrey (2009)" tvg-logo= "https://1.bp.blogspot.com/-Yh-402dJ9sk/Xd_55ILjQII/AAAAAAAAIoQ/obvvGLidYMoY3tEVz40fO5vjUiknyv-fACLcBGAsYHQ/s1600/gc.jpg", group-title= "CONCIERTOS"
