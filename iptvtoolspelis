@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-name= "VIUDA NEGRA" tvg-logo= "https://pics.filmaffinity.com/black_widow-372790622-large.jpg", group-title= "ACCION"
+https://cdn4.pelisplus.icu/www11/d9ad06e5652387072a7fd7673da83a37/EP.0.1.720p.mp4
 #EXTINF:-1, tvg-name= "TERMINATOR SALVATION" tvg-logo= "https://pics.filmaffinity.com/terminator_salvation_the_future_begins_terminator_4-225185375-mmed.jpg", group-title= "ACCION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Terminator%20Salvation%20_%20La%20salvaci%c3%b3n%20Online%20(2009)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
 #EXTINF:-1, tvg-name= "FREE GUY" tvg-logo= "https://pics.filmaffinity.com/free_guy-297648487-mmed.jpg", group-title= "COMEDIA"
