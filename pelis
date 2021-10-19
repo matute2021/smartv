@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo= "https://pics.filmaffinity.com/lionheart-859027245-mmed.jpg", group-title= "VAN DAMME", Lionheart
+#EXTINF:-1, tvg-name= "lIONHEART" tvg-logo= "https://pics.filmaffinity.com/lionheart-859027245-mmed.jpg", group-title= "VAN DAMME", Lionheart
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Lionheart.mkv
