@@ -110,10 +110,12 @@ https://m60.uqload.org/3rfk2wamdfw2q4drdj67bixvljdyflwca2kcqzb3ksi3q6w2fudlyi5au
 #EXTINF:-1, tvg-name= "Kung Fu Panda 2", tvg-logo= "https://image.tmdb.org/t/p/w300/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg", group-title= "VAN DAMME"
 https://www205.ff-01.com/token=iAdsjKOoC7ZgKuhh3XS74g/1634675899/45.172.0.0/20/2/0b/93004fb78ebce92dd9de87965b2fd0b2-720p.mp4
 
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= "VAN DAMME"
+#EXTINF:-1, tvg-name= "Ganar o Morir", tvg-logo= "https://image.tmdb.org/t/p/w185/mEaVFbxWMHWbG8IUcqIL5w1MnbQ.jpg", group-title= "VAN DAMME"
+https://v7.gomoplayer.com/vxoke7ahwkalavf4eraivjotqdsskwmhijyiqmc2ltisvvdfysnzscco37xa/v.mp4
 
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= "VAN DAMME"
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= "VAN DAMME"
+#EXTINF:-1, tvg-name= "En el ojo del huracan", tvg-logo= "https://i1.wp.com/image.tmdb.org/t/p/w154/hMYAo7LntDexzenySf1sWvZti1x.jpg", group-title= "VAN DAMME"
+https://s72.upstreamcdn.co/hls/w47rzammofbnx2nrozx2arnbj3m3s7ctuz6wapaa7uw5pujyh5impdbdvkvq/seg-8-v1-a1.ts
+
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= "VAN DAMME"
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= "VAN DAMME"
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= "VAN DAMME"
