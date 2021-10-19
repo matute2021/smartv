@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-name= "NO RETREAT NO SURRENDER" tvg-logo= "https://es.web.img3.acsta.net/c_310_420/pictures/210/544/21054484_20131031194127077.jpg", group-title= "VAN DAMME",
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/RETROCEDER%20NUNCA%20RENDIRSE%20JAMAS%201.mp4
 
 #EXTINF:-1, tvg-name= "REPLICANT" tvg-logo= "https://image.tmdb.org/t/p/w300/3oVs2AC7OH2gKeLZdWJr0VK6g4C.jpg", group-title= "VAN DAMME",
 http://dhakaftp.com/Data/Disk1/Hollywood/2000_2005/Replicant%20%282001%29/Replicant.2001.720p.BluRay.x264.YIFY.mp4
