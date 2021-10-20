@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-name= "La batalla olvidada" tvg-logo= "https://img.repelis.id/cover/de-slag-om-de-schelde-2-1634439963.jpg", group-title= "BELICA"
+https://cdn4.pelisplus.icu/www14/11aed7cce8364baac0ae1253a48bb8ab/EP.0.0.v0.full.mp4
 #EXTINF:-1, tvg-name= "Dios mío ¡los niños han vuelto!" tvg-logo= "https://img.repelis.id/cover/chacun-chez-soi-2-1634638223.jpg", group-title= "COMEDIA"
 https://cdn4.pelisplus.icu/www12/bb0a8914d5ff85ff649ba4f36308cf2f/EP.0.1.v0.full.mp4
 #EXTINF:-1, tvg-name= "Asalto A La Casa De Moneda (2021)" tvg-logo= "https://image.tmdb.org/t/p/w300/mNfCgIIPo1efV4ACRL1tqd5bLrd.jpg", group-title= "ACCION"
@@ -121,7 +123,7 @@ http://74.208.251.230/Contenido/Peliculas/Conciertos/Avril%20Lavigne%20-%20The%2
 http://74.208.251.230/Contenido/Peliculas/Conciertos/Aerosmith%20-%20Rocks%20Donington%202014.mkv
 #EXTINF:-1, tvg-name= "AC/DC LIVE AT RIVER PLATE" tvg-logo= "https://pics.filmaffinity.com/ac_dc_live_at_river_plate-152111993-mmed.jpg", group-title= "CONCIERTOS"
 http://74.208.251.230/Contenido/Peliculas/Conciertos/AC-DC%20-%20Live%20At%20River%20Plate%20(2011)%201080p%20HD.mkv
-#EXTINF:-1, tvg-name= "EL REY LEON (2019)" tvg-logo= "https://pics.filmaffinity.com/the_lion_king-356972018-mmed.jpg", group-title= "ANIMADA"
+#EXTINF:-1, tvg-name= "EL REY LEON (2019)" tvg-logo= "https://pics.filmaffinity.com/the_lion_king-356972018-mmed.jpg", group-title= "ANIMACION"
 http://51.77.66.14/El%20Rey%20Le%c3%b3n%20(2019)%20%20BDRIP%201080P%20Latino/El%20Rey%20Le%c3%b3n%20(2019)%20%20BDRIP%201080P%20Latino.mkv
 #EXTINF:-1, tvg-name= "6 EN LA SOMBRA" tvg-logo= "https://pics.filmaffinity.com/6_underground-411208949-mmed.jpg", group-title= "ACCION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/Copy%20of%206%20en%20la%20sombra%20(2019).%20HD%20720p%20latino.mkv
@@ -137,7 +139,7 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/Copy%20of%20A.wrinkle.in.time.2018.1080p.mp4
 #EXTINF:-1, tvg-name= "La jungla: Un buen día para morir" tvg-logo= "https://pics.filmaffinity.com/Duro_de_matar_Un_buen_d_a_para_morir-984630870-large.jpg", group-title= "ACCION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/Copy%20of%20A%20Good%20Day%20to%20Die%20Hard%20(2013)%20.mkv
-#EXTINF:-1, tvg-name= "Navidades con los Storybots (TV)" tvg-logo= "https://pics.filmaffinity.com/a_storybots_christmas_tv-213026971-mmed.jpg", group-title= "ANIMADA"
+#EXTINF:-1, tvg-name= "Navidades con los Storybots (TV)" tvg-logo= "https://pics.filmaffinity.com/a_storybots_christmas_tv-213026971-mmed.jpg", group-title= "ANIMACION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/Copy%20of%20A%20StoryBots%20Christmas%20(2017).mkv
 #EXTINF:-1, tvg-name= "Abraham Lincoln: Cazador de vampiros", tvg-logo= "https://pics.filmaffinity.com/abraham_lincoln_vampire_hunter-729791279-mmed.jpg", group-title= "ACCION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/Copy%20of%20Abraham.Lincoln.vampire.hunter.2012.latino-e-ingles-subt.mkv
@@ -161,11 +163,11 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/Copy%20of%20Allied.2016.1080p.mp4
 #EXTINF:-1, tvg-name= "Alpha", tvg-logo= "https://pics.filmaffinity.com/alpha-948694302-mmed.jpg", group-title= "AVENTURA"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/Copy%20of%20Alpha.2018.1080p.mp4
-#EXTINF:-1, tvg-name= "Alvin y las ardillas", tvg-logo= "https://pics.filmaffinity.com/alvin_and_the_chipmunks-386264480-mmed.jpg", group-title= "ANIMADA"
+#EXTINF:-1, tvg-name= "Alvin y las ardillas", tvg-logo= "https://pics.filmaffinity.com/alvin_and_the_chipmunks-386264480-mmed.jpg", group-title= "ANIMACION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/Copy%20of%20Alvin%20and%20the%20Chipmunks%20(2007).mkv
-#EXTINF:-1, tvg-name= "Alvin y las ardillas 3", tvg-logo= "https://pics.filmaffinity.com/alvin_and_the_chipmunks_chip_wrecked_alvin_and_the_chipmunks_3-832384115-mmed.jpg", group-title= "ANIMADA"
+#EXTINF:-1, tvg-name= "Alvin y las ardillas 3", tvg-logo= "https://pics.filmaffinity.com/alvin_and_the_chipmunks_chip_wrecked_alvin_and_the_chipmunks_3-832384115-mmed.jpg", group-title= "ANIMACION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/./Copy%20of%20Alvin%20and%20the%20Chipmunks:%20Chipwrecked%20(2011).mkv
-#EXTINF:-1,tvg-name= "Alvin y las ardillas 2", tvg-logo= "https://pics.filmaffinity.com/alvin_and_the_chipmunks_the_squeakquel_alvin_and_the_chipmunks_2-456763346-mmed.jpg", group-title= "ANIMADA"
+#EXTINF:-1,tvg-name= "Alvin y las ardillas 2", tvg-logo= "https://pics.filmaffinity.com/alvin_and_the_chipmunks_the_squeakquel_alvin_and_the_chipmunks_2-456763346-mmed.jpg", group-title= "ANIMACION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/./Copy%20of%20Alvin%20and%20the%20Chipmunks:%20The%20Squeakquel%20(2009).mkv
 #EXTINF:-1,tvg-name= "El Francotirador", tvg-logo= "https://pics.filmaffinity.com/american_sniper-943269662-mmed.jpg", group-title= "BELICO"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/Copy%20of%20American.sniper.2014-hd-dual-lat.mp4
