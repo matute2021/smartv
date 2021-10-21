@@ -537,8 +537,10 @@ http://51.77.66.14/Marvel/Thor/Thor%201.mkv
 http://51.77.66.14/Marvel/Thor/Thor%202%20-%20Un%20Mundo%20Oscuro.mkv
 #EXTINF:-1,tvg-name= "Thor 3 - Ragnarok", tvg-logo= "https://pics.filmaffinity.com/thor_ragnarok-115636540-mmed.jpg", group-title= "ACCION"
 http://51.77.66.14/Marvel/Thor/Thor%203%20-%20Ragnarok.mkv
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "La bella durmiente", tvg-logo= "https://pics.filmaffinity.com/disney_s_sleeping_beauty-586158571-mmed.jpg", group-title= "ANIMACION"
+http://www.hirubosi.asia/d1/d1_peliculas/la_bella_durmiente_1959_mpeg4.mp4
+#EXTINF:-1,tvg-name= "Titanic", tvg-logo= "https://pics.filmaffinity.com/titanic-321994924-mmed.jpg", group-title= "DRAMA"
+http://www.hirubosi.asia/d1/d1_peliculas/titanic1997.flv
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
