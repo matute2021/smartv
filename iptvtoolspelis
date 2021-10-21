@@ -491,8 +491,10 @@ http://74.208.251.230/Contenido/Peliculas/Aventura/9%20meses,%209%20dias.mp4
 http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/A%20Feral%20World.mp4
 #EXTINF:-1, tvg-name= "Atlantis", tvg-logo= "https://pics.filmaffinity.com/atlantis-242922701-mmed.jpg", group-title= "CIENCIA FICCION"2
 http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/Atlantis.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "Ghost Rider (Extended Version)", tvg-logo= "https://pics.filmaffinity.com/ghost_rider-857214601-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Ghost%20Rider/Ghost%20Rider%20(Extended%20Version).mkv
+#EXTINF:-1,tvg-name= "Ghost Rider 2 Espiritu de Venganza", tvg-logo= "https://pics.filmaffinity.com/ghost_rider_spirit_of_vengeance-539369169-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Ghost%20Rider/Ghost%20Rider%202%20Espiritu%20de%20Venganza.mkv
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
