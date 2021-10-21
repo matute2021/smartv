@@ -485,7 +485,7 @@ http://74.208.251.230/Contenido/Peliculas/Aventura/007:%20EN%20LA%20MIRA%20DE%20
 http://74.208.251.230/Contenido/Peliculas/Aventura/007:%20GOLDENEYE.mkv
 #EXTINF:-1, tvg-name= "Sólo para sus ojos", tvg-logo= "https://pics.filmaffinity.com/for_your_eyes_only_aka_james_bond_12-354552282-mmed.jpg", group-title= "AVENTURA"
 http://74.208.251.230/Contenido/Peliculas/Aventura/007:%20SOLO%20PARA%20TUS%20OJOS.mkv
-#EXTINF:-1, tvg-name= "9 meses, 9 días", tvg-logo= "https://pics.filmaffinity.com/9_meses_9_dias-229529817-mmed.jpg", group-title= "DOCUMENTAL"
+#EXTINF:-1, tvg-name= "9 meses, 9 días", tvg-logo= "https://pics.filmaffinity.com/9_meses_9_dias-229529817-mmed.jpg", group-title= "DOCUMENTALES"
 http://74.208.251.230/Contenido/Peliculas/Aventura/9%20meses,%209%20dias.mp4
 #EXTINF:-1, tvg-name= "A Feral World", tvg-logo= "https://pics.filmaffinity.com/a_feral_world-873245778-mmed.jpg", group-title= "CIENCIA FICCION"1
 http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/A%20Feral%20World.mp4
@@ -505,7 +505,7 @@ http://51.77.66.14/Marvel/Capitan%20America/Captain%20America%203%20-%20Guerra%2
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%201.mkv
 #EXTINF:-1,tvg-name= "Iron Man 2", tvg-logo= "https://pics.filmaffinity.com/iron_man_2-466103197-mmed.jpg", group-title= "ACCION"
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%202.mkv
-#EXTINF:-1,tvg-name= "Iron man 3", tvg-logo= "https://pics.filmaffinity.com/iron_man_3_aka_ironman_3-972235216-mmed.jpg", group-title= "ACCION" "MARVEL"
+#EXTINF:-1,tvg-name= "Iron man 3", tvg-logo= "https://pics.filmaffinity.com/iron_man_3_aka_ironman_3-972235216-mmed.jpg", group-title= "ACCION, MARVEL"
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%203.mkv
 #EXTINF:-1,tvg-name= "Cuatro fantásticos", tvg-logo= "https://pics.filmaffinity.com/fantastic_four_aka_4f-251705280-mmed.jpg", group-title= "ACCION"
 https://pics.filmaffinity.com/fant4stic_the_fantastic_four-220520546-mmed.jpg
@@ -543,7 +543,8 @@ http://www.hirubosi.asia/d1/d1_peliculas/la_bella_durmiente_1959_mpeg4.mp4
 http://www.hirubosi.asia/d1/d1_peliculas/titanic1997.flv
 #EXTINF:-1,tvg-name= "El libro de la selva. La aventura continúa", tvg-logo= "https://pics.filmaffinity.com/rudyard_kipling_s_the_jungle_book-307293293-mmed.jpg", group-title= "AVENTURA"
 http://www.hirubosi.asia/d1/d0_mkv/El%20Libro%20de%20la%20Selva%20-%20La%20Aventura%20Continua%20(1994)%20%5bPelicula%20Completa%5d%20Audio%20Castellano%20HD%20720p.MKV
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "Home", tvg-logo= "https://pics.filmaffinity.com/home-282370435-mmed.jpg", group-title= "DOCUMENTALES"
+http://www.hirubosi.asia/d1/DM/HOME_2009%20(ES)_Segment_0_mpeg4.mp4
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
