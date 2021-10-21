@@ -505,7 +505,7 @@ http://51.77.66.14/Marvel/Capitan%20America/Captain%20America%203%20-%20Guerra%2
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%201.mkv
 #EXTINF:-1,tvg-name= "Iron Man 2", tvg-logo= "https://pics.filmaffinity.com/iron_man_2-466103197-mmed.jpg", group-title= "ACCION"
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%202.mkv
-#EXTINF:-1,tvg-name= "Iron man 3", tvg-logo= "https://pics.filmaffinity.com/iron_man_3_aka_ironman_3-972235216-mmed.jpg", group-title= "ACCION, MARVEL"
+#EXTINF:-1,tvg-name= "Iron man 3", tvg-logo= "https://pics.filmaffinity.com/iron_man_3_aka_ironman_3-972235216-mmed.jpg", group-title= "ACCION",group-title= "MARVEL"
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%203.mkv
 #EXTINF:-1,tvg-name= "Cuatro fantásticos", tvg-logo= "https://pics.filmaffinity.com/fantastic_four_aka_4f-251705280-mmed.jpg", group-title= "ACCION"
 https://pics.filmaffinity.com/fant4stic_the_fantastic_four-220520546-mmed.jpg
