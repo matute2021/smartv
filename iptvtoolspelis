@@ -505,7 +505,7 @@ http://51.77.66.14/Marvel/Capitan%20America/Captain%20America%203%20-%20Guerra%2
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%201.mkv
 #EXTINF:-1,tvg-name= "Iron Man 2", tvg-logo= "https://pics.filmaffinity.com/iron_man_2-466103197-mmed.jpg", group-title= "ACCION"
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%202.mkv
-#EXTINF:-1,tvg-name= "Iron man 3", tvg-logo= "https://pics.filmaffinity.com/iron_man_3_aka_ironman_3-972235216-mmed.jpg", group-title= "ACCION", group-title= "MARVEL"
+#EXTINF:-1,tvg-name= "Iron man 3", tvg-logo= "https://pics.filmaffinity.com/iron_man_3_aka_ironman_3-972235216-mmed.jpg", group-title= "ACCION" group-title= "MARVEL"
 http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%203.mkv
 #EXTINF:-1,tvg-name= "Cuatro fantásticos", tvg-logo= "https://pics.filmaffinity.com/fant4stic_the_fantastic_four-220520546-mmed.jpg", group-title= "ACCION"
 http://51.77.66.14/Marvel/Los%204%20Fantasticos/Los%204%20Fantasticos%20(2015).mkv
@@ -545,7 +545,8 @@ http://www.hirubosi.asia/d1/d1_peliculas/titanic1997.flv
 http://www.hirubosi.asia/d1/d0_mkv/El%20Libro%20de%20la%20Selva%20-%20La%20Aventura%20Continua%20(1994)%20%5bPelicula%20Completa%5d%20Audio%20Castellano%20HD%20720p.MKV
 #EXTINF:-1,tvg-name= "Home", tvg-logo= "https://pics.filmaffinity.com/home-282370435-mmed.jpg", group-title= "DOCUMENTALES"
 http://www.hirubosi.asia/d1/DM/HOME_2009%20(ES)_Segment_0_mpeg4.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "Cruella", tvg-logo= "https://pics.filmaffinity.com/cruella-196211257-mmed.jpg", group-title= "COMEDIA"
+http://37.187.20.239/%5b1080p%5d%20Cruella%20(2021)%20WEB-DL%20Dual%20Audio.mkv
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
