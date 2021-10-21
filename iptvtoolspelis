@@ -501,15 +501,24 @@ http://51.77.66.14/Marvel/Capitan%20America/Capitan%20America%201.mkv
 http://51.77.66.14/Marvel/Capitan%20America/Capitan%20America%202%20-%20El%20Soldado%20del%20Invierno.mkv
 #EXTINF:-1,tvg-name= "Captain America 3 - Guerra Civil", tvg-logo= "https://pics.filmaffinity.com/captain_america_civil_war_aka_captain_america_3-298011137-mmed.jpg", group-title= "ACCION"
 http://51.77.66.14/Marvel/Capitan%20America/Captain%20America%203%20-%20Guerra%20Civil.mkv
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "Iron Man", tvg-logo= "https://pics.filmaffinity.com/iron_man-108960873-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%201.mkv
+#EXTINF:-1,tvg-name= "Iron Man 2", tvg-logo= "https://pics.filmaffinity.com/iron_man_2-466103197-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%202.mkv
+#EXTINF:-1,tvg-name= "Iron man 3", tvg-logo= "https://pics.filmaffinity.com/iron_man_3_aka_ironman_3-972235216-mmed.jpg", group-title= "ACCION" "MARVEL"
+http://51.77.66.14/Marvel/Iron%20Man/Iron%20Man%203.mkv
+#EXTINF:-1,tvg-name= "Cuatro fantásticos", tvg-logo= "https://pics.filmaffinity.com/fantastic_four_aka_4f-251705280-mmed.jpg", group-title= "ACCION"
+https://pics.filmaffinity.com/fant4stic_the_fantastic_four-220520546-mmed.jpg
+#EXTINF:-1,tvg-name= "Los 4 fantasticos", tvg-logo= "https://pics.filmaffinity.com/fantastic_four_aka_4f-251705280-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Los%204%20Fantasticos/Los%204%20Fantasticos.mkv
+#EXTINF:-1,tvg-name= "Los 4 fantásticos y Silver Surfer", tvg-logo= "https://pics.filmaffinity.com/4_rise_of_the_silver_surfer_aka_fantastic_four_2_rise_of_the_silver_surfer-226829073-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Los%204%20Fantasticos/Los%204%20Fantasticos%202%20y%20Silver%20Surfer.mkv
+#EXTINF:-1,tvg-name= "Los Vengadores", tvg-logo= "https://pics.filmaffinity.com/the_avengers-439499921-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Los%20Vengadores/Los%20Vengadores%201.mkv
+#EXTINF:-1,tvg-name= "Vengadores: La era de Ultrón", tvg-logo= "https://pics.filmaffinity.com/avengers_age_of_ultron_the_avengers_2-182285335-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Los%20Vengadores/Los%20Vengadores%202%20-%20Era%20de%20Ultron.mkv
+#EXTINF:-1,tvg-name= "Vengadores: Infinity War", tvg-logo= "https://pics.filmaffinity.com/avengers_infinity_war-181539353-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Los%20Vengadores/Los%20Vengadores%203%20-%20Infinity%20War.mkv
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
