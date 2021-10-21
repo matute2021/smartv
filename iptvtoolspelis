@@ -477,7 +477,16 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/NO%20DORMIR%c3%81
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/Ver%20Bienvenidos%20a%20Zombieland%20Online%20(2009)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
 #EXTINF:-1, tvg-name= "Saw VI", tvg-logo= "https://pics.filmaffinity.com/saw_vi_saw_6-934859816-mmed.jpg", group-title= "TERROR"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/TERROR/saw6.mp4
-
+#EXTINF:-1, tvg-name= "¡Shazam!", tvg-logo= "https://pics.filmaffinity.com/shazam-241782614-mmed.jpg", group-title= "AVENTURA"
+http://74.208.251.230/Contenido/Peliculas/Aventura/%c2%a1Shazam!.mp4
+#EXTINF:-1, tvg-name= "007: En la mira de los asesinos", tvg-logo= "https://http2.mlstatic.com/D_NQ_NP_940995-MLA26121715453_102017-O.webp", group-title= "AVENTURA"
+http://74.208.251.230/Contenido/Peliculas/Aventura/007:%20EN%20LA%20MIRA%20DE%20LOS%20ASESINOS.mkv
+#EXTINF:-1, tvg-name= "Goldeneye", tvg-logo= "https://pics.filmaffinity.com/goldeneye-134170799-mmed.jpg", group-title= "AVENTURA"
+http://74.208.251.230/Contenido/Peliculas/Aventura/007:%20GOLDENEYE.mkv
+#EXTINF:-1, tvg-name= "Sólo para sus ojos", tvg-logo= "https://pics.filmaffinity.com/for_your_eyes_only_aka_james_bond_12-354552282-mmed.jpg", group-title= "AVENTURA"
+http://74.208.251.230/Contenido/Peliculas/Aventura/007:%20SOLO%20PARA%20TUS%20OJOS.mkv
+#EXTINF:-1, tvg-name= "9 meses, 9 días", tvg-logo= "https://pics.filmaffinity.com/9_meses_9_dias-229529817-mmed.jpg", group-title= "DOCUMENTAL"
+http://74.208.251.230/Contenido/Peliculas/Aventura/9%20meses,%209%20dias.mp4
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
