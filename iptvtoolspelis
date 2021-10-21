@@ -519,6 +519,35 @@ http://51.77.66.14/Marvel/Los%20Vengadores/Los%20Vengadores%201.mkv
 http://51.77.66.14/Marvel/Los%20Vengadores/Los%20Vengadores%202%20-%20Era%20de%20Ultron.mkv
 #EXTINF:-1,tvg-name= "Vengadores: Infinity War", tvg-logo= "https://pics.filmaffinity.com/avengers_infinity_war-181539353-mmed.jpg", group-title= "ACCION"
 http://51.77.66.14/Marvel/Los%20Vengadores/Los%20Vengadores%203%20-%20Infinity%20War.mkv
+#EXTINF:-1,tvg-name= "The Amazing Spider-Man", tvg-logo= "https://pics.filmaffinity.com/the_amazing_spider_man_the_amazing_spiderman-672391099-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Spider-Man/El%20Sorprendente%20Hombre%20Ara%c3%b1a%201.mkv
+#EXTINF:-1,tvg-name= "The Amazing Spider-Man 2: El poder de Electro", tvg-logo= "https://pics.filmaffinity.com/the_amazing_spider_man_2_rise_of_electro_aka_the_amazing_spiderman_2-715327272-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Spider-Man/El%20Sorprendente%20Hombre%20Ara%c3%b1a%202%20-%20La%20Venganza%20de%20Electro.mkv
+#EXTINF:-1,tvg-name= "Spider-Man: Homecoming", tvg-logo= "https://pics.filmaffinity.com/spider_man_homecoming-336093112-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Spider-Man/Spider-Man%20-%20De%20Regreso%20a%20Casa.mkv
+#EXTINF:-1,tvg-name= "Spiderman", tvg-logo= "https://pics.filmaffinity.com/spider_man_spiderman-945131720-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Spider-Man/Spider-Man%201.mkv
+#EXTINF:-1,tvg-name= "Spiderman 2", tvg-logo= "https://pics.filmaffinity.com/spider_man_2_spiderman_2-876729560-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Spider-Man/Spider-Man%202.mkv
+#EXTINF:-1,tvg-name= "Spiderman 3", tvg-logo= "https://pics.filmaffinity.com/spider_man_3_spiderman_3-381165300-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Spider-Man/Spider-Man%203.mkv
+#EXTINF:-1,tvg-name= "Thor", tvg-logo= "https://pics.filmaffinity.com/thor-223512549-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Thor/Thor%201.mkv
+#EXTINF:-1,tvg-name= "Thor: El mundo oscuro", tvg-logo= "https://pics.filmaffinity.com/thor_the_dark_world-763570829-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Thor/Thor%202%20-%20Un%20Mundo%20Oscuro.mkv
+#EXTINF:-1,tvg-name= "Thor 3 - Ragnarok", tvg-logo= "https://pics.filmaffinity.com/thor_ragnarok-115636540-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Thor/Thor%203%20-%20Ragnarok.mkv
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
