@@ -487,6 +487,10 @@ http://74.208.251.230/Contenido/Peliculas/Aventura/007:%20GOLDENEYE.mkv
 http://74.208.251.230/Contenido/Peliculas/Aventura/007:%20SOLO%20PARA%20TUS%20OJOS.mkv
 #EXTINF:-1, tvg-name= "9 meses, 9 días", tvg-logo= "https://pics.filmaffinity.com/9_meses_9_dias-229529817-mmed.jpg", group-title= "DOCUMENTAL"
 http://74.208.251.230/Contenido/Peliculas/Aventura/9%20meses,%209%20dias.mp4
+#EXTINF:-1, tvg-name= "A Feral World", tvg-logo= "https://pics.filmaffinity.com/a_feral_world-873245778-mmed.jpg", group-title= "CIENCIA FICCION"1
+http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/A%20Feral%20World.mp4
+#EXTINF:-1, tvg-name= "Atlantis", tvg-logo= "https://pics.filmaffinity.com/atlantis-242922701-mmed.jpg", group-title= "CIENCIA FICCION"2
+http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/Atlantis.mp4
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
