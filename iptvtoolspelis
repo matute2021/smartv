@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "La protegida (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/9tKazNaH5RAtP9kmUAt9ou5QW1f.jpg", group-title= "ACCION"
+https://pr43.sbcdnvideo.com/hls/tysxe6mlbs66j6cdaclrbx2wfhbztswnpuuwfmf62622nolovh33opzx2kyq/index-v1-a1.m3u8
+#EXTINF:-1,tvg-name= "Aqui me encuentro (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/eEx8zrZyN6fiRBTsxKYWWCmwJ9e.jpg", group-title= "DOCUMENTALES"
+https://www1196.ff-03.com/token=_KCGPqeu2bwljhJLJJb8_Q/1635030667/45.172.0.0/179/9/33/2c673366132ec27db71c567a82611339-1080p.mp4
+#EXTINF:-1, tvg-name= "Fauces de la noche (2021)" tvg-logo= "https://image.tmdb.org/t/p/w300/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg", group-title= "TERROR"
+https://pr49.sbcdnvideo.com/hls/tysxfbszbw66j6cdacvbbxcbo3h7idimekpa5yld2,uqxx4qeur6mfswn55va,5vxx4qeur6h4czfjiya,huxv4qeur6jrdlbc43a,.urlset/master.m3u8
 #EXTINF:-1, tvg-name= "La batalla olvidada" tvg-logo= "https://img.repelis.id/cover/de-slag-om-de-schelde-2-1634439963.jpg", group-title= "BELICO"
 https://cdn4.pelisplus.icu/www14/11aed7cce8364baac0ae1253a48bb8ab/EP.0.0.v0.full.mp4
 #EXTINF:-1, tvg-name= "Dios mío ¡los niños han vuelto!" tvg-logo= "https://img.repelis.id/cover/chacun-chez-soi-2-1634638223.jpg", group-title= "COMEDIA"
