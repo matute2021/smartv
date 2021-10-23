@@ -34,7 +34,7 @@ https://televisionlibre.net/?jwsource=cl
 https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvIEx_O2USX9z-tjDlqrUSEERkkwdALK6ImWmd7YmYqgUA1hcZ8GK8LzJk6HFHB3OOQvFiZQL-78HDKPZDwW5FUMhgL_F2g71h-u6tnvTZFhTDDBpfviBcU3yZZOcyIQ92qiAQ-6igjPz7j-vNqfJum7rBVA7UknO1nKV3KSmWOFseu8l3xzHo1BydypzGHwPZU8FV-rsEexmWQIkItRkbDA9NvvBehRi9fN7yOQBwGHLIzNDuGuyX3msXr_vYCtePiQnjcTrpPXBgIMN8agsYKO3hzjs6ZC8TyK287HAR9vgKbhYw5s82bq5b4OWGkxKhz0UnN7z15YK6TAdrL8ESwrk6u2EnOWyhdegUNQckt0OXRnNKvdnZSij-yUFq20oUmtyy0fhftXMmtPYGX4CppXXnZGHOfsTPPkpl8yshwtmR5wrm80Z6opLBV2r2uln_kVJoiO_zBfVMtI3D31Ysb8VvH-Pps98xCU4ruUHNNr75FiSUOomaaxB5OEODZD82pkCYxKhqGr-I48zi792rlmtmI8MiuDEakk_eJ7NFK6OOiD_tP0IjwHhYHs9Wi1DbHn8qkCCLMrc4PN7BGpf0I0SO7mX7-gQaDYWCvg-onKvkmlRvqg2F8b-9NQPXoyCBxIDSi-BDHG69qs8Hhk029BKdGNh8eVkSYiNKI02RWt5ZyamXvrPyBIRk7q7vlV3e4BRuinrDr85fkf8tYTnGsJ7nKaA0aEzijIa0vLXMP5oXJWNnWDmzpPQFemxYbRAe5w1Bae0zQyEpq6JVkLngK7o3uAULvKbKImMYkwe85XxE7P3d8DiG8kUOjb1sXytyhoMdYaDCACwCS5ejcPHYIsdCABKglldS13ZXN0LTIwiAI.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://futbollibre.net/img/logo-canal/ESPN.webp" group-title="DEPORTE", ESPN
-https://akamai2-br.cdn.booyah.live/hls/1500036/79691263.m3u8
+https://edge02-fdo-py.cvattv.com.ar//live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
 
 #EXTINF:-1 tvg-id="3" tvg-logo="https://futbollibre.net/img/logo-canal/Fox_Sports.webp" group-title="DEPORTE", FOX SPORT EU
 http://init.cheches.info/hls/105.m3u8
