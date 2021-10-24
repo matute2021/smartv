@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1,tvg-name= "Godzilla vs. Kong", tvg-logo= "https://pics.filmaffinity.com/godzilla_vs_kong-370227109-mmed.jpg", group-title= "ACCION"
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Godzilla%20Vs%20Kong%20(2021)%20%5b1080P%20Hmax%20Web-DL%5d%20Placebo.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1,tvg-name= "Mortal Kombat", tvg-logo= "https://pics.filmaffinity.com/mortal_kombat-245960455-mmed.jpg", group-title= "ACCION"
@@ -80,15 +81,15 @@ https://pr4.sbcdnvideo.com/hls/tysxeclnmw66j6cdadrbdtiiggu6rfvde4p6cpni3wt36jyhq
 #EXTINF:-1, tvg-name= "No respires (2016)" tvg-logo= "https://image.tmdb.org/t/p/w300/kkUMGON2uFRlxI3zIMFdjqARnbb.jpg", group-title= "SUSPENSO"
 https://www10.sbcdnvideo.com/hls/tysxemshxo66j6cdabib7sicgfus5csz5kmgsa2xdigyt24fwr4g5yvr6jiq/index-v1-a1.m3u8
 #EXTINF:-1, tvg-name= "No respires 2 (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt6246322.jpg", group-title= "SUSPENSO"
-https://pr23.sbcdnvideo.com/hls/tysxeuq5ng66j6cdaa7bdxkheg4vx2hxs2n3lrarrfg3dzyrthfcqnl7o7ga/index-v1-a1.m3u8
+http://201.172.61.203:88/Peliculas/jul%20agos/no%20respires%202.mp4
 #EXTINF:-1, tvg-name= "Mortal Kombat Legends: Battle of the Realms" tvg-logo= "https://image.tmdb.org/t/p/w185/ablrE8IbWcIrAxMmm4gnPn75AMS.jpg", group-title= "ANIMACION"
 https://pr18.sbcdnvideo.com/hls/tysxfmh5n666j6cdaaurdhcxoxsg2r7ncf7q2lgrpesgummrbv5544cvomja/index-v1-a1.m3u8
 #EXTINF:-1, tvg-name= "Paw Patrol: La película (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/08/tt11832046.jpg", group-title= "ANIMACION"
 https://pr3.sbcdnvideo.com/hls/tysxfxruo266j6cdadbrbhyhoyxt22r6hlfpewkihcu6td6q4gv2gc5r53kq/index-v1-a1.m3u8
 #EXTINF:-1, tvg-name= "Reminiscencia (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/08/tt3272066.jpg", group-title= "SUSPENSO"
-https://pr6.sbcdnvideo.com/hls/tysxfjl2k266j6cdacwb5tkfffbf5h6cxvir462nbh32ovaxr7fbgakjstda/index-v1-a1.m3u8
+http://201.172.61.203:88/Peliculas/jul%20agos/Reminiscencia%20(2021.mp4
 #EXTINF:-1, tvg-name= "Stillwater (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/08/tt10696896.jpg", group-title= "SUSPENSO"
-https://pr6.sbcdnvideo.com/hls/tysxfjl2k266j6cdacwb5tkfffbf5h6cxvir462nbh32ovaxr7fbgakjstda/index-v1-a1.m3u8
+http://201.172.61.203:88/Peliculas/jul%20agos/Cuestion%20De%20sangre%20(2021).mp4
 #EXTINF:-1, tvg-name= "Good Joe Bell (2020)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/08/tt4651466.jpg", group-title= "DRAMA"
 https://cdn-01.cloudvideo.tv/hls/,mfqjqvfatho6sr7qw4ce56ck4devaofl4ucrnfezooii5cqv5rauvovzecoa,.urlset/master.m3u8
 #EXTINF:-1, tvg-name= "El escuadrón suicida (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/08/tt6334354.jpg", group-title= "ACCION"
@@ -106,11 +107,11 @@ https://celia.evosrv.com/EvoStreams/Ogx60C6ef9Al9pbfPOwv.mp4
 #EXTINF:-1, tvg-name= "La calle del terror (Parte 3): 1666 (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt9701942.jpg", group-title= "TERROR"
 https://cdn-131.anonfiles.com/zcA7g476ue/59d4388e-1634679473/Fear.Street.Part.3.1666.2021-MDT.mp4-h264_720p.mp4
 #EXTINF:-1, tvg-name= "Space Jam 2: Una nueva era (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt3554046.jpg", group-title= "ANIMACION"
-https://download2279.mediafire.com/e01p6jyuc7yg/4ashv40aiybbr4u/Space.Jam.A.New.Legacy.2021-MDT-LA.mp4
+http://201.172.61.203:88/Peliculas/jul%20agos/Space%20Jam%20-%20A%20New%20Legacy%20(2021).mp4
 #EXTINF:-1, tvg-name= "Gunpowder Milkshake (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt8368408.jpg", group-title= "ACCION"
 https://s14.hdvid.tv/uirokz5wva4swchrlmvhphkchdv5albamsfdwukl63vosm4k4xgmbxsonfka/v.mp4
 #EXTINF:-1, tvg-name= "Duro de cuidar 2 (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt8385148.jpg", group-title= "ACCION"
-https://pr4.sbcdnvideo.com/hls/tysxfcp2l666j6cdaddr5gsbok5nxhyosaiegffk4tv7tnp4eyz2se4hy47q/index-v1-a1.m3u8
+http://201.172.61.203:88/Peliculas/mkv/duro%20de%20cuidar%202.mp4
 #EXTINF:-1, tvg-name= "Settlers (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt9373688.jpg", group-title= "SUSPENSO"
 https://s3.hdvid.tv/uirokx3qve4swchrlmvhprifokjksevjsfs44gn7vkv2ctc36ykw42yvheqq/v.mp4
 #EXTINF:-1, tvg-name= "Werewolves Within (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt9288692.jpg", group-title= "COMEDIA"
@@ -120,7 +121,7 @@ https://s14.hdvid.tv/uirol53yve4swchrlmvhpsigmm4bau4u5uvnwnjbscu2lveuoa3otqcsvqm
 #EXTINF:-1, tvg-name= "Ni un paso en falso (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt11525644.jpg", group-title= "DRAMA"
 https://pelistop.co/embed-57p3qlj0d7vo.html
 #EXTINF:-1, tvg-name= "Un lugar en silencio: Parte II (2020)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/06/tt8332922.jpg", group-title= "SUSPENSO"
-https://pelistop.co/embed-ockan7g40v6m
+http://201.172.61.203:88/Peliculas/jul%20agos/A%20Quiet%20Place%20Part%20II%20(2021)%20%5b1080p%20AMZN%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1, tvg-name= "My Son (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt13234058.jpg", group-title= "SUSPENSO"
 https://s5.hdvid.tv/uirolbu5va4swchrlm3hprkwnig2btrrezjegv64kjomf26y2ngfwyg7jeda/v.mp4
 #EXTINF:-1, tvg-name= "CRY MACHO" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt1924245.jpg", group-title= "DRAMA"
@@ -567,10 +568,14 @@ http://www.hirubosi.asia/d1/d0_mkv/El%20Libro%20de%20la%20Selva%20-%20La%20Avent
 http://www.hirubosi.asia/d1/DM/HOME_2009%20(ES)_Segment_0_mpeg4.mp4
 #EXTINF:-1,tvg-name= "Cruella", tvg-logo= "https://pics.filmaffinity.com/cruella-196211257-mmed.jpg", group-title= "COMEDIA"
 http://37.187.20.239/%5b1080p%5d%20Cruella%20(2021)%20WEB-DL%20Dual%20Audio.mkv
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "Amigos pasajeros", tvg-logo= "https://pics.filmaffinity.com/vacation_friends-156345908-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/jul%20agos/Amigos%20de%20las%20vacaciones.mp4
+#EXTINF:-1,tvg-name= "Aquel verano", tvg-logo= "https://pics.filmaffinity.com/gecen_yaz-459959282-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/jul%20agos/Aquel.verano.2021.WEBDL.1080p.Latino.PGD..mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Crazy Fist (2021)", tvg-logo= "https://pics.filmaffinity.com/crazy_fist-415037970-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/jul%20agos/Crazy%20Fist%20(2021).mp4
+#EXTINF:-1,tvg-name= "Un destello en la niebla", tvg-logo= "https://ver2.cuevana3.live/cdn/poze/un-destello-en-la-niebla-2021.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/jul%20agos/Destello.en.la.niebla.2020.1080p.Latino.PGD..mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
