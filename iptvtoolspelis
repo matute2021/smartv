@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "Kung Fu Panda 2", tvg-logo= "https://image.tmdb.org/t/p/w300/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg", group-title= "ANIMACION"
+https://www205.ff-01.com/token=iAdsjKOoC7ZgKuhh3XS74g/1634675899/45.172.0.0/20/2/0b/93004fb78ebce92dd9de87965b2fd0b2-720p.mp4
+#EXTINF:-1, tvg-name= "Kung Fu Panda 3", tvg-logo= "https://image.tmdb.org/t/p/w300/joSDeRRYoNLbuSPw7SDAfBogZdH.jpg", group-title= "ANIMACION"
+https://www1632.ff-04.com/token=w0f7l9IGfPb8HE102_eZGQ/1634673843/45.172.0.0/18/0/0d/d14b726747a7aee08f0ab3e10d89c0d0-1080p.mp4
 #EXTINF:-1,tvg-name= "Warning (2021)", tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt8956324.jpg", group-title= "SUSPENSO"
 https://onxtra.megaupload.to/hls/4ib56wpfeui7bh3jeosqkofhfdf6ewqt6uozfhnlyncii22tq4sjqdzdevaq/index-v1-a1.m3u8
 #EXTINF:-1,tvg-name= "Pokémon: Los secretos de la selva (2020)", tvg-logo= "https://image.tmdb.org/t/p/w300/r6FMNFl4mAnwFC5vgAGi2acmQlC.jpg", group-title= "ANIMACION"
