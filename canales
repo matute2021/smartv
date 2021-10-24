@@ -9,9 +9,11 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 #EXTINF:-1 tvg-id="TYC SPORT" tvg-country="AR" tvg-language="Spanish" tvg-name="TYC SPORT" tvg-logo="https://futbollibre.net/img/logo-canal/TYC_Sports.webp?" group-title="Deportes", TYC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
-#EXTINF:-1 tvg-id="AS ARENA" tvg-country="MS" tvg-language="EN" tvg-name="ASTRO ARENA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Astro_Arena_2015.png/revision/latest/scale-to-width-down/250?cb=20180622080932" group-title="Deportes",ASTRO ARENA
+#EXTINF:-1 tvg-id="AS ARENA" tvg-country="MS" tvg-language="English" tvg-name="ASTRO ARENA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Astro_Arena_2015.png/revision/latest/scale-to-width-down/250?cb=20180622080932" group-title="Deportes",ASTRO ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO" tvg-country="US" tvg-language="English" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="Cine", HBO
 https://gratismkctv.net/film/hbo.m3u8
 
+#EXTINF:-1 tvg-id="ANPL" tvg-country="US" tvg-language="English" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="Cultura",ANIMAL PLANET
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8  
