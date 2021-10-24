@@ -1,94 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://televisionlibre.net/img/logo_canal/Space.png" group-title="CINE", Space
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvQE5M03fX36T1yhNHv4eGk45TlBGkV6-u3rAkpEjeCnvlV1jPSOeIpWMuYBS4gXJy7gnLKuVSvXVzs6TjIU0SaeYGSzRKF9xj1WYqUxXHUOUzrJgqWPj3uQtxzsSk0CGZONno3hAbmCW7wafgOwEfbA9ZhY95iD8iZGXckwZbu6qF1nGLfgk5D0SYSB2DU1ZkKchXwXmDEC6xPahGwvfl3EyEznBgTEf9sr8YczOMKHMpaFwXt71Vkk_kUeIMeeIB2mzuYaNJSkpDKgf9NS6tsdtcDmWWUkxTL-7NxsC2TGKFfqNmIIN7sQhXxtYK3hzfq8xL53yiRuhr9qwAnPG8Jd2-mtNoRByGPKzbjziBocp75QleXRQ7uqwQyj3cNzohbTeH-s0m_YIo38GP5o-zl9L7tZ1LpMVV46d1jLS3ILdwzM4T-6D_ZlM_Z7KoeN4r9Zv1lZQ4-s7b2wurUSJY01pLFifhORnKIid0b0HAfFs61mYGCgaGfnEaLv9c-iX7GTgj-W4iuBkC6Oh7bzSN7UuZ5YouCz6QfD4hagI0ZhKQ6K2fVpCa2DkwaGKv0-eOvUW-jJO2a05gB4s27yt81B734mH1QpfjieQO9vk8g78XtHaZRXch6MzQLKL950etdKzL17_oLrcNBPx9JG7LXStM3lpKlIr-eIvtMDUSjzrQNq69eWUH1COlx2NVdRrHGstKI6X1ZM5UDs0rlj9KHH1y3Sk3lQT8Ig3Fo45y_3bKRUBquQC1eYtpVIUMg74PanMA474TlFnWJ3kwGtWxt97p6GGgYfakGcmcvLrEBGbu4ltUxp9NSnfWabYSgknuuQRXgqFRoMR7IWD89eElAKTC0lIAEqCWV1LXdlc3QtMjCIAg.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-country="US" tvg-language="English" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/200px-HGTV_US_Logo_2015.svg.png" group-title="Cultura",HGTV HD
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://televisionlibre.net/img/logo_canal/TNT.png" group-title="CINE", TNT
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvUEF-I3jnXNZCwlDwvN3c5_tjryw52Tkb5oRyr6rXiKjRJkiqAhhJpE3eBC14GlriUKmH0OC70wv_aYC3pUeD1MkE6DqBUKccFoq4bPOi1UsjysNZ_iS3gRp9Osd0nVxHxNAspss3ltOYOT6-9KJPFIs6vctoRQQSXrGTT8tHR9bRkLUjUvhyx-ceA_sMhiM5Mw_pshRDR6WEx0ICNZNofOjCajDTDLk9lvsLMJUwcKwbaHL3AKA4mclnZr_YQg7wv9XcHBMtvCK92JKmiOIs6MkRESCxLG6VhvSiVhHbucDtZLwOrwM8LHV-VkIj7n_N4hTixy3NOd2npzf5n6Mbq3KYlCilxFKtXf1Aq14WhlpBds7uj8v3Y6HmgQg2kwOWzKUWp8jZmAN3Ns5szkqQpM9x6EvZLdmZzGYGDVaXDkPP6ujTQeowe_qbYe3mhCVAmQqswUt5OU2NRm92ed_4eBuV-lbju_cLI6sfOkMzOHePTrVk4wQBtKII6rMGot_NLioUiUw7vbZDve_qBMLaRCOIQNfs954pC7R-I1L_wtrrVTR1xxPoGAPB_T3dHt19E1FSRYeF8byUFKN44YciIN7Ns6qcMNCycHwA5VgQ9bdbzZlsN1Tj5Bar3gWnmc73c6IbVLlcm6DVIeSCaeIVAB0Qirmb1-o_PrB_5zJvR4IHROMH_YPmF5qVsX8gsJl_hovUNVkJMnR9MybMjWKNwhp_mm3GfgWWLTce_p_P69yysobFJSn7_8mez6owc8eUR3--skdLmQmO2heLIhNNn4X9Y0Ez_QcyboZGRhvlMcGy4Ef2BPYrRw2R-iTdqAbIVHM8dcVaoaDChTCYhGbPfSUXZjOiABKglldS13ZXN0LTIwiAI.m3u8
+#EXTINF:-1 tvg-id="NTGEO" tvg-country="US" tvg-language="English" tvg-name="NAT GEO WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/175px-National_Geographic_Wild_logo.svg.png" group-title="Cultura", NATGEO WILD HD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://televisionlibre.net/img/logo_canal/TNT_Series.png" group-title="CINE", TNT Series
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvEEWgytwnVGWvhCtARw9vQREk4tGiaQfmgoleiVaaZQmTubo6kO4OJLG_mWnP_ZOys9TcruZXstdBY51rekVy8xim0b1efjCbZWtl-jtOAoAkb5tNBP7yKMPvIPx8aVzCKPorPZzQHGz5D9ItISJFMTHnN2aCWXaVywlChFUP7yx643pIB-tU-f8QWQk0dp9ECxgVSgWfY3PMiKrvgx8X6QOqbV9XCZmSF1O4AAMXDUr9m2k9EolIWyniDI5vCe2E-m_B8pi0ee5JPZh-tIm2bCuT9_-s000MDSGITfnnFvlkUgfN2D-MM7OSy72RDIwefNQj6lpK5F8i00F53ATQAqmkF-dS8I9EIGXERGP3vvpv1E6ShN1qGe2UwGlnhH9Jt2P7Ue0NSmLr78QZMF6QkB0tGKNJPPae5LBYr2nH2o-KvOANimLTB7L-91ihNeJELxI9VvyX76fNbxuRdZ4F8vw7OMVxBKdFvd5F-zN24eDjeYQwqPx6u_J_sO8LTEw-O0ZUalogbVHzJeZI8TR8ue7gZaKID6HkeHXayBT32Lh_doCx5bfKHZL7f4JDFQgXvuFOHYYqOoC-qJ2I5jrvhC5FcYFC2VZxkxNUyAo-PK0gdv3Gk73lCg2L6pJgWHyuIH2hsWu2wgkGS1vGlzj6K7FUzhUxdoZQKG9Ky4tIoKsgTTCLfgZfB3cxaqHADX437M7RxktZBzNWlZpnG2Vn-Vqr9A3rbuDx3e0tPjRNI9HDSwGYWiR59aI5xOU2SRRc_2F80ED-A38xTUq3xNKZwwfi8_FRX8emkbIVnuGlDy8NuL6qHawrbxjT_-AQ9zGkdLQBoMGaIRqPFa3hDEZWGeIAEqCWV1LXdlc3QtMjCIAg.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-logo="https://www.sintelevisionhd.com/img/cinemax.png" group-title="CINE", CINEMAX
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvMEbNlOXvZGB43GpsG3OT8FWC8EzLGK7Ml6Ot4ogYck7mvO5i5by4SunoLdG-ocGZ6ENQzsM_K5qj5yqyZ_uoC_aCFRD4tf_caEZBeJ1zMLgp59qTrubd9g-twFFMR2S-HPckJln8ekKbxDQ0Cv1DYDbiiZkvS3P7tDJ1l9s0IS1Yky0PAlt5TOCRu19Vz7mq88WTMG4og0eSzHIqeVK88DjqtmBnd2aYwEWh9A7H2Fx_sRIc-GYhA3eIUCpC3TmmfUpPH9LOgInid9dZHX8Z7373rHaGQiEonC4S451tls8jtCuEQ3XsJznsnqVAo04oA-j2FV67Ezxo7H9RknOOIeqUYiEBhqrTWWDt9dctBb4se2iRbC9eW5Lm5PZipKKfgFbhpccSJ17OBe2OtE3oE84QegkD4ajz_xMHPYmcA7H5MzL8O0k6jS6mKGMFZipHu1wsVhs_wT3BkmsuGsO91TgSAGeRIjplNm4JyP8N8l8rumpfVfqGGH-bKorWuLE872fhV9WHPIOCLv-TXlfUQAFzwe3OYGPzL9MBUpEO_T16XMnC5tP80BYgtoGKDD9HgnqIVTncuK0FdCoHM62ACW-6pzPDIwG5lrT9fxx6r4ySqdTU1xOWjhPjn9sj9cJlTct0RNYSU3AlOt9z2KQyNfc8U_e9jQfsiTpmPppa1uoE2dHvUPUvdgy1x_t_TrvQorl-VWJqOkLiwq_eAMTdtaVOPkEfGy27ZIGVELo2M43lKEYMwwh9Z12adTy_K_b5FZtWliHxaN2xH2sQddb9EPMVHjoS2aBJsOK4XQsOSCgdf2-ILaBMNxPne5sI-QA6TM54NuGgwXWY7EKz4vrk-vMtMgASoJZXUtd2VzdC0yMIgC.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://futbollibre.net/img/logo-canal/TYC_Sports.webp?" group-title="DEPORTE", TYC SPORT
+#EXTINF:-1 tvg-id="TYC SPORT" tvg-country="AR" tvg-language="Spanish" tvg-name="TYC SPORT" tvg-logo="https://futbollibre.net/img/logo-canal/TYC_Sports.webp?" group-title="Deportes", TYC SPORTS
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-
-#EXTINF:-1 tvg-id="5" tvg-logo="https://www.sintelevisionhd.com/img/axn.png" group-title="CINE", AXN
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvIE2sDl0IOzH--cji3-swNKx8C7fToKR8MSAODFnjO0TH5TCOQPZmS-K1FauKvGhuKJAA610OuEcomloQXzutvn_eDKZh4_wpW56ccia7ODV7cdxWkgeWpBed_jE1Nj0kCw-Ly1-4GTyPWAqExJVKBbKEsX3UqY08LHoVLhp-nvRlfiPSKVKK6k_5bC3N86x6Uy-kG7rsQpO-jVAEXyIJIkOwjqQvnE0GdVGu8HlG8sYQLFNdlSDazm1V0YsWeOKXt8xNpgzK8PKWv7-lUnVb829pH5syonb5TlfwV21BMFZVtgzqKgQ8jwkia-Jk81RR2Ac5I9XERlFh0geOEL-9E7SQX9DRfRluZRwlP29_MAu-E-2bcX2GV2GrZ7qe3O36byRIoUwAgpiNdIw1jm_fQtuhmp_PeKw-fqxZ42NoaM5B1iK4sCfzDwZ_EJKIlAVZdgxzix7zze_Ko_uJimnOU_Ja0tjlck04wN55Z9j3SDoDRYxeMsWFQrozuV6hR_16JWofRoj_TU2k9nWw_hwtFZdy_xIaVgEUy0V9kg9t7RZn0nefqUAo4yBGL4aMMRvSabn2HPRH3jBAp_rijWv2gxEjBRdCqTQ6eDhfb9E3l7uupKGGZH28nplG3vlQfnwunJ4O1xo2wDg3wQtJaDR7nmj38mtheriTRhIXWvnZbBacPz0MnRIocUg-AarAoLoM8nt6FpVOxJmQq3limuHEEgeUrdzsxqmBHv2wXlhICc2Vh1dcyi5NOCgun8A6LHqj3vqYG1cQJcxO8oBwU3kZvickbCcoa9P1x1c_Q0guhmaeQVW5_eGPQKe9DkCbfmlqsLoS4aDIAnS8GEQqRa1D-YqSABKglldS13ZXN0LTIwiAI.m3u8
-
-#EXTINF:-1 tvg-id="6" tvg-logo="https://www.sintelevisionhd.com/img/universal.png" group-title="CINE", UNIVERSAL
-https://eeddggee77.xyz/live/flowe56734bfa1c0a7e.m3u8
-
-#EXTINF:-1 tvg-id="7" tvg-logo="https://www.sintelevisionhd.com/img/warner.png" group-title="CINE", WARNER
-https://ok.ru/video/2875482840660?fromTime=14581
-
-#EXTINF:-1 tvg-id="8" tvg-logo="https://futbollibre.net/img/logo-canal/Star_Action.webp?" group-title="CINE", STAR ACTION
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvQEiLCbDdQDenIlmMyjHTG97uYdtGKggVD0kz8OH71rfKNNqhdPfPAx54HkAhz3cfcXwFIwpPccghVLrYLA1PTvUd0I3bVB49Mg4avnzIQSJpn6mbvDc6DjD3fyIzMwpaym3TM-I1cAb1fCwlX8fBQau4trb75tWT4KyTN1_qfsMQatJcitUoY4im1wmr_A02PD2y4BJXe4OAVrl6pv83z9IKPbIf98WGn7B5BMikAFloZV_Mx5sQ_ZLahBOfwjVP2qj6tDpYlR_i8Nel_zfOwmdpkkGL8yGdvKYvAt2ey1W4FCzgbA1seivKs1UPNUkFX7PD6nGVIHn7TVZ6RBr3isSwH2cvY6PR9eHIo9rRRRE02_4NtuIdU4sAXcWZ6goifvR_nGK8CRLaBOKdjPluyFo-_53mFMkpvIQrG9XxF-3mo6Ql7aUKQ-lm7zJdj4-3BpGV4Sn3nm5pGoyTUL-SGUZPwpD-kQqEXHfFz187smEDPAxA3jLLod9LueLg9x0vTDpJcVSExW3vnNDVptJRCyLuemdKUA413MXZTYEDNlZ_4WwFqO4OY1N1beDiHWuNxcziMdFDwQIGPW893XXvmPUSvhpFWF6WHm54Lwl5stex7cRKgQISU78b5f2FpGqx8e_y-SzA8IyJl0pafEAH_TAID-K4uLQiOC_RgVM4WCRrN_18B8V1H_gSaWFQnVx-obCgW9pcIXYnlnOypF_rDnuAJhLkkMjEjHWX1nl2nXkW_Won0tPmEUsb6bMHDhsA27jzL3_GTrJbJ7Q_PVfMUIbMfnJoFJNig3D5Jho9KJRWOqvBW3GCRXxNhNHei0UP7r5gHHsRoM1TPwg79WLpJ-1lxoIAEqCWV1LXdlc3QtMjCIAg.m3u8
-
-#EXTINF:-1 tvg-id="1" tvg-logo="https://www.sintelevisionhd.com/img/animal.png" group-title="CULTURA", ANIMAL PLANET
-https://televisionlibre.net/?jwsource=cl
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://www.sintelevisionhd.com/img/hyh.png" group-title="CULTURA", H&H
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvIEx_O2USX9z-tjDlqrUSEERkkwdALK6ImWmd7YmYqgUA1hcZ8GK8LzJk6HFHB3OOQvFiZQL-78HDKPZDwW5FUMhgL_F2g71h-u6tnvTZFhTDDBpfviBcU3yZZOcyIQ92qiAQ-6igjPz7j-vNqfJum7rBVA7UknO1nKV3KSmWOFseu8l3xzHo1BydypzGHwPZU8FV-rsEexmWQIkItRkbDA9NvvBehRi9fN7yOQBwGHLIzNDuGuyX3msXr_vYCtePiQnjcTrpPXBgIMN8agsYKO3hzjs6ZC8TyK287HAR9vgKbhYw5s82bq5b4OWGkxKhz0UnN7z15YK6TAdrL8ESwrk6u2EnOWyhdegUNQckt0OXRnNKvdnZSij-yUFq20oUmtyy0fhftXMmtPYGX4CppXXnZGHOfsTPPkpl8yshwtmR5wrm80Z6opLBV2r2uln_kVJoiO_zBfVMtI3D31Ysb8VvH-Pps98xCU4ruUHNNr75FiSUOomaaxB5OEODZD82pkCYxKhqGr-I48zi792rlmtmI8MiuDEakk_eJ7NFK6OOiD_tP0IjwHhYHs9Wi1DbHn8qkCCLMrc4PN7BGpf0I0SO7mX7-gQaDYWCvg-onKvkmlRvqg2F8b-9NQPXoyCBxIDSi-BDHG69qs8Hhk029BKdGNh8eVkSYiNKI02RWt5ZyamXvrPyBIRk7q7vlV3e4BRuinrDr85fkf8tYTnGsJ7nKaA0aEzijIa0vLXMP5oXJWNnWDmzpPQFemxYbRAe5w1Bae0zQyEpq6JVkLngK7o3uAULvKbKImMYkwe85XxE7P3d8DiG8kUOjb1sXytyhoMdYaDCACwCS5ejcPHYIsdCABKglldS13ZXN0LTIwiAI.m3u8
-
-#EXTINF:-1 tvg-id="2" tvg-logo="https://futbollibre.net/img/logo-canal/ESPN.webp" group-title="DEPORTE", ESPN
-https://edge02-fdo-py.cvattv.com.ar//live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
-
-#EXTINF:-1 tvg-id="3" tvg-logo="https://futbollibre.net/img/logo-canal/Fox_Sports.webp" group-title="DEPORTE", FOX SPORT EU
-http://init.cheches.info/hls/105.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-logo="https://futbollibre.net/img/logo-canal/GolTV.webp" group-title="DEPORTE", GOLTV
-https://playback2.akamaized.net/streams/28253671_9183137_lsiqpmbkfwou5ihz09c_1/exp=1634511310~acl=%2f*~data=hdntl~hmac=85a8eb26f2d439f7ae62047d802f955d417c7af2c7a9474d2f83bbd04eede304/media/28253671_9183137_lsiqpmbkfwou5ihz09c_1@5256000p.m3u8?dw=80&ts=1634421600
-
-#EXTINF:-1 tvg-id="5" tvg-logo="https://futbollibre.net/img/logo-canal/TUDN.png" group-title="DEPORTE", TUDN
-https://sv.tsnt2.xyz/g
-
-#EXTINF:-1 tvg-id="6" tvg-logo="https://futbollibre.net/img/logo-canal/Fox_Sports_Premium.webp" group-title="DEPORTE", FOX SPORT PREMIUM
-https://content-asae1-up-1.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343/e.m3u8?exp=1634426249&ct=c&cid=e450f6b7275b4946afa72bfc4beb6343&expand=drmOff&iph=ce3be07b0fd3bcf88c6a7e6accf8da16b1c5851ce163f43ec621ff8aa46cc9bb&euid=%7B58AAF5CE-1660-4200-BE5A-133C12C35A67%7D_000_1_001_live_00-06-00_0.0.7.42&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=506aaf1ad9efcf5e8340583539ee5580750c3ed93b161bae053f01ea0baee497&pbs=d833c340b7f5470b96bd9957b557d47c
-
-#EXTINF:-1 tvg-id="7" tvg-logo="https://futbollibre.net/img/logo-canal/TNT_Sports.webp" group-title="DEPORTE", TNT SPORT
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1634425660~exp=1634426260~acl=/*~hmac=898f081befb2675176f8803b39326aba9f53a6ef7a2903bbe1a2cc333368ade4
-
-#EXTINF:-1 tvg-id="8" tvg-logo="https://futbollibre.net/img/logo-canal/Fox_Sports_Premium.webp" group-title="DEPORTE", FOX SPORT PREMIUM
-https://jtbyeqpqtykwdiag.wzcdn804.net:8443/hls/6aki36z.m3u8?s=pzRIr339o2vcDg7oIp9tQA&e=1634448913
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
