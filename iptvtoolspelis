@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "Godzilla vs. Kong", tvg-logo= "https://pics.filmaffinity.com/godzilla_vs_kong-370227109-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Godzilla%20Vs%20Kong%20(2021)%20%5b1080P%20Hmax%20Web-DL%5d%20Placebo.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1,tvg-name= "Mortal Kombat", tvg-logo= "https://pics.filmaffinity.com/mortal_kombat-245960455-mmed.jpg", group-title= "ACCION"
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Mortal%20Kombat%20(2021).mp4
 #EXTINF:-1, tvg-name= "Kung Fu Panda 2", tvg-logo= "https://image.tmdb.org/t/p/w300/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg", group-title= "ANIMACION"
