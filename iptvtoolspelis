@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-name= "Dune (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt1160419.jpg", group-title= "ACCION"
+https://www.h3h.pw/Dune.2021.720p.WEBRip.DD5.1.x264-SHITBOX/Dune.2021.720p.WEBRip.DD5.1.x264-SHITBOX.mkv
 #EXTINF:-1,tvg-name= "L'ultimo Paradiso (2021) ", tvg-logo= "https://pics.filmaffinity.com/l_ultimo_paradiso-158490256-mmed.jpg", group-title= "DRAMA"
 http://201.172.61.203:88/Peliculas/Febrero/L'ultimo%20Paradiso%20(2021)%20NF%20WEB-DL%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1,tvg-name= "Judas y el Mesías Negro (2021)", tvg-logo= "https://pics.filmaffinity.com/judas_and_the_black_messiah-912646266-mmed.jpg", group-title= "DRAMA"
@@ -618,7 +620,6 @@ http://201.172.61.203:88/Peliculas/Febrero/LasTortugasNinja2016.mp4
 #EXTINF:-1, tvg-name= "Ni un paso en falso (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt11525644.jpg", group-title= "DRAMA"
 #EXTINF:-1, tvg-name= "My Son (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt13234058.jpg", group-title= "SUSPENSO"
 #EXTINF:-1, tvg-name= "CRY MACHO" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt1924245.jpg", group-title= "DRAMA"
-#EXTINF:-1, tvg-name= "Dune (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt1160419.jpg", group-title= "ACCION"
 #EXTINF:-1, tvg-name= "FREE GUY" tvg-logo= "https://pics.filmaffinity.com/free_guy-297648487-mmed.jpg", group-title= "COMEDIA"
 #EXTINF:-1, tvg-name= "El oso Yogui (2010)", tvg-logo= "https://image.tmdb.org/t/p/w300/cxOdo5OseGUTepSqF9bRjnrTflb.jpg", group-title= "ANIMACION"
 #EXTINF:-1,tvg-name= "Chappie (2015)", tvg-logo= "https://image.tmdb.org/t/p/w300/18IydtBgq8aJZpbP6NxCAGjHhae.jpg", group-title= "ACCION"
