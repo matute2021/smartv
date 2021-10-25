@@ -1,5 +1,31 @@
 #EXTM3U
 
+#EXTINF:-1,tvg-name= "L'ultimo Paradiso (2021) ", tvg-logo= "https://pics.filmaffinity.com/l_ultimo_paradiso-158490256-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Febrero/L'ultimo%20Paradiso%20(2021)%20NF%20WEB-DL%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Judas y el Mesías Negro (2021)", tvg-logo= "https://pics.filmaffinity.com/judas_and_the_black_messiah-912646266-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Febrero/Judas%20y%20el%20Mes%c3%adas%20Negro%20(2021)%20HMAX%20WEB-DL%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Flora & Ulises (2021)", tvg-logo= "https://pics.filmaffinity.com/flora_and_ulysses-237103935-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/Febrero/Flora%20&%20Ulises%20(2021.mp4
+#EXTINF:-1,tvg-name= "El Mapa de los Instantes Perfectos (2021)", tvg-logo= "https://pics.filmaffinity.com/the_map_of_tiny_perfect_things-492977695-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/Febrero/El%20Mapa%20de%20los%20Instantes%20Perfectos%20(2021)%20AMZN%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Detras de la mascara 2021", tvg-logo= "https://pics.filmaffinity.com/marvel_s_behind_the_mask-306981765-mmed.jpg", group-title= "DOCUMENTALES"
+http://201.172.61.203:88/Peliculas/Febrero/Detras%20de%20la%20mascara%202021.mp4
+#EXTINF:-1,tvg-name= "El Rey de Zamunda", tvg-logo= "https://pics.filmaffinity.com/coming_2_america-750355750-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/Febrero/Coming%202%20America%20(2021)%20%5b1080p%20AMZN%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Chadwick Boseman Portrait of an Artist 2021", tvg-logo= "https://pics.filmaffinity.com/chadwick_boseman_portrait_of_an_artist_s-892404268-mmed.jpg", group-title= "DOCUMENTALES"
+http://201.172.61.203:88/Peliculas/Febrero/Chadwick%20Boseman%20Portrait%20of%20an%20Artist%202021.mkv
+#EXTINF:-1,tvg-name= "Black Art- In the Absence of Light (2021) ", tvg-logo= "https://pics.filmaffinity.com/black_art_in_the_absence_of_light-744715642-mmed.jpg", group-title= "DOCUMENTALES"
+http://201.172.61.203:88/Peliculas/Febrero/Black%20Art-%20In%20the%20Absence%20of%20Light%20(2021)%20%5b1080p%20HBOGO%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Bia - Un mundo al revés (2021)", tvg-logo= "https://pics.filmaffinity.com/bia_un_mundo_al_reves_tv-421943567-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/Febrero/Bia%20-%20Un%20mundo%20al%20rev%c3%a9s%20(2021)%20%5b1080p%20DSNP%20WEB-DL%5d.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Palmer", tvg-logo= "https://pics.filmaffinity.com/palmer-170252052-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Danna/Palmer.2021.WEB-DL.1080p.Latino.www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Amor al Cuadrado (2021)", tvg-logo= "https://pics.filmaffinity.com/milosc_do_kwadratu-543871726-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Febrero/Amor%20al%20Cuadrado%20(2021)%20WEB-DL%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1, tvg-name= "Fauces de la noche (2021)" tvg-logo= "https://image.tmdb.org/t/p/w300/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/Sep%20Oct/Fauces%20de%20la%20noche%20(2021.mp4
+#EXTINF:-1, tvg-name= "Aqui me encuentro (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/eEx8zrZyN6fiRBTsxKYWWCmwJ9e.jpg", group-title= "DOCUMENTALES"
+http://201.172.61.203:88/Peliculas/Sep%20Oct/Aqui%20me%20encuentro%20(2021.mp4
 #EXTINF:-1, tvg-name= "El escuadrón suicida (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/08/tt6334354.jpg", group-title= "ACCION"
 http://201.172.61.203:88/Peliculas/jul%20agos/The.suicide.squad.2021.mp4
 #EXTINF:-1,tvg-name= "Godzilla vs. Kong", tvg-logo= "https://pics.filmaffinity.com/godzilla_vs_kong-370227109-mmed.jpg", group-title= "ACCION"
@@ -56,12 +82,16 @@ http://201.172.61.203:88/Peliculas/jul%20agos/Space%20Jam%20-%20A%20New%20Legacy
 http://201.172.61.203:88/Peliculas/mkv/duro%20de%20cuidar%202.mp4
 #EXTINF:-1, tvg-name= "La guerra del mañana (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt9777666.jpg", group-title= "ACCION"
 http://201.172.61.203:88/Peliculas/jul%20agos/La%20Guerra%20del%20Ma%c3%b1ana%20(2021).mp4
+#EXTINF:-1, tvg-name= "Un lugar en silencio (2016)" tvg-logo= "https://pics.filmaffinity.com/a_quiet_place-854286921-mmed.jpg, group-title= "SUSPENSO"
+http://201.172.61.203:88/Peliculas/jul%20agos/a%20quiet%20place.mp4
 #EXTINF:-1, tvg-name= "Un lugar en silencio: Parte II (2020)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/06/tt8332922.jpg", group-title= "SUSPENSO"
 http://201.172.61.203:88/Peliculas/jul%20agos/A%20Quiet%20Place%20Part%20II%20(2021)%20%5b1080p%20AMZN%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1, tvg-name= "Halloween Kills: La noche aún no termina (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt10665338.jpg", group-title= "TERROR"
 http://201.172.61.203:88/Peliculas/Sep%20Oct/Halloween%20Kills%20(2021).mp4
 #EXTINF:-1, tvg-name= "VIUDA NEGRA" tvg-logo= "https://pics.filmaffinity.com/black_widow-372790622-large.jpg", group-title= "ACCION"
 http://201.172.61.203:88/Peliculas/jul%20agos/Black%20Window.mp4
+#EXTINF:-1,tvg-name= "The Little Things (2021)", tvg-logo= "https://pics.filmaffinity.com/the_little_things-212576861-mmed.jpg", group-title= "SUSPENSO"
+http://201.172.61.203:88/Peliculas/Danna/The%20Little%20Things%20(2021)%20%5b2160p%20HDR%20HMAX%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1, tvg-name= "TERMINATOR SALVATION" tvg-logo= "https://pics.filmaffinity.com/terminator_salvation_the_future_begins_terminator_4-225185375-mmed.jpg", group-title= "ACCION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Terminator%20Salvation%20_%20La%20salvaci%c3%b3n%20Online%20(2009)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
 https://pr46.sbcdnvideo.com/hls/tysxeqrrpc66j6cdab2bbfyeg2wlbjb276fskwlug2bd5kwvpc3a4e3gq6oq/index-v1-a1.m3u8
@@ -361,8 +391,6 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/la%20
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/las%20tortugas%20ninja.mkv
 #EXTINF:-1,tvg-name= "El espía que me plantó", tvg-logo= "https://pics.filmaffinity.com/the_spy_who_dumped_me-362012522-mmed.jpg", group-title= "COMEDIA"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/mi%20ex%20es%20una%20espia.mkv
-#EXTINF:-1,tvg-name= "El oso Yogui (2010)", tvg-logo= "https://image.tmdb.org/t/p/w300/cxOdo5OseGUTepSqF9bRjnrTflb.jpg", group-title= "ANIMACION"
-https://www762.ff-02.com/token=r16yZiJAFofSZJE-Rm1nHA/1634710482/45.172.0.0/138/c/00/b89ba7f7b03c01719eb2f46ec747200c-1080p.mp4
 #EXTINF:-1,tvg-name= "X-Men: Apocalipsis (2016)", tvg-logo= "https://image.tmdb.org/t/p/w300/i5ET4lACwrb97sdPzmIThieasOk.jpg", group-title= "ACCION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/X%20Men%20Apocalipsis.mp4
 #EXTINF:-1,tvg-name= "Lobezno inmortal (2013)", tvg-logo= "https://image.tmdb.org/t/p/w300/fvNIRADfDNihVNWx2JvBsaPYUow.jpg", group-title= "ACCION"
@@ -381,24 +409,8 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/logan.
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/X%20Men%20Primera%20generaci%c3%b3n.mp4
 #EXTINF:-1,tvg-name= "X-Men (2000)", tvg-logo= "https://image.tmdb.org/t/p/w300/hkoAUNLa0lOQ11apLUJ6Oh1EWID.jpg", group-title= "ACCION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/xmen/X%20MEN%201.mp4
-#EXTINF:-1,tvg-name= "Chappie (2015)", tvg-logo= "https://image.tmdb.org/t/p/w300/18IydtBgq8aJZpbP6NxCAGjHhae.jpg", group-title= "ACCION"
-https://www1373.ff-03.com/token=gJjxp6NVpwIWicYRgyc8hQ/1634714705/45.172.0.0/178/a/7f/e4f474b3b73a4ddf305cf61df0d287fa-1080p.mp4
-#EXTINF:-1,tvg-name= "Acero puro (2011)", tvg-logo= "https://image.tmdb.org/t/p/w300/gqjKG4Z24pjYxcOfCd9p6WAnYlG.jpg", group-title= "ACCION"
-https://www1853.ff-04.com/token=Fu5i_zmPQqY1CXycI4BrSQ/1634714763/45.172.0.0/19/2/78/288627321c9466194ae39b0418948782-1080p.mp4
-#EXTINF:-1,tvg-name= "Prisioneros (2013)", tvg-logo= "https://image.tmdb.org/t/p/w300/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg", group-title= "DRAMA"
-https://m90.uqload.org/3rfkik4qpjw2q4drdlwpp5xvbvnf5xop3xswii4hfs65eho4lskolfbwsfea/v.mp4
 #EXTINF:-1,tvg-name= "Australia (2008)", tvg-logo= "https://image.tmdb.org/t/p/w300/45X7LFsgYvdEgFCkXSZCQOZMuJX.jpg", group-title= "DRAMA"
-https://www2099.ff-05.com/token=bYDYJCWw78TW2XlCb0_R0g/1634715121/45.172.0.0/19/b/83/009da797b36884a8196f56277790083b-480p.mp4
-#EXTINF:-1,tvg-name= "La fuente de la vida (2006)", tvg-logo= "https://image.tmdb.org/t/p/w300/16EoIGCaDzx0jSx2vfyRKSov6XG.jpg", group-title= "DRAMA"
-https://www1604.ff-04.com/token=ts1rdTqAjjNOhA5AOGwDpQ/1634715186/45.172.0.0/16/3/15/2cd1d67beb23fbd527d460f74973d153-1080p.mp4
-#EXTINF:-1,tvg-name= "El gran showman (2017)", tvg-logo= "https://image.tmdb.org/t/p/w300/mJPcxrlRCGHPsZcF8H4qw7ZyCjz.jpg", group-title= "DRAMA"
-https://m50.uqload.org/3rfkpmbypnw2q4drdl2ppkvkbdoerl4hly7xuzhqxqdnsjturz6vhnknw4wq/v.mp4
-#EXTINF:-1,tvg-name= "La estafa (2019)", tvg-logo= "https://image.tmdb.org/t/p/w300/gizz5FphOtfSnLaGpRALOZgILd5.jpg", group-title= "DRAMA"
-https://www15.ff-01.com/token=K02KkS5ukwIuuk3K5FGsqQ/1634715460/45.172.0.0/119/b/18/9aa37a152fc6f2947db72f0bdeb3118b-1080p.mp4
-#EXTINF:-1,tvg-name= "Los Miserables (2012)", tvg-logo= "https://image.tmdb.org/t/p/w300/90PyvT7SI5INKhMC6P7B5NJVx4t.jpg", group-title= "DRAMA"
-https://www1212.ff-03.com/token=hDOsyxWJq60PWbbiL7tD3Q/1634715622/45.172.0.0/29/9/a9/4addba39d58b40bfa0e48c7be6715a99-1080p.mp4
-#EXTINF:-1,tvg-name= "El candidato (2018)", tvg-logo= "https://image.tmdb.org/t/p/w300/7iMNvhINYaYwsF1jC5VaDeQ1V70.jpg", group-title= "DRAMA"
-https://www1767.ff-04.com/token=VaUjiE4ICVK_4OSuMyfFLA/1634715777/45.172.0.0/24/4/41/78196978b6fd253c6ae5867e59b7a414-1080p.mp4
+http://201.172.61.203:88/Peliculas/Danna/Australia%20(2008).mp4
 #EXTINF:-1,tvg-name= "From.The.Sun-Live.in.Houston.2004", tvg-logo= "https://images.eil.com/large_image/3_DOORS_DOWN_AWAY%2BFROM%2BTHE%2BSUN-391095.jpg", group-title= "CONCIERTOS"
 http://74.208.251.230/Contenido/Peliculas/Conciertos/3.Doors.Down-Away.From.The.Sun-Live.in.Houston(2004).mkv
 #EXTINF:-1,tvg-name= "From.The.Sun-Live.in.Houston.2004", tvg-logo= "https://images.eil.com/large_image/3_DOORS_DOWN_AWAY%2BFROM%2BTHE%2BSUN-391095.jpg", group-title= "CONCIERTOS"
@@ -507,15 +519,77 @@ http://201.172.61.203:88/Peliculas/jul%20agos/Crazy%20Fist%20(2021).mp4
 http://201.172.61.203:88/Peliculas/jul%20agos/Destello.en.la.niebla.2020.1080p.Latino.PGD..mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1,tvg-name= "Nomadland", tvg-logo= "https://pics.filmaffinity.com/nomadland-118487105-mmed.jpg", group-title= "DRAMA"
 http://37.187.115.51/Nomadland.2020.1080p.BluRay.H264.AAC-RARBG/Nomadland.2020.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1,tvg-name= "17 otra vez", tvg-logo= "https://pics.filmaffinity.com/17_again-641087563-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/Danna/17%20otra%20vez%20(2009.mp4
+#EXTINF:-1,tvg-name= "Amor ciego", tvg-logo= "https://pics.filmaffinity.com/shallow_hal-581235911-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/Danna/Amor%20ciego%20(2001).mp4
+#EXTINF:-1,tvg-name= "Bernie The Dolphin", tvg-logo= "https://pics.filmaffinity.com/bernie_the_dolphin-333616357-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/Danna/Bernie%20el%20Delf%c3%adn%20(2018).mp4
+#EXTINF:-1,tvg-name= "Codigo Fuente", tvg-logo= "https://pics.filmaffinity.com/source_code-148959542-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.203:88/Peliculas/Danna/C%c3%b3digo%20fuente%20(2011).mp4
+#EXTINF:-1,tvg-name= "Criada y señoras", tvg-logo= "https://pics.filmaffinity.com/the_help-927616110-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Danna/Criadas%20y%20se%c3%b1oras%20(2011).mp4
+#EXTINF:-1,tvg-name= "Cuando los ángeles duermen (2018)", tvg-logo= "https://pics.filmaffinity.com/cuando_los_angeles_duermen-356460628-mmed.jpg", group-title= "SUSPENSO"
+http://201.172.61.203:88/Peliculas/Danna/Cuando%20los%20%c3%a1ngeles%20duermen%20(2018).mp4
+#EXTINF:-1,tvg-name= "El escándalo Ted Kennedy (2018)", tvg-logo= "https://pics.filmaffinity.com/chappaquiddick-827132323-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Danna/El%20esc%c3%a1ndalo%20Ted%20Kennedy%20(2018).mp4
+#EXTINF:-1,tvg-name= "En busca de la felicidad (2006).", tvg-logo= "https://pics.filmaffinity.com/the_pursuit_of_happyness-660040804-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Danna/En%20busca%20de%20la%20felicidad%20(2006).mp4
+#EXTINF:-1,tvg-name= "	Falcon Rising 2014", tvg-logo= "https://pics.filmaffinity.com/falcon_rising-644916740-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.203:88/Peliculas/Danna/Falcon.Rising.2014.1080p.BDrip.EspaolIngls.bychalo.1.WwW.PeliculasGoogleDrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "La guerra de las corrientes (2017)", tvg-logo= "https://pics.filmaffinity.com/the_current_war-906085519-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Danna/La%20guerra%20de%20las%20corrientes%20(2017).mp4
+#EXTINF:-1,tvg-name= "La pasión de Cristo (2004)", tvg-logo= "https://pics.filmaffinity.com/the_passion_of_the_christ-211498441-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Danna/La%20pasi%c3%b3n%20de%20Cristo%20(2004).mp4
+#EXTINF:-1,tvg-name= "Maze Runner- Prueba De Fuego (2015)", tvg-logo= "https://pics.filmaffinity.com/maze_runner_the_scorch_trials_aka_the_maze_runner_chapter_ii_the_scorch_trials-944377647-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/Danna/Maze%20Runner-%20Prueba%20De%20Fuego%20(2015).mp4
+#EXTINF:-1,tvg-name= "Una joven prometedora (2020)", tvg-logo= "https://pics.filmaffinity.com/promising_young_woman-192277202-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Danna/Promising.Young.Woman.2020.WEB-DL.AMZN.1080p.Latino...www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Todos Mis Amigos Están Muertos (2020)", tvg-logo= "https://pics.filmaffinity.com/wszyscy_moi_przyjaciele_nie_zyja-629567793-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Danna/Todos%20Mis%20Amigos%20Est%c3%a1n%20Muertos%20(2020)%20NF%20WEB-DL%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "El corredor del laberinto (2014) ", tvg-logo= "https://pics.filmaffinity.com/the_maze_runner-377064363-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/Danna/Ver%20El%20corredor%20del%20laberinto%20(2014)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "Vida oculta (2019)", tvg-logo= "https://pics.filmaffinity.com/a_hidden_life-287524627-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Danna/Vida%20oculta%20(2019).mp4
+#EXTINF:-1,tvg-name= "La chica invisible", tvg-logo= "https://pics.filmaffinity.com/a_garota_invisivel-768130028-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/Febrero/A%20Garota%20Invis%c3%advel%20(2020)%20%5b1080p%20NF%20WEB-DL%5d%20%5bzgnrips%5d.mp4
+#EXTINF:-1,tvg-name= "Aladdín (1992)", tvg-logo= "https://pics.filmaffinity.com/aladdin-819103562-mmed.jpg", group-title= "ANIMACION"
+http://201.172.61.203:88/Peliculas/Febrero/Aladd%c3%adn%20(1992).mp4
+#EXTINF:-1,tvg-name= "Aladdín y el rey de los ladrones (1996)", tvg-logo= "https://pics.filmaffinity.com/aladdin_and_the_king_of_thieves-832877494-mmed.jpg", group-title= "ANIMACION"
+http://201.172.61.203:88/Peliculas/Febrero/Aladd%c3%adn%20y%20el%20rey%20de%20los%20ladrones%20(1996).mp4
+#EXTINF:-1,tvg-name= "Regreso al futuro", tvg-logo= "https://pics.filmaffinity.com/back_to_the_future-100822308-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/Febrero/BACK.TO.THE.FUTURE.1.WwW.PeliculasGoogleDrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Ben-Hur 2016", tvg-logo= "https://pics.filmaffinity.com/ben_hur-517406743-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.203:88/Peliculas/Febrero/Ben-Hur%202016%20HD%20%5b1080p%5d%20Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Bernardo y Bianca, los rescatadores", tvg-logo= "https://pics.filmaffinity.com/the_rescuers-669437932-mmed.jpg", group-title= "ANIMACION"
+http://201.172.61.203:88/Peliculas/Febrero/BernardoYBianca1LosRescatadores19741.mp4
+#EXTINF:-1,tvg-name= "Colegio de magia y hechiceria (2020)", tvg-logo= "https://pics.filmaffinity.com/the_academy_of_magic-513429040-mmed.jpg", group-title= "ANIMACION"
+http://201.172.61.203:88/Peliculas/Febrero/Colegio%20de%20magia%20y%20hechiceria%20(2020)%201080p%20WEB-DL.mp4
+#EXTINF:-1,tvg-name= "Bailando con lobos", tvg-logo= "https://pics.filmaffinity.com/dances_with_wolves-664137248-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Febrero/DanzaConLobos.mp4
+#EXTINF:-1,tvg-name= "El agente topo 2020", tvg-logo= "https://pics.filmaffinity.com/el_agente_topo-561971998-mmed.jpg", group-title= "DOCUMENTALES"
+http://201.172.61.203:88/Peliculas/Febrero/El.agente.topo.2020.HD.1080p.Latino.www.peliculasgoogledrive.info.mp4
+#EXTINF:-1,tvg-name= "El Corredor del Laberinto- La Cura Mortal (2018)", tvg-logo= "https://pics.filmaffinity.com/maze_runner_the_death_cure-119590517-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/Febrero/El%20Corredor%20del%20Laberinto-%20La%20Cura%20Mortal%20(2018).mp4
+#EXTINF:-1,tvg-name= "La Familia Pie Grande (2020)", tvg-logo= "https://pics.filmaffinity.com/bigfoot_family-332350378-mmed.jpg", group-title= "ANIMACION"
+http://201.172.61.203:88/Peliculas/Febrero/La.Familia.Pie.Grande.(2020).1080p.BRRip.Latino.-...www.peliculasgoogledrive.info.mp4
+#EXTINF:-1,tvg-name= "Tortugas Ninja", tvg-logo= "https://pics.filmaffinity.com/teenage_mutant_ninja_turtles-625913660-mmed.jpg", group-title= "ANIMACION"
+http://201.172.61.203:88/Peliculas/Febrero/LasTortugasNinja1990.mp4
+#EXTINF:-1,tvg-name= "Las tortugas ninja II: El secreto de los mocos verdes", tvg-logo= "https://pics.filmaffinity.com/teenage_mutant_ninja_turtles_ii_the_secret_of_ooze-826049530-mmed.jpg", group-title= "ANIMACION"
+http://201.172.61.203:88/Peliculas/Febrero/LasTortugasNinja1991.mp4
+#EXTINF:-1,tvg-name= "Las tortugas ninja III", tvg-logo= "https://pics.filmaffinity.com/teenage_mutant_ninja_turtles_iii_turtles_in_time-588826748-mmed.jpg", group-title= "ANIMACION"
+http://201.172.61.203:88/Peliculas/Febrero/LasTortugasNinja1993.mp4
+#EXTINF:-1,tvg-name= "Tortugas Ninja jóvenes mutantes", tvg-logo= "https://pics.filmaffinity.com/teenage_mutant_ninja_turtles_tmnt-449954271-mmed.jpg", group-title= "ANIMACION"
+http://201.172.61.203:88/Peliculas/Febrero/LasTortugasNinja2007.mp4
+#EXTINF:-1,tvg-name= "Ninja Turtles (Las Tortugas Ninja)", tvg-logo= "https://pics.filmaffinity.com/teenage_mutant_ninja_turtles-176118179-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/Febrero/LasTortugasNinja2014.mp4
+#EXTINF:-1,tvg-name= "Ninja Turtles: Fuera de las sombras", tvg-logo= "https://pics.filmaffinity.com/teenage_mutant_ninja_turtles_out_of_the_shadows-645576220-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/Febrero/LasTortugasNinja2016.mp4
 
 #EXTINF:-1, tvg-name= "Kung Fu Panda 2", tvg-logo= "https://image.tmdb.org/t/p/w300/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg", group-title= "ANIMACION"
 #EXTINF:-1, tvg-name= "Kung Fu Panda 3", tvg-logo= "https://image.tmdb.org/t/p/w300/joSDeRRYoNLbuSPw7SDAfBogZdH.jpg", group-title= "ANIMACION"
 #EXTINF:-1, tvg-name= "Warning (2021)", tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt8956324.jpg", group-title= "SUSPENSO"
 #EXTINF:-1, tvg-name= "Pokémon: Los secretos de la selva (2020)", tvg-logo= "https://image.tmdb.org/t/p/w300/r6FMNFl4mAnwFC5vgAGi2acmQlC.jpg", group-title= "ANIMACION"
-#EXTINF:-1, tvg-name= "Aqui me encuentro (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/eEx8zrZyN6fiRBTsxKYWWCmwJ9e.jpg", group-title= "DOCUMENTALES"
-http://201.172.61.203:88/Peliculas/Sep%20Oct/Aqui%20me%20encuentro%20(2021.mp4
-#EXTINF:-1, tvg-name= "Fauces de la noche (2021)" tvg-logo= "https://image.tmdb.org/t/p/w300/4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg", group-title= "TERROR"
-http://201.172.61.203:88/Peliculas/Sep%20Oct/Fauces%20de%20la%20noche%20(2021.mp4
 #EXTINF:-1, tvg-name= "La batalla olvidada" tvg-logo= "https://img.repelis.id/cover/de-slag-om-de-schelde-2-1634439963.jpg", group-title= "BELICO"
 #EXTINF:-1, tvg-name= "Dios mío ¡los niños han vuelto!" tvg-logo= "https://img.repelis.id/cover/chacun-chez-soi-2-1634638223.jpg", group-title= "COMEDIA"
 #EXTINF:-1, tvg-name= "Cowboys (2020)" tvg-logo= "https://image.tmdb.org/t/p/w300/88ddT0lpefhVCwN0hNCA4dH2IKU.jpg", group-title= "DRAMA"
@@ -533,6 +607,7 @@ http://201.172.61.203:88/Peliculas/Sep%20Oct/Fauces%20de%20la%20noche%20(2021.mp
 #EXTINF:-1, tvg-name= "Violet Evergarden La Pelicula (2020)" tvg-logo= "https://image.tmdb.org/t/p/w300/mpNG6z33xOtUWuOU83BE0bvorxi.jpg", group-title= "ANIMACION"
 #EXTINF:-1, tvg-name= "The Voyeurs (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt11235772.jpg", group-title= "SUSPENSO"
 #EXTINF:-1, tvg-name= "No respires (2016)" tvg-logo= "https://image.tmdb.org/t/p/w300/kkUMGON2uFRlxI3zIMFdjqARnbb.jpg", group-title= "SUSPENSO"
+
 #EXTINF:-1, tvg-name= "Good Joe Bell (2020)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/08/tt4651466.jpg", group-title= "DRAMA"
 #EXTINF:-1, tvg-name= "Batman: The Long Halloween, Part Two (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt14402926.jpg", group-title= "ANIMACION"
 #EXTINF:-1, tvg-name= "Pig (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt11003218.jpg", group-title= "SUSPENSO"
@@ -545,6 +620,16 @@ http://201.172.61.203:88/Peliculas/Sep%20Oct/Fauces%20de%20la%20noche%20(2021.mp
 #EXTINF:-1, tvg-name= "CRY MACHO" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt1924245.jpg", group-title= "DRAMA"
 #EXTINF:-1, tvg-name= "Dune (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt1160419.jpg", group-title= "ACCION"
 #EXTINF:-1, tvg-name= "FREE GUY" tvg-logo= "https://pics.filmaffinity.com/free_guy-297648487-mmed.jpg", group-title= "COMEDIA"
+#EXTINF:-1, tvg-name= "El oso Yogui (2010)", tvg-logo= "https://image.tmdb.org/t/p/w300/cxOdo5OseGUTepSqF9bRjnrTflb.jpg", group-title= "ANIMACION"
+#EXTINF:-1,tvg-name= "Chappie (2015)", tvg-logo= "https://image.tmdb.org/t/p/w300/18IydtBgq8aJZpbP6NxCAGjHhae.jpg", group-title= "ACCION"
+#EXTINF:-1,tvg-name= "Acero puro (2011)", tvg-logo= "https://image.tmdb.org/t/p/w300/gqjKG4Z24pjYxcOfCd9p6WAnYlG.jpg", group-title= "ACCION"
+#EXTINF:-1,tvg-name= "Prisioneros (2013)", tvg-logo= "https://image.tmdb.org/t/p/w300/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg", group-title= "DRAMA"
+
+#EXTINF:-1,tvg-name= "La fuente de la vida (2006)", tvg-logo= "https://image.tmdb.org/t/p/w300/16EoIGCaDzx0jSx2vfyRKSov6XG.jpg", group-title= "DRAMA"
+#EXTINF:-1,tvg-name= "El gran showman (2017)", tvg-logo= "https://image.tmdb.org/t/p/w300/mJPcxrlRCGHPsZcF8H4qw7ZyCjz.jpg", group-title= "DRAMA"
+#EXTINF:-1,tvg-name= "La estafa (2019)", tvg-logo= "https://image.tmdb.org/t/p/w300/gizz5FphOtfSnLaGpRALOZgILd5.jpg", group-title= "DRAMA"
+#EXTINF:-1,tvg-name= "Los Miserables (2012)", tvg-logo= "https://image.tmdb.org/t/p/w300/90PyvT7SI5INKhMC6P7B5NJVx4t.jpg", group-title= "DRAMA"
+#EXTINF:-1,tvg-name= "El candidato (2018)", tvg-logo= "https://image.tmdb.org/t/p/w300/7iMNvhINYaYwsF1jC5VaDeQ1V70.jpg", group-title= "DRAMA"
 
 
 
@@ -553,6 +638,8 @@ http://201.172.61.203:88/Peliculas/Sep%20Oct/Fauces%20de%20la%20noche%20(2021.mp
 
 
 
+
+
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
@@ -562,3 +649,27 @@ http://201.172.61.203:88/Peliculas/Sep%20Oct/Fauces%20de%20la%20noche%20(2021.mp
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+
+
