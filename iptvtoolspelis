@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1,tvg-name= "Nezha- El renacer de un dios (2021)", tvg-logo= "https://pics.filmaffinity.com/xin_shen_bang_ne_zha_chongsheng-417307970-mmed.jpg", group-title= "ANIMACION"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Nezha-%20El%20renacer%20de%20un%20dios%20(2021).mp4
+#EXTINF:-1,tvg-name= "Nosotros.nunca.moriremos.2021", tvg-logo= "https://pics.filmaffinity.com/nosotros_nunca_moriremos-531574792-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Nosotros.nunca.moriremos.2021.WEB-DL.1080P-www.peliculasgoogledrive.info.mp4
+#EXTINF:-1,tvg-name= "Nuestros Pueblos (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/yDtLlmNvjJ3GagL9zREZDJmpUX7.jpg", group-title= "DOCUMENTAL"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Nuestros%20Pueblos%20(2021).mp4
+#EXTINF:-1,tvg-name= "Los Octonautas y el cinturón de fuego (TV)", tvg-logo= "https://pics.filmaffinity.com/octonauts_the_ring_of_fire_tv-893485743-mmed.jpg", group-title= "ANIMACION"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Octonauts.and.the.Ring.of.Fire.2021.mp4
+#EXTINF:-1,tvg-name= "Our Towns (2021)", tvg-logo= "https://pics.filmaffinity.com/our_towns-892225948-mmed.jpg", group-title= "DOCUMENTAL"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Our%20Towns%20(2021).mp4
+#EXTINF:-1,tvg-name= "Paper Lives 2021", tvg-logo= "https://pics.filmaffinity.com/kagittan_hayatlar-299607410-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Paper.Lives.2021.mp4
+#EXTINF:-1,tvg-name= "Pasajero inesperado (2021)", tvg-logo= "https://pics.filmaffinity.com/stowaway-398693036-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Pasajero%20inesperado%20(2021).mp4
+#EXTINF:-1,tvg-name= "Por qué me mataron (2021)", tvg-logo= "https://pics.filmaffinity.com/why_did_you_kill_me-166286274-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Por%20qu%c3%a9%20me%20mataron-%20(2021).mp4
+#EXTINF:-1, tvg-name= "CRY MACHO" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt1924245.jpg", group-title= "DRAMA"
+https://dl3.3rver.org/hex/film/en/1400/05/Cry.Macho.2021.720p.Farsi.Subbed.mp4
 #EXTINF:-1,tvg-name= "¡Hoy sí! (2021)", tvg-logo= "https://pics.filmaffinity.com/yes_day-234577345-mmed.jpg", group-title= "COMEDIA"
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/%c2%a1Hoy%20s%c3%ad!%20(2021).mp4
 #EXTINF:-1,tvg-name= "Últimas noticias en Yuba County (2021)", tvg-logo= "https://pics.filmaffinity.com/breaking_news_in_yuba_county-598317455-mmed.jpg", group-title= "COMEDIA"
@@ -672,7 +690,7 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Covid.Diaries.NYC.2021.WEB.mp4
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Cowboys%20de%20Filadelfia%20(2021.mp4
 #EXTINF:-1,tvg-name= "Déjà Vu", tvg-logo= "https://pics.filmaffinity.com/deja_vu-178051318-mmed.jpg", group-title= "ACCION"
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/D%c3%a9j%c3%a0%20Vu.mp4
-#EXTINF:-1,tvg-name= "Dolly Parton: A MusiCares Tribute (TV)", tvg-logo= "Dolly https://pics.filmaffinity.com/dolly_parton_a_musicares_tribute_tv-925708837-mmed.jpgParton A MusiCares Tribute 2021", group-title= "DOCUMENTAL"
+#EXTINF:-1,tvg-name= "Dolly Parton: A MusiCares Tribute (TV)", tvg-logo= "https://pics.filmaffinity.com/dolly_parton_a_musicares_tribute_tv-925708837-mmed.jpg", group-title= "DOCUMENTAL"
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Dolly.Parton.A.MusiCares.Tribute.2021.mp4
 #EXTINF:-1,tvg-name= "El Complot", tvg-logo= "https://pics.filmaffinity.com/conspiracy_theory-297883851-mmed.jpg", group-title= "ACCION"
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/El.Complot.mp4
@@ -706,6 +724,37 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Land%20(2021)%20AMZN%20WEB-DL%2
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Medianoche.En.Paris.mp4
 #EXTINF:-1,tvg-name= "Mas alla del tiempo", tvg-logo= "https://pics.filmaffinity.com/the_time_traveler_s_wife-260366022-mmed.jpg", group-title= "DRAMA"
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Msalldeltiempo.mp4
+#EXTINF:-1,tvg-name= "Premonicion", tvg-logo= "https://pics.filmaffinity.com/premonition-677252579-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Premonicion.mp4
+#EXTINF:-1,tvg-name= "Viernes 13 Parte 11 (2009)", tvg-logo= "https://pics.filmaffinity.com/friday_the_13th-910183131-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%2011%20(2009)%20BRRip%20Trial%20Latino%201080p.mkv
+#EXTINF:-1,tvg-name= "Viernes 13 Parte 9 Jason Va Al Infierno (1993)", tvg-logo= "https://pics.filmaffinity.com/jason_goes_to_hell_the_final_friday_aka_friday_the_13th_part_ix-907908073-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%209%20Jason%20Va%20Al%20Infierno%20(1993)%20BRRip%20Trial%20Latino%201080p.mkv
+#EXTINF:-1,tvg-name= "Viernes 13 Parte 8 Jason Toma Manhattan (1989)", tvg-logo= "https://pics.filmaffinity.com/friday_the_13th_part_viii_jason_takes_manhattan-469804202-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%208%20Jason%20Toma%20Manhattan%20(1989)%20BRRip%20Trial%20Latino%201080p.mkv
+#EXTINF:-1,tvg-name= "Viernes 13 Parte 7 La Nueva Sangre (1988)", tvg-logo= "https://pics.filmaffinity.com/friday_the_13th_part_vii_the_new_blood-390140415-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%207%20La%20Nueva%20Sangre%20(1988)%20BRRip%20Trial%20Latino%201080p.mkv
+#EXTINF:-1,tvg-name= "Viernes 13 Parte 6 Jason Vive (1986)", tvg-logo= "https://pics.filmaffinity.com/friday_the_13th_part_vi_jason_lives-331418976-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%206%20Jason%20Vive%20(1986)%20BRRip%20Trial%20Latino%201080p.mkv
+#EXTINF:-1,tvg-name= "Viernes 13 Parte 5 Un Nuevo Comienzo (1985)", tvg-logo= "https://pics.filmaffinity.com/friday_the_13th_a_new_beginning-702495970-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%205%20Un%20Nuevo%20Comienzo%20(1985)%20BRRip%20Trial%20Latino%201080p.mkv
+#EXTINF:-1,tvg-name= "Viernes 13 Parte 4 El Capitulo Final (1984)", tvg-logo= "https://pics.filmaffinity.com/friday_the_13th_the_final_chapter-568639674-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%204%20El%20Capitulo%20Final%20(1984)%20BRRip%20Trial%20Latino%201080p.mkv
+#EXTINF:-1,tvg-name= "Viernes 13 Parte 3 (1982)", tvg-logo= "https://pics.filmaffinity.com/friday_the_13th_part_iii-215629959-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%203%20(1982)%20BRRip%20Trial%20Latino%201080p.mkv
+#EXTINF:-1,tvg-name= "Viernes 13 Parte 2 (1981)", tvg-logo= "https://pics.filmaffinity.com/friday_the_13th_part_2-670243099-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%202%20(1981)%20BRRip%20Trial%20Latino%201080p.mkv
+#EXTINF:-1,tvg-name= "Viernes 13 Parte 1 (1980)", tvg-logo= "https://pics.filmaffinity.com/friday_the_13th-652224175-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Saga%20Viernes%2013/Viernes%2013%20Parte%201%20(1980)%20BRRip%20Trial%20Latino%201080p.mkv
+#EXTINF:-1,tvg-name= "RoboCop 1", tvg-logo= "https://pics.filmaffinity.com/robocop-178512372-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Robocop.1987.mp4
+#EXTINF:-1,tvg-name= "RoboCop 3", tvg-logo= "https://pics.filmaffinity.com/robocop_3-758520258-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Robocop.3.1993.mp4
+#EXTINF:-1,tvg-name= "RoboCop 2", tvg-logo= "https://pics.filmaffinity.com/robocop_2-768486049-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Robocop.2.1990.mp4
+#EXTINF:-1,tvg-name= "Proyecto.Almanac.2015", tvg-logo= "https://pics.filmaffinity.com/project_almanac-148882067-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.203:88/Peliculas/Marzo%20Abril/Proyecto.Almanac.2015.mp4
+
 
 
 #EXTINF:-1, tvg-name= "Kung Fu Panda 2", tvg-logo= "https://image.tmdb.org/t/p/w300/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg", group-title= "ANIMACION"
@@ -739,7 +788,6 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Msalldeltiempo.mp4
 #EXTINF:-1, tvg-name= "Werewolves Within (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt9288692.jpg", group-title= "COMEDIA"
 #EXTINF:-1, tvg-name= "Ni un paso en falso (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt11525644.jpg", group-title= "DRAMA"
 #EXTINF:-1, tvg-name= "My Son (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt13234058.jpg", group-title= "SUSPENSO"
-#EXTINF:-1, tvg-name= "CRY MACHO" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt1924245.jpg", group-title= "DRAMA"
 #EXTINF:-1, tvg-name= "FREE GUY" tvg-logo= "https://pics.filmaffinity.com/free_guy-297648487-mmed.jpg", group-title= "COMEDIA"
 #EXTINF:-1, tvg-name= "El oso Yogui (2010)", tvg-logo= "https://image.tmdb.org/t/p/w300/cxOdo5OseGUTepSqF9bRjnrTflb.jpg", group-title= "ANIMACION"
 #EXTINF:-1,tvg-name= "Chappie (2015)", tvg-logo= "https://image.tmdb.org/t/p/w300/18IydtBgq8aJZpbP6NxCAGjHhae.jpg", group-title= "ACCION"
@@ -753,11 +801,7 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Msalldeltiempo.mp4
 #EXTINF:-1,tvg-name= "El candidato (2018)", tvg-logo= "https://image.tmdb.org/t/p/w300/7iMNvhINYaYwsF1jC5VaDeQ1V70.jpg", group-title= "DRAMA"
 
 
-#EXTINF:-1,tvg-name= "Nezha- El renacer de un dios (2021)", tvg-logo= "https://pics.filmaffinity.com/xin_shen_bang_ne_zha_chongsheng-417307970-mmed.jpg", group-title= "ANIMACION"
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Nezha-%20El%20renacer%20de%20un%20dios%20(2021).mp4
-#EXTINF:-1,tvg-name= "Nosotros.nunca.moriremos.2021", tvg-logo= "https://pics.filmaffinity.com/nosotros_nunca_moriremos-531574792-mmed.jpg", group-title= "DRAMA"
-http://201.172.61.203:88/Peliculas/Marzo%20Abril/Nosotros.nunca.moriremos.2021.WEB-DL.1080P-www.peliculasgoogledrive.info.mp4
-#EXTINF:-1,tvg-name= "Nuestros Pueblos (2021)", tvg-logo= "", group-title= ""
+
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
@@ -782,5 +826,30 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Nosotros.nunca.moriremos.2021.W
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+
 
 
