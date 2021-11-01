@@ -1,4 +1,58 @@
 #EXTM3U
+#EXTINF:-1,tvg-name= "Una Cenicienta moderna: salto a la fama", tvg-logo= "https://pics.filmaffinity.com/a_cinderella_story_starstruck-631731461-mmed.jpg", group-title= "ROMANCE"
+http://201.172.61.203:88/Peliculas/mkv/A.Cinderella.Story.Starstruck.2021.1080p.PGD..mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Alan Saldaña: Encarcelado", tvg-logo= "https://pics.filmaffinity.com/alan_saldana_encarcelado-982282932-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/mkv/Alan.Saldana.Locked.Up.2021..mkv.mp4
+#EXTINF:-1,tvg-name= "Awake.2021", tvg-logo= "https://pics.filmaffinity.com/awake-388496829-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.203:88/Peliculas/mkv/Awake.2021.mp4
+#EXTINF:-1,tvg-name= "Barbie y Chelsea, el cumpleaños perdido", tvg-logo= "https://pics.filmaffinity.com/barbie_chelsea_the_lost_birthday-263430552-mmed.jpg", group-title= "ANIMACIO"
+http://201.172.61.203:88/Peliculas/mkv/Barbie.and.Chelsea.The.Lost.Birthday.2021.mp4
+#EXTINF:-1,tvg-name= "Blue Miracle (2021)", tvg-logo= "https://pics.filmaffinity.com/blue_miracle-618336231-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/mkv/Blue%20Miracle%20(2021)%20HD%20720P%20Dual%20Audio.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "La casa de las flores: la película", tvg-logo= "https://pics.filmaffinity.com/la_casa_de_las_flores_la_pelicula-543196640-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/mkv/Casa.Flores.La.Pelicula.2021.mp4
+#EXTINF:-1,tvg-name= "Chadwick Boseman Portrait of an Artist 2021", tvg-logo= "https://pics.filmaffinity.com/chadwick_boseman_portrait_of_an_artist_s-892404268-mmed.jpg", group-title= "DOCUMENTAL"
+http://201.172.61.203:88/Peliculas/mkv/Chadwick%20Boseman%20Portrait%20of%20an%20Artist%202021.mkv
+#EXTINF:-1,tvg-name= "Chica skater (2021)", tvg-logo= "https://pics.filmaffinity.com/skater_girl-284801837-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/mkv/Chica%20skater%20(2021).mp4
+#EXTINF:-1,tvg-name= "Confinados (2021)", tvg-logo= "https://pics.filmaffinity.com/locked_down-819797194-mmed.jpg", group-title= "ROMANCE"
+http://201.172.61.203:88/Peliculas/mkv/Confinados%20(2021)%20WEB-DL%201080p%20Latino%20PGD.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "David Copeland El hombre que aterrorizó Londres (2021)", tvg-logo= "https://pics.filmaffinity.com/the_nailbomber-874250711-mmed.jpg", group-title= "DOCUMENTAL"
+http://201.172.61.203:88/Peliculas/mkv/David%20Copeland%20El%20hombre%20que%20aterroriz%c3%b3%20Londres%20(2021)%20HD%20720P%20Dual%20Audio.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "El Conjuro 3- El diablo me obligó a hacerlo (2021)", tvg-logo= "https://pics.filmaffinity.com/the_conjuring_the_devil_made_me_do_it-118623652-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/mkv/El%20Conjuro%203-%20El%20diablo%20me%20oblig%c3%b3%20a%20hacerlo%20(2021).mp4
+#EXTINF:-1,tvg-name= "El Experimento Fantasma (2021)", tvg-logo= "https://pics.filmaffinity.com/ghost_lab-687859481-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/mkv/El%20Experimento%20Fantasma%20(2021)%20HD%201080P%20Dual%20Audio.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "El dragón de la tetera (2021)", tvg-logo= "https://pics.filmaffinity.com/wish_dragon-759988207-mmed.jpg", group-title= "ANIMACION"
+http://201.172.61.203:88/Peliculas/mkv/El%20drag%c3%b3n%20de%20la%20tetera%20(2021)%201080p%20WEB-DL%20Latino%20Www.PeliculasGoogleDrive.Info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Endangered.Species.2021", tvg-logo= "https://pics.filmaffinity.com/endangered_species-433938041-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/mkv/Endangered.Species.2021.BRRip.1080p.LatinoNET.PGD..mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Fatherhood (2021)", tvg-logo= "https://pics.filmaffinity.com/fatherhood-729485901-mmed.jpg", group-title= "COMEDIA"
+http://201.172.61.203:88/Peliculas/mkv/Fatherhood%20(2021)%201080p%20NF%20WEB-DL%20Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Fast & Furious 9", tvg-logo= "https://pics.filmaffinity.com/fast_furious_9-833854731-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/mkv/First.Look.F9.The%20Fast.Saga.2021.WEB-DL.1080p.Latino.PGD.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Horario Estelar 2021", tvg-logo= "https://pics.filmaffinity.com/prime_time-204916971-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/mkv/Horario%20Estelar%202021%20NF%20WEB-DL%201080p%20Www.PeliculasGoogleDrive.Info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "In The Heights (2021)", tvg-logo= "https://pics.filmaffinity.com/in_the_heights-292428118-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/mkv/In%20The%20Heights%20(2021)%201080p%20HMAX%20WEB-DL%20Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Jagame.Thandhiram.2021", tvg-logo= "https://pics.filmaffinity.com/jagame_thandhiram-570108718-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/mkv/Jagame.Thandhiram.2021.WEBDL.1080p.Latino.PGD..mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Juanes.Origen.2021", tvg-logo= "https://pics.filmaffinity.com/juanes_origen-144368510-mmed.jpg", group-title= "DOCUMENTAL"
+http://201.172.61.203:88/Peliculas/mkv/Juanes.Origen.2021.1080p.PGD..mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Juega Conmigo (2021)", tvg-logo= "https://pics.filmaffinity.com/come_play-978131486-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/mkv/Juega%20Conmigo%20(2021)%20BRRip%201080p%20Latino%20PGD.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Medicina Mortal (2021)", tvg-logo= "https://pics.filmaffinity.com/deep-961391882-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/mkv/Medicina%20Mortal%20(2021)%20HD%201080P%20Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Occupation.Rainfall.2020", tvg-logo= "https://pics.filmaffinity.com/occupation_rainfall-415857677-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/mkv/Occupation.Rainfall.2020.mp4
+#EXTINF:-1,tvg-name= "Oslo (2021)", tvg-logo= "https://pics.filmaffinity.com/oslo-793575146-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/mkv/Oslo%20(2021)%201080p%20AMZN%20WEB-DL%20Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Ruega x Nosotros 2021", tvg-logo= "https://pics.filmaffinity.com/the_unholy-403969644-mmed.jpg", group-title= "TERROR"
+http://201.172.61.203:88/Peliculas/mkv/Ruega%20x%20Nosotros%202021.mp4
+#EXTINF:-1,tvg-name= "Samurái X El Fin (2021)", tvg-logo= "https://pics.filmaffinity.com/ruroni_kenshin_sai_shusho_the_final-184801124-mmed.jpg", group-title= "ACCION"
+http://201.172.61.203:88/Peliculas/mkv/Samur%c3%a1i%20X%20El%20Fin%20(2021)%20NF%20WEB-DL%201080p%20Latino%20PGD.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Selva.trágica.2020", tvg-logo= "https://pics.filmaffinity.com/selva_tragica-478705483-mmed.jpg", group-title= "DRAMA"
+http://201.172.61.203:88/Peliculas/mkv/Selva.tr%c3%a1gica.2020.mp4
 #EXTINF:-1,tvg-name= "The Marksman (El protector) (2021)", tvg-logo= "https://pics.filmaffinity.com/the_marksman-812692898-mmed.jpg", group-title= "ACCION"
 http://201.172.61.203:88/Peliculas/Marzo%20Abril/Ver%20The%20Marksman%20(El%20protector)%20(2021).mp4
 #EXTINF:-1,tvg-name= "WWE - Fastlane (2021)", tvg-logo= "https://images.moviefit.me/t/b/521874-wwe-fastlane-2020.webp", group-title= "ACCION"
@@ -845,6 +899,7 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Ver%20Sleepers%20(1996)%20Onlin
 
 
 
+
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
@@ -870,8 +925,8 @@ http://201.172.61.203:88/Peliculas/Marzo%20Abril/Ver%20Sleepers%20(1996)%20Onlin
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "Conducta inapropiada", tvg-logo= "https://pics.filmaffinity.com/bad_sister-489696873-mmed.jpg", group-title= "SUSPENSO"
+http://201.172.61.203:88/Peliculas/mkv/Hermana%20del%20pecado.mp4
 
 
 
