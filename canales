@@ -21,7 +21,7 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 tvg-id="UKR LIVE" tvg-country="UCRANIANO" tvg-language="" tvg-name="UKR LIVE" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ukr-live-ua.png" group-title="INTERNACIONAL"
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 
-#EXTINF:-1, tvg-id="TLR" tvg-country="MEXICO" tvg-language="spanish" tvg-name="TELERITMO" tvg-logo="https://scontent.frcu3-1.fna.fbcdn.net/v/t1.6435-9/241031749_4854012944612371_3034651089075864731_n.jpg" group-title="musica" ,3
+#EXTINF:-1, tvg-id="TLR" tvg-country="MEXICO" tvg-language="spanish" tvg-name="TELERITMO" tvg-logo="https://forounivers.com/uploads/monthly_2021_09/small.1611336780_12.1-XHSAWTeleritmo.png.bf2873adf8b83f15d455940aee51dae7.png" group-title="musica" ,3
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
 
 
