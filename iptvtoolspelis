@@ -914,60 +914,19 @@ http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/El.Hobbit.Un.Viaje.In
 http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/El.Hobbit.La.Desolacin.de.Smaug.2013.BRRip.1080p.LatinoWwW.PeliculasGoogleDrive.info.mkv%20-%20Google%20Drive.mp4
 #EXTINF:-1,tvg-name= "El Hobbit: La batalla de los cinco ejércitos", tvg-logo= "https://pics.filmaffinity.com/the_hobbit_the_battle_of_the_five_armies-282438316-mmed.jpg", group-title= "AVENTURA"
 http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/El.Hobbit.La.Batalla.de.los.Cinco.Ejrcitos.2014.BRRip.1080p.LatinoWwW.PeliculasGoogleDrive.info.mkv%20-%20Google%20Drive.mp4
-#EXTINF:-1, tvg-name= "Kung Fu Panda 2", tvg-logo= "https://image.tmdb.org/t/p/w300/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg", group-title= "ANIMACION"
-https://pelistop.co/embed-vxdi2r6po29i.html
-#EXTINF:-1, tvg-name= "Kung Fu Panda 3", tvg-logo= "https://image.tmdb.org/t/p/w300/joSDeRRYoNLbuSPw7SDAfBogZdH.jpg", group-title= "ANIMACION"
-https://pelistop.co/embed-sw5w0linrxah.html
-#EXTINF:-1, tvg-name= "Warning (2021)", tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt8956324.jpg", group-title= "SUSPENSO"
-https://pelistop.co/embed-va6cwj4cged1.html
+#EXTINF:-1,tvg-name= "El señor de los anillos: La comunidad del anillo", tvg-logo= "https://pics.filmaffinity.com/the_lord_of_the_rings_the_fellowship_of_the_ring-952398002-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/El.Seor.de.los.Anillos.La.Comunidad.del.Anillo.2001.BDRip.1080p.LatinoWwW.PeliculasGoogleDrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "El señor de los anillos: Las dos torres", tvg-logo= "https://pics.filmaffinity.com/the_lord_of_the_rings_the_two_towers-450612576-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/El.Seor.de.los.Anillos.Las.Dos.Torres.2002.BDRip.1080p.LatinoWwW.PeliculasGoogleDrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "El señor de los anillos: El retorno del rey", tvg-logo= "https://pics.filmaffinity.com/the_lord_of_the_rings_the_return_of_the_king-178294596-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/El.Seor.de.los.Anillos.El.Retorno.del.Rey.2003.BDRip.1080p.LatinoWwW.PeliculasGoogleDrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1,tvg-name= "Regreso al futuro", tvg-logo= "https://pics.filmaffinity.com/back_to_the_future-100822308-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.81:85/peliculas/4K/*BACK.TO.THE.FUTURE.1985.4K.mp4
+#EXTINF:-1,tvg-name= "Regreso al futuro II", tvg-logo= "https://pics.filmaffinity.com/back_to_the_future_part_ii-865007932-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.81:85/peliculas/4K/*BACK.TO.THE.FUTURE.1989.4K.mp4
+#EXTINF:-1,tvg-name= "Regreso al futuro III", tvg-logo= "https://pics.filmaffinity.com/back_to_the_future_part_iii-223713634-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.81:85/peliculas/4K/*BACK.TO.THE.FUTURE.1990.4K.mp4
 
-#EXTINF:-1, tvg-name= "Pokémon: Los secretos de la selva (2020)", tvg-logo= "https://image.tmdb.org/t/p/w300/r6FMNFl4mAnwFC5vgAGi2acmQlC.jpg", group-title= "ANIMACION"
-#EXTINF:-1, tvg-name= "La batalla olvidada" tvg-logo= "https://img.repelis.id/cover/de-slag-om-de-schelde-2-1634439963.jpg", group-title= "BELICO"
-#EXTINF:-1, tvg-name= "Dios mío ¡los niños han vuelto!" tvg-logo= "https://img.repelis.id/cover/chacun-chez-soi-2-1634638223.jpg", group-title= "COMEDIA"
-#EXTINF:-1, tvg-name= "Cowboys (2020)" tvg-logo= "https://image.tmdb.org/t/p/w300/88ddT0lpefhVCwN0hNCA4dH2IKU.jpg", group-title= "DRAMA"
-#EXTINF:-1, tvg-name= "The House Next Door: Meet the Blacks 2 (2021)" tvg-logo= "https://image.tmdb.org/t/p/w300/Yo3wwbzlKLgzH7Wd8YZniNYC24.jpg", group-title= "TERROR"
-#EXTINF:-1, tvg-name= "Possessor Uncut (2020)" tvg-logo= "https://image.tmdb.org/t/p/w300/oLQlUUSlI669r1bgQ7AlnjcrrvC.jpg", group-title= "SUSPENSO"
-#EXTINF:-1, tvg-name= "The Toll (2020)" tvg-logo= "https://image.tmdb.org/t/p/w300/q6vV6sSWz9cytmc8L9IEBjjyFmV.jpg", group-title= "SUSPENSO"
-#EXTINF:-1, tvg-name= "V/H/S/94 (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt14867006.jpg", group-title= "TERROR"
-#EXTINF:-1, tvg-name= "La casa oscura (2020)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt9731534.jpg", group-title= "SUSPENSO"
-#EXTINF:-1, tvg-name= "Los locos Addams 2 (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt11125620.jpg", group-title= "ANIMACION"
-#EXTINF:-1, tvg-name= "Los Santos Del La Mafia (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt8110232.jpg", group-title= "DRAMA"
-#EXTINF:-1, tvg-name= "Culpable (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt9421570.jpg", group-title= "DRAMA"
-#EXTINF:-1, tvg-name= "Blue Bayou (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/10/tt11121664.jpg", group-title= "DRAMA"
-#EXTINF:-1, tvg-name= "Isabelle (2018)" tvg-logo= "https://image.tmdb.org/t/p/w300/7AKS0KlPv9WdgzbGj5kdP6WKb9q.jpg", group-title= "TERROR"
-#EXTINF:-1, tvg-name= "Hijos del Sur (2020)", tvg-logo= "https://image.tmdb.org/t/p/w300/lXWNioS8Su3CbpCr4NNeMUG3Ulv.jpg", group-title= "DRAMA"
-#EXTINF:-1, tvg-name= "Violet Evergarden La Pelicula (2020)" tvg-logo= "https://image.tmdb.org/t/p/w300/mpNG6z33xOtUWuOU83BE0bvorxi.jpg", group-title= "ANIMACION"
-#EXTINF:-1, tvg-name= "The Voyeurs (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt11235772.jpg", group-title= "SUSPENSO"
-#EXTINF:-1, tvg-name= "No respires (2016)" tvg-logo= "https://image.tmdb.org/t/p/w300/kkUMGON2uFRlxI3zIMFdjqARnbb.jpg", group-title= "SUSPENSO"
-
-#EXTINF:-1, tvg-name= "Good Joe Bell (2020)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/08/tt4651466.jpg", group-title= "DRAMA"
-#EXTINF:-1, tvg-name= "Batman: The Long Halloween, Part Two (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt14402926.jpg", group-title= "ANIMACION"
-#EXTINF:-1, tvg-name= "Pig (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt11003218.jpg", group-title= "SUSPENSO"
-#EXTINF:-1, tvg-name= "La purga por siempre (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt10327252.jpg", group-title= "TERROR"
-#EXTINF:-1, tvg-name= "Gunpowder Milkshake (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt8368408.jpg", group-title= "ACCION"
-#EXTINF:-1, tvg-name= "Settlers (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt9373688.jpg", group-title= "SUSPENSO"
-#EXTINF:-1, tvg-name= "Werewolves Within (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt9288692.jpg", group-title= "COMEDIA"
-#EXTINF:-1, tvg-name= "Ni un paso en falso (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/07/tt11525644.jpg", group-title= "DRAMA"
-#EXTINF:-1, tvg-name= "My Son (2021)" tvg-logo= "https://miradetodo.co/wp-content/uploads/2021/09/tt13234058.jpg", group-title= "SUSPENSO"
-#EXTINF:-1, tvg-name= "FREE GUY" tvg-logo= "https://pics.filmaffinity.com/free_guy-297648487-mmed.jpg", group-title= "COMEDIA"
-#EXTINF:-1, tvg-name= "El oso Yogui (2010)", tvg-logo= "https://image.tmdb.org/t/p/w300/cxOdo5OseGUTepSqF9bRjnrTflb.jpg", group-title= "ANIMACION"
-#EXTINF:-1,tvg-name= "Chappie (2015)", tvg-logo= "https://image.tmdb.org/t/p/w300/18IydtBgq8aJZpbP6NxCAGjHhae.jpg", group-title= "ACCION"
-#EXTINF:-1,tvg-name= "Acero puro (2011)", tvg-logo= "https://image.tmdb.org/t/p/w300/gqjKG4Z24pjYxcOfCd9p6WAnYlG.jpg", group-title= "ACCION"
-#EXTINF:-1,tvg-name= "Prisioneros (2013)", tvg-logo= "https://image.tmdb.org/t/p/w300/uhviyknTT5cEQXbn6vWIqfM4vGm.jpg", group-title= "DRAMA"
-
-#EXTINF:-1,tvg-name= "La fuente de la vida (2006)", tvg-logo= "https://image.tmdb.org/t/p/w300/16EoIGCaDzx0jSx2vfyRKSov6XG.jpg", group-title= "DRAMA"
-#EXTINF:-1,tvg-name= "El gran showman (2017)", tvg-logo= "https://image.tmdb.org/t/p/w300/mJPcxrlRCGHPsZcF8H4qw7ZyCjz.jpg", group-title= "DRAMA"
-#EXTINF:-1,tvg-name= "La estafa (2019)", tvg-logo= "https://image.tmdb.org/t/p/w300/gizz5FphOtfSnLaGpRALOZgILd5.jpg", group-title= "DRAMA"
-#EXTINF:-1,tvg-name= "Los Miserables (2012)", tvg-logo= "https://image.tmdb.org/t/p/w300/90PyvT7SI5INKhMC6P7B5NJVx4t.jpg", group-title= "DRAMA"
-#EXTINF:-1,tvg-name= "El candidato (2018)", tvg-logo= "https://image.tmdb.org/t/p/w300/7iMNvhINYaYwsF1jC5VaDeQ1V70.jpg", group-title= "DRAMA"
-
-
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
