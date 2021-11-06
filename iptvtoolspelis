@@ -1039,12 +1039,13 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Aladino%202019.mk
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Al%20filo%20del%20ma%c3%b1ana.mp4
 #EXTINF:-1,tvg-name= "Baby: El aprendiz del crimen", tvg-logo= "https://pics.filmaffinity.com/baby_driver-399368582-mmed.jpg", group-title= "ACCION"_14
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Baby%20Baby-%20El%20Aprendiz%20del%20Crimen.mp4
-#EXTINF:-1,tvg-L,= "", group-title= "ACCION"_15
+#EXTINF:-1,tvg-name= "Barry Seal: Solo en América", tvg-logo= "https://pics.filmaffinity.com/american_made-694891692-mmed.jpg", group-title= "ACCION"_15
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Barry%20Seal-%20El%20traficante%20_%20Solo%20en%20Am%c3%a9rica.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_16
+#EXTINF:-1,tvg-name= "Batman Vs. Teenage Mutant Ninja Turtles", tvg-logo= "https://pics.filmaffinity.com/batman_vs_teenage_mutant_ninja_turtles-827323312-mmed.jpg", group-title= "ACCION"_16
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Batman%20y%20las%20Tortugas%20Ninja%20Online%20(2019).mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_17
+#EXTINF:-1,tvg-name= "Grandes héroes", tvg-logo= "https://pics.filmaffinity.com/big_hero_6-799861615-mmed.jpg", group-title= "ACCION"_17
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Big%20Hero%206%20_%20Grandes%20h%c3%a9roes.mp4
+
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_18
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Bleach%20Online%20(2018).mp4
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_19
