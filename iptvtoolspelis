@@ -618,10 +618,6 @@ http://51.77.66.14/Marvel/Los%20Vengadores/Los%20Vengadores%201.mkv
 http://51.77.66.14/Marvel/Los%20Vengadores/Los%20Vengadores%202%20-%20Era%20de%20Ultron.mkv
 #EXTINF:-1,tvg-name= "Vengadores: Infinity War", tvg-logo= "https://pics.filmaffinity.com/avengers_infinity_war-181539353-mmed.jpg", group-title= "ACCION"
 http://51.77.66.14/Marvel/Los%20Vengadores/Los%20Vengadores%203%20-%20Infinity%20War.mkv
-#EXTINF:-1,tvg-name= "The Amazing Spider-Man", tvg-logo= "https://pics.filmaffinity.com/the_amazing_spider_man_the_amazing_spiderman-672391099-mmed.jpg", group-title= "ACCION"
-http://51.77.66.14/Marvel/Spider-Man/El%20Sorprendente%20Hombre%20Ara%c3%b1a%201.mkv
-#EXTINF:-1,tvg-name= "The Amazing Spider-Man 2: El poder de Electro", tvg-logo= "https://pics.filmaffinity.com/the_amazing_spider_man_2_rise_of_electro_aka_the_amazing_spiderman_2-715327272-mmed.jpg", group-title= "ACCION"
-http://51.77.66.14/Marvel/Spider-Man/El%20Sorprendente%20Hombre%20Ara%c3%b1a%202%20-%20La%20Venganza%20de%20Electro.mkv
 #EXTINF:-1,tvg-name= "Spider-Man: Homecoming", tvg-logo= "https://pics.filmaffinity.com/spider_man_homecoming-336093112-mmed.jpg", group-title= "ACCION"
 http://51.77.66.14/Marvel/Spider-Man/Spider-Man%20-%20De%20Regreso%20a%20Casa.mkv
 #EXTINF:-1,tvg-name= "Spiderman", tvg-logo= "https://pics.filmaffinity.com/spider_man_spiderman-945131720-mmed.jpg", group-title= "ACCION"
@@ -630,6 +626,18 @@ http://51.77.66.14/Marvel/Spider-Man/Spider-Man%201.mkv
 http://51.77.66.14/Marvel/Spider-Man/Spider-Man%202.mkv
 #EXTINF:-1,tvg-name= "Spiderman 3", tvg-logo= "https://pics.filmaffinity.com/spider_man_3_spiderman_3-381165300-mmed.jpg", group-title= "ACCION"
 http://51.77.66.14/Marvel/Spider-Man/Spider-Man%203.mkv
+#EXTINF:-1,tvg-name= "Spider-Man- Homecoming (2017)", tvg-logo= "https://pics.filmaffinity.com/spider_man_homecoming-336093112-mmed.jpg", group-title= "ACCION"
+http://201.172.61.81:85/peliculas/octubre/Marvel/Ver%20Spider-Man-%20Homecoming%20(2017)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "Spider-Man- Lejos de Casa (2019)", tvg-logo= "https://pics.filmaffinity.com/spider_man_far_from_home-339542528-mmed.jpg", group-title= "ACCION"
+http://201.172.61.81:85/peliculas/octubre/Marvel/Ver%20Spider-Man-%20Lejos%20de%20Casa%20(2019)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "The Amazing Spider-Man (2012)", tvg-logo= "https://pics.filmaffinity.com/the_amazing_spider_man_the_amazing_spiderman-672391099-mmed.jpg", group-title= "ACCION"
+http://201.172.61.81:85/peliculas/octubre/Marvel/Ver%20The%20Amazing%20Spider-Man%20(2012)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "The Amazing Spider-Man 2- El poder de Electro (2014) ", tvg-logo= "https://pics.filmaffinity.com/the_amazing_spider_man_2_rise_of_electro_aka_the_amazing_spiderman_2-715327272-mmed.jpg", group-title= "ACCION"
+http://201.172.61.81:85/peliculas/octubre/Marvel/Ver%20The%20Amazing%20Spider-Man%202-%20El%20poder%20de%20Electro%20(2014)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "The Amazing Spider-Man", tvg-logo= "https://pics.filmaffinity.com/the_amazing_spider_man_the_amazing_spiderman-672391099-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Spider-Man/El%20Sorprendente%20Hombre%20Ara%c3%b1a%201.mkv
+#EXTINF:-1,tvg-name= "The Amazing Spider-Man 2: El poder de Electro", tvg-logo= "https://pics.filmaffinity.com/the_amazing_spider_man_2_rise_of_electro_aka_the_amazing_spiderman_2-715327272-mmed.jpg", group-title= "ACCION"
+http://51.77.66.14/Marvel/Spider-Man/El%20Sorprendente%20Hombre%20Ara%c3%b1a%202%20-%20La%20Venganza%20de%20Electro.mkv
 #EXTINF:-1,tvg-name= "Thor", tvg-logo= "https://pics.filmaffinity.com/thor-223512549-mmed.jpg", group-title= "ACCION"
 http://51.77.66.14/Marvel/Thor/Thor%201.mkv
 #EXTINF:-1,tvg-name= "Thor: El mundo oscuro", tvg-logo= "https://pics.filmaffinity.com/thor_the_dark_world-763570829-mmed.jpg", group-title= "ACCION"
@@ -964,7 +972,69 @@ http://201.172.61.81:85/peliculas/sagas/Crepusculo%204%20Amanecer%20parte%201%20
 http://201.172.61.81:85/peliculas/sagas/Crepusculo%205%20Amanecer%20parte%202%20(2012).mp4
 #EXTINF:-1,tvg-name= "Transformers", tvg-logo= "https://pics.filmaffinity.com/transformers-262115081-mmed.jpg", group-title= "CIENCIA FICCION"
 http://201.172.61.81:85/peliculas/sagas/1.mp4
+#EXTINF:-1,tvg-name= "Transformers: La venganza de los caídos", tvg-logo= "https://pics.filmaffinity.com/transformers_revenge_of_the_fallen-880744056-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.81:85/peliculas/sagas/2.mp4
+#EXTINF:-1,tvg-name= "Transformers: El lado oscuro de la Luna", tvg-logo= "https://pics.filmaffinity.com/transformers_dark_of_the_moon_transformers_3-868681391-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.81:85/peliculas/sagas/3.mp4
+#EXTINF:-1,tvg-name= "Transformers: La era de la extinción", tvg-logo= "https://pics.filmaffinity.com/transformers_age_of_extinction_transformers_4-446737998-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.81:85/peliculas/sagas/4.mp4
+#EXTINF:-1,tvg-name= "Transformers: El último caballero", tvg-logo= "https://pics.filmaffinity.com/transformers_the_last_knight-188708679-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.81:85/peliculas/sagas/5.mp4
+#EXTINF:-1,tvg-name= "Men in Black (Hombres de negro)", tvg-logo= "https://pics.filmaffinity.com/men_in_black_mib-438261396-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.81:85/peliculas/sagas/*MEN.IN.BLACK.1.mp4
+#EXTINF:-1,tvg-name= "MIIB: Hombres de negro II (Men in Black 2)", tvg-logo= "https://pics.filmaffinity.com/men_in_black_2_mib_2-688714165-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.81:85/peliculas/sagas/*MEN.IN.BLACK.2.mp4
+#EXTINF:-1,tvg-name= "Men In Black 3 (Hombres de negro III)", tvg-logo= "https://pics.filmaffinity.com/men_in_black_3_men_in_black_iii_mib3_men_in_black_3d-287523233-mmed.jpg", group-title= "CIENCIA FICCION"
+http://201.172.61.81:85/peliculas/sagas/*MEN.IN.BLACK.3.mp4
+#EXTINF:-1,tvg-name= "Lara Croft: Tomb Raider", tvg-logo= "https://pics.filmaffinity.com/lara_croft_tomb_raider-608849532-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/octubre/LARA.CROFT.TOMB.RAIDER.1%204K.mp4
+#EXTINF:-1,tvg-name= "Lara Croft Tomb Raider 2: La cuna de la vida", tvg-logo= "https://pics.filmaffinity.com/lara_croft_tomb_raider_the_cradle_of_life-430297978-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/octubre/LARA.CROFT.TOMB.RAIDER.THE.CRADLE.OF.LIFE.%202%204K.mp4
+#EXTINF:-1,tvg-name= "Tomb Raider", tvg-logo= "https://pics.filmaffinity.com/tomb_raider-485556121-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/octubre/TombRaiderLassdeLaraCroft2018.mp4
+#EXTINF:-1,tvg-name= "Rocky", tvg-logo= "https://pics.filmaffinity.com/rocky-297722683-mmed.jpg", group-title= "DRAMA"
+http://51.77.66.14/Rocky/%5b1080p%5d%20Rocky%20%20(1976)%20BDRip%20Dual%20Audio/%5b1080p%5d%20Rocky%20%20(1976)%20BDRip%20Dual%20Audio.mkv
+#EXTINF:-1,tvg-name= "Rocky II", tvg-logo= "https://pics.filmaffinity.com/rocky_ii-638848007-mmed.jpg", group-title= "DRAMA"
+http://51.77.66.14/Rocky/%5b1080p%5d%20Rocky%20II%20(1979)%20BDRip%20Dual%20Audio/%5b1080p%5d%20Rocky%20II%20(1979)%20BDRip%20Dual%20Audio.mkv
+#EXTINF:-1,tvg-name= "Rocky III", tvg-logo= "https://pics.filmaffinity.com/rocky_iii-182829734-mmed.jpg", group-title= "DRAMA"
+http://51.77.66.14/Rocky/%5b1080p%5d%20Rocky%20III%20%20(1982)%20BDRip%20Dual%20Audio/%5b1080p%5d%20Rocky%20III%20%20(1982)%20BDRip%20Dual%20Audio.mkv
+#EXTINF:-1,tvg-name= "Rocky IV", tvg-logo= "https://pics.filmaffinity.com/rocky_iv-104851625-mmed.jpg", group-title= "DRAMA"
+http://51.77.66.14/Rocky/%5b1080p%5d%20Rocky%20IV%20(1985)%20BDRip%20Dual%20Audio/%5b1080p%5d%20Rocky%20IV%20(1985)%20BDRip%20Dual%20Audio.mkv
+#EXTINF:-1,tvg-name= "Rocky V", tvg-logo= "https://pics.filmaffinity.com/rocky_v-872053278-mmed.jpg", group-title= "DRAMA"
+http://51.77.66.14/Rocky/%5b1080p%5d%20Rocky%20V%20(1990)%20BDRip%20Dual%20Audio/%5b1080p%5d%20Rocky%20V%20(1990)%20BDRip%20Dual%20Audio.mkv
+#EXTINF:-1,tvg-name= "Rocky Balboa", tvg-logo= "https://pics.filmaffinity.com/rocky_balboa-314141025-mmed.jpg", group-title= "DRAMA"
+http://51.77.66.14/Rocky/%5b1080p%5d%20Rocky%20Balboa%20(2006)%20BDRip%20Dual%20Audio/%5b1080p%5d%20Rocky%20Balboa%20(2006)%20BDRip%20Dual%20Audio.mkv
 
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
