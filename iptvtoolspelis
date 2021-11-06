@@ -926,25 +926,43 @@ http://201.172.61.81:85/peliculas/4K/*BACK.TO.THE.FUTURE.1985.4K.mp4
 http://201.172.61.81:85/peliculas/4K/*BACK.TO.THE.FUTURE.1989.4K.mp4
 #EXTINF:-1,tvg-name= "Regreso al futuro III", tvg-logo= "https://pics.filmaffinity.com/back_to_the_future_part_iii-223713634-mmed.jpg", group-title= "CIENCIA FICCION"
 http://201.172.61.81:85/peliculas/4K/*BACK.TO.THE.FUTURE.1990.4K.mp4
+#EXTINF:-1,tvg-name= "La momia", tvg-logo= "https://pics.filmaffinity.com/the_mummy-114901456-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/sagas/la%20momia%201.mp4
+#EXTINF:-1,tvg-name= "El regreso de la momia", tvg-logo= "https://pics.filmaffinity.com/the_mummy_returns-633071656-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/sagas/la%20momia%202.mp4
+#EXTINF:-1,tvg-name= "La momia: La tumba del emperador Dragón", tvg-logo= "https://pics.filmaffinity.com/the_mummy_tomb_of_the_dragon_emperor_the_mummy_3-448215110-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/sagas/la%20momia%203.mp4
+#EXTINF:-1,tvg-name= "The Mummy", tvg-logo= "https://pics.filmaffinity.com/the_mummy-692544562-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/sagas/la%20momia%202017.mp4
+#EXTINF:-1,tvg-name= "Misión imposible", tvg-logo= "https://pics.filmaffinity.com/mission_impossible-107188957-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Mission-%20Impossible%20(1996)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "Misión imposible 2", tvg-logo= "https://pics.filmaffinity.com/mission_impossible_2_m_i_2-704255287-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Misi%c3%b3n-%20Imposible%202%20(2000)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "Misión imposible 3", tvg-logo= "https://pics.filmaffinity.com/mission_impossible_iii_m_i_iii-654906638-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Misi%c3%b3n%20imposible%20III%20(2006)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "Misión imposible: Protocolo fantasma", tvg-logo= "https://pics.filmaffinity.com/mission_impossible_ghost_protocol-284514904-mmed.jpg", group-title= "AVENTURA"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Misi%c3%b3n%20imposible-%20Protocolo%20fantasma%20(Misi%c3%b3n%20imposible%20IV)%20(2011)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "Resident Evil", tvg-logo= "https://pics.filmaffinity.com/resident_evil-745128766-mmed.jpg", group-title= "ACCION"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Resident%20Evil%20(2002)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "Resident Evil 2: Apocalipsis", tvg-logo= "https://pics.filmaffinity.com/resident_evil_apocalypse_resident_evil_2-809485234-mmed.jpg", group-title= "ACCION"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Resident%20Evil%202-%20Apocalipsis%20(2004)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "Resident Evil 3: Extinción", tvg-logo= "https://pics.filmaffinity.com/resident_evil_extinction_resident_evil_3-571197761-mmed.jpg", group-title= "ACCION"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Resident%20Evil%203-%20Extinci%c3%b3n%20(2007)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "Resident Evil 4: Ultratumba", tvg-logo= "https://pics.filmaffinity.com/resident_evil_afterlife_resident_evil_4-366448972-mmed.jpg", group-title= "ACCION"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Resident%20Evil%204-%20Ultratumba%20(2010)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "Resident Evil: Capítulo final", tvg-logo= "https://pics.filmaffinity.com/resident_evil_the_final_chapter-767602682-mmed.jpg", group-title= "ACCION"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Resident%20Evil-%20El%20cap%c3%adtulo%20final%20(2016)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "Crepúsculo (Twilight)", tvg-logo= "https://pics.filmaffinity.com/twilight-976997289-mmed.jpg", group-title= "FANTASIA"
+http://201.172.61.81:85/peliculas/sagas/Crepusculo%201%20(2008).mp4
+#EXTINF:-1,tvg-name= "La saga Crepúsculo: Luna nueva", tvg-logo= "https://pics.filmaffinity.com/the_twilight_saga_new_moon_twilight_2-890518239-mmed.jpg", group-title= "FANTASIA"
+http://201.172.61.81:85/peliculas/sagas/Crepusculo%202%20Luna%20nueva%20(2009).mp4
+#EXTINF:-1,tvg-name= "La saga Crepúsculo: Eclipse", tvg-logo= "https://pics.filmaffinity.com/the_twilight_saga_eclipse_twilight_3-285102910-mmed.jpg", group-title= "FANTASIA"
+http://201.172.61.81:85/peliculas/sagas/Crepusculo%203%20Eclipce%20(2010).mp4
+#EXTINF:-1,tvg-name= "La saga Crepúsculo: Amanecer - Parte 1", tvg-logo= "https://pics.filmaffinity.com/the_twilight_saga_breaking_dawn_part_1-471141705-mmed.jpg", group-title= "FANTASIA"
+http://201.172.61.81:85/peliculas/sagas/Crepusculo%204%20Amanecer%20parte%201%20(2011).mp4
+#EXTINF:-1,tvg-name= "La saga Crepúsculo: Amanecer - Parte 2", tvg-logo= "https://pics.filmaffinity.com/the_twilight_saga_breaking_dawn_part_2-874720065-mmed.jpg", group-title= "FANTASIA"
+http://201.172.61.81:85/peliculas/sagas/Crepusculo%205%20Amanecer%20parte%202%20(2012).mp4
 
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
