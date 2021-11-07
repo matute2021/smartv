@@ -966,6 +966,10 @@ http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Resident%20Evil
 http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Resident%20Evil%204-%20Ultratumba%20(2010)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1,tvg-name= "Resident Evil: Capítulo final", tvg-logo= "https://pics.filmaffinity.com/resident_evil_the_final_chapter-767602682-mmed.jpg", group-title= "ACCION"
 http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Resident%20Evil-%20El%20cap%c3%adtulo%20final%20(2016)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
+#EXTINF:-1,tvg-name= "Resident Evil: Capítulo final", tvg-logo= "https://pics.filmaffinity.com/resident_evil_the_final_chapter-767602682-mmed.jpg", group-title= "ACCION"_120
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Resident%20Evil-%20Vendetta%20Online%20(2017)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
+#EXTINF:-1,tvg-name= "Resident Evil: La maldición", tvg-logo= "https://pics.filmaffinity.com/biohazard_damnation_resident_evil_damnation-502525168-mmed.jpg", group-title= "ACCION"_3
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20-%20Biohazard-%20Damnation.mkv
 #EXTINF:-1,tvg-name= "Crepúsculo (Twilight)", tvg-logo= "https://pics.filmaffinity.com/twilight-976997289-mmed.jpg", group-title= "FANTASIA"
 http://201.172.61.81:85/peliculas/sagas/Crepusculo%201%20(2008).mp4
 #EXTINF:-1,tvg-name= "La saga Crepúsculo: Luna nueva", tvg-logo= "https://pics.filmaffinity.com/the_twilight_saga_new_moon_twilight_2-890518239-mmed.jpg", group-title= "FANTASIA"
@@ -1015,8 +1019,6 @@ http://51.77.66.14/Rocky/%5b1080p%5d%20Rocky%20Balboa%20(2006)%20BDRip%20Dual%20
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/12%20strong.mp4
 #EXTINF:-1,tvg-name= "300", tvg-logo= "https://pics.filmaffinity.com/300-177205452-mmed.jpg", group-title= "ACCION"_2
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/300.mp4
-#EXTINF:-1,tvg-name= "Resident Evil: La maldición", tvg-logo= "https://pics.filmaffinity.com/biohazard_damnation_resident_evil_damnation-502525168-mmed.jpg", group-title= "ACCION"_3
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20-%20Biohazard-%20Damnation.mkv
 #EXTINF:-1,tvg-name= "Coffee & Kareem", tvg-logo= "https://pics.filmaffinity.com/coffee_kareem-955479541-mmed.jpg", group-title= "ACCION"_4
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/ACCION%20-%20Coffee%20&amp;%20Kareem.mp4
 #EXTINF:-1,tvg-name= "El silencio del pantano", tvg-logo= "https://pics.filmaffinity.com/el_silencio_del_pantano-252305344-mmed.jpg", group-title= "ACCION"_5
@@ -1171,189 +1173,177 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20En%20el%20c
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Furious%20Online%20(2017)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
 #EXTINF:-1,tvg-name= "Ghost in the Graveyard", tvg-logo= "https://pics.filmaffinity.com/ghost_in_the_graveyard-735850935-mmed.jpg", group-title= "ACCION"_96
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Ghost%20in%20the%20Graveyard%20(2019)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_97
+#EXTINF:-1,tvg-name= "Godzilla II: El rey de los monstruos", tvg-logo= "https://pics.filmaffinity.com/godzilla_king_of_the_monsters-188251207-mmed.jpg", group-title= "ACCION"_98
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Godzilla%202-%20El%20rey%20de%20los%20monstruos%20Online%20(2019)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_98
+#EXTINF:-1,tvg-name= "Godzilla", tvg-logo= "https://pics.filmaffinity.com/godzilla-907479723-mmed.jpg", group-title= "ACCION"_97
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Godzilla%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_99
+#EXTINF:-1,tvg-name= "Terremoto", tvg-logo= "https://pics.filmaffinity.com/skjelvet-904135569-mmed.jpg", group-title= "ACCION"_99
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Gran%20terremoto%209%20grados%20_%20The%20Quake%20Online%20(2018)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_100
+#EXTINF:-1,tvg-name= "Gringo: Se busca vivo o muerto", tvg-logo= "hTtps://pics.filmaffinity.com/gringo-730732457-mmed.jpg", group-title= "COMEDIA"_100
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Gringo-%20Se%20busca%20vivo%20o%20muerto%20Online%20(2018)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_101
+#EXTINF:-1,tvg-name= "Infierno en la tormenta", tvg-logo= "https://pics.filmaffinity.com/crawl-509847839-mmed.jpg", group-title= "ACCION"_101
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Infierno%20en%20la%20tormenta%20Online%20(2019)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_102
+#EXTINF:-1,tvg-name= "Wild Card", tvg-logo= "https://pics.filmaffinity.com/wild_card-847505177-mmed.jpg", group-title= "ACCION"_102
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Jugada%20salvaje%20Online%20(2015)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_103
+#EXTINF:-1,tvg-name= "Parque Jurásico III", tvg-logo= "https://pics.filmaffinity.com/jurassic_park_iii-818382115-mmed.jpg", group-title= "CIENCIA FICCION"_103
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Jurassic%20Park%203%20_%20Parque%20Jur%c3%a1sico%203%20Online%20(2001)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_104
+#EXTINF:-1,tvg-name= "La leyenda de Tarzán", tvg-logo= "https://pics.filmaffinity.com/the_legend_of_tarzan-818526097-mmed.jpg", group-title= "AVENTURA"_104
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20La%20leyenda%20de%20Tarz%c3%a1n%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_105
+#EXTINF:-1,tvg-name= "Dolittle", tvg-logo= "https://pics.filmaffinity.com/dolittle-424449000-mmed.jpg", group-title= "COMEDIA"_105
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Las%20aventuras%20del%20Doctor%20Dolittle%20Online%20(2020)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_106
+#EXTINF:-1,tvg-name= "Los siete magníficos", tvg-logo= "https://pics.filmaffinity.com/the_magnificent_seven-581301769-mmed.jpg", group-title= "ACCION"_106
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Los%20Siete%20Magn%c3%adficos%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_107
+#EXTINF:-1,tvg-name= "Los indestructibles 3", tvg-logo= "https://pics.filmaffinity.com/the_expendables_3-757622386-mmed.jpg", group-title= "ACCION"_107
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Los%20mercenarios%203%20_%20Los%20indestructibles%203%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_108
+#EXTINF:-1,tvg-name= "Los indestructibles", tvg-logo= "https://pics.filmaffinity.com/the_expendables-597606855-mmed.jpg", group-title= "ACCION"_108
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Los%20mercenarios%20_%20Los%20indestructibles%20Online%20(2010)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_109
+#EXTINF:-1,tvg-name= "Lucy", tvg-logo= "https://pics.filmaffinity.com/lucy-170037491-mmed.jpg", group-title= "ACCION"_109
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Lucy%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_110
+#EXTINF:-1,tvg-name= "Manos de Piedra", tvg-logo= "https://pics.filmaffinity.com/hands_of_stone-107446832-mmed.jpg", group-title= "ACCION"_110
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Manos%20de%20piedra%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_111
+#EXTINF:-1,tvg-name= "Matar o morir", tvg-logo= "https://pics.filmaffinity.com/peppermint-215982236-mmed.jpg", group-title= "ACCION"_111
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Matar%20o%20morir%20_%20Peppermint%20Online%20(2018)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_112
+#EXTINF:-1,tvg-name= "Mayhem", tvg-logo= "https://pics.filmaffinity.com/mayhem-695673388-mmed.jpg", group-title= "ACCION"_112
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Mayhem%20Online%20(2017)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_113
+#EXTINF:-1,tvg-name= "El especialista: Resurrección", tvg-logo= "https://pics.filmaffinity.com/mechanic_resurrection_aka_mechanic_2-802246610-mmed.jpg", group-title= "ACCION"_113
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Mechanic-%20Resurrection%20_%20El%20especialista-%20La%20resurrecci%c3%b3n%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_114
+#EXTINF:-1,tvg-name= "Misterio a bordo", tvg-logo= "https://pics.filmaffinity.com/murder_mystery-661435227-mmed.jpg", group-title= "COMEDIA"_114
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Misterio%20a%20bordo%20Online%20(2019)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_115
+#EXTINF:-1,tvg-name= "Need for speed: La película", tvg-logo= "https://pics.filmaffinity.com/need_for_speed-821158567-mmed.jpg", group-title= "ACCION"_115
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Need%20for%20Speed-%20La%20pel%c3%adcula%20Online%20(2014)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_116
+#EXTINF:-1,tvg-name= "Londres bajo fuego", tvg-logo= "https://pics.filmaffinity.com/london_has_fallen-637419563-mmed.jpg", group-title= "ACCION"_116
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Objetivo-%20Londres%20bajo%20fuego%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_117
+#EXTINF:-1,tvg-name= "Ong Bak: El inicio", tvg-logo= "https://pics.filmaffinity.com/ong_bak_2-179677630-mmed.jpg", group-title= "ARTES MARCIALES"_117
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Ong%20Bak%202-%20La%20leyenda%20del%20Rey%20Elefante%20Online%20(2008)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_118
+#EXTINF:-1,tvg-name= "Escape imposible", tvg-logo= "https://pics.filmaffinity.com/escape_plan-288668079-mmed.jpg", group-title= "ACCION"_118
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Plan%20de%20escape%20Online%20(2013)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_119
+#EXTINF:-1,tvg-name= "Rampage: Devastación", tvg-logo= "https://pics.filmaffinity.com/rampage-883985272-mmed.jpg", group-title= "ACCION"_119
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Rampage-%20Devastaci%c3%b3n%20Online%20(2018)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_120
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Resident%20Evil-%20Vendetta%20Online%20(2017)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_121
+#EXTINF:-1,tvg-name= "Robin Hood: La rebelión", tvg-logo= "https://pics.filmaffinity.com/robin_hood_the_rebellion-384151129-mmed.jpg", group-title= "AVENTURA"_121
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Robin%20Hood%20Online%20(2018)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_122
+#EXTINF:-1,tvg-name= "Terremoto: La Falla de San Andrés", tvg-logo= "https://pics.filmaffinity.com/san_andreas-397400007-mmed.jpg", group-title= "ACCION"_122
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20San%20Andr%c3%a9s%20_%20Terremoto-%20La%20Falla%20de%20San%20Andr%c3%a9s%20Online%20(2015)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_123
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Terminator-%20Destino%20oculto%20Online%20(2019)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_124
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Terminator%20G%c3%a9nesis%20Online%20(2015)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_125
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Terminator%20Salvation%20_%20La%20salvaci%c3%b3n%20Online%20(2009)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_126
+#EXTINF:-1,tvg-name= "Los doble-vida", tvg-logo= "https://pics.filmaffinity.com/the_do_over-983689508-mmed.jpg", group-title= "COMEDIA"_126
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20The%20Do-Over%20_%20Los%20doble-vida%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_127
+#EXTINF:-1,tvg-name= "Titanes del Pacífico: La insurrección", tvg-logo= "https://pics.filmaffinity.com/pacific_rim_uprising-309443835-mmed.jpg", group-title= "ACCION"_127
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Titanes%20del%20Pac%c3%adfico%202%20_%20Pacific%20Rim-%20La%20insurrecci%c3%b3n%20Online%20(2018)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_128
+#EXTINF:-1,tvg-name= "Una pareja despareja", tvg-logo= "https://pics.filmaffinity.com/skiptrace-413225252-mmed.jpg", group-title= "COMEDIA"_128
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Una%20pareja%20dispareja%20_%20Atrapa%20a%20un%20ladr%c3%b3n%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_129
+#EXTINF:-1,tvg-name= "Inframundo: El despertar", tvg-logo= "https://pics.filmaffinity.com/underworld_awakening_underworld_4_new_dawn-769049222-mmed.jpg", group-title= "ACCION"_129
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Underworld-%20El%20despertar%20Online%20(2012)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_130
+#EXTINF:-1,tvg-name= "Un policía y medio 2", tvg-logo= "https://pics.filmaffinity.com/ride_along_2-245895605-mmed.jpg", group-title= "COMEDIA"_130
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Un%20novato%20en%20apuros%202%20_%20Infiltrados%20en%20Miami%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ACCION"_131
+#EXTINF:-1,tvg-name= "Warcraft: El primer encuentro de dos mundos", tvg-logo= "https://pics.filmaffinity.com/warcraft_the_beginning-333696701-mmed.jpg", group-title= "ACCION"_131
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Ver%20Warcraft-%20El%20origen%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_1
+#EXTINF:-1,tvg-name= "7 asesinos", tvg-logo= "https://pics.filmaffinity.com/7_assassins_aka_seven_assassins-998321336-mmed.jpg", group-title= "ARTES MARCIALES"_1
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/7%20Assassins.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_2
+#EXTINF:-1,tvg-name= "Asesino ninja", tvg-logo= "https://pics.filmaffinity.com/ninja_assassin-571259378-mmed.jpg", group-title= "ARTES MARCIALES"_2
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/ASESINO%20NINJA.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_3
+#EXTINF:-1,tvg-name= "De la China con furor", tvg-logo= "https://pics.filmaffinity.com/jing_wu_men-202930933-mmed.jpg", group-title= "ARTES MARCIALES"_3
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/BRUCE%20LEE%20FUERIA%20ORIENTAL.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_4
+#EXTINF:-1,tvg-name= "Best of the Best: Without Warning", tvg-logo= "https://pics.filmaffinity.com/best_of_the_best_without_warning-292651984-mmed.jpg", group-title= "ARTES MARCIALES"_4
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/CAMPEON%20DE%20CAMPEONES%204%20SIN%20ALIENTO.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_5
+#EXTINF:-1,tvg-name= "El gran dragón blanco", tvg-logo= "https://pics.filmaffinity.com/bloodsport-218051083-mmed.jpg", group-title= "ARTES MARCIALES"_5
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/CONTACTO%20SANGRIENTO.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_6
+#EXTINF:-1,tvg-name= "Best of the Best 3: No Turning Back", tvg-logo= "https://pics.filmaffinity.com/best_of_the_best_3_no_turning_back-643887831-mmed.jpg", group-title= "ARTES MARCIALES"_6
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Campe%c3%b3n%20de%20Campeones%203%20La%20Ley%20del%20Odio.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_7
+#EXTINF:-1,tvg-name= "El maestro de la espada", tvg-logo= "https://pics.filmaffinity.com/san_shao_ye_de_jian-863518608-mmed.jpg", group-title= "ARTES MARCIALES"_7
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/EL%20Maestro%20de%20la%20Espada.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_8
+#EXTINF:-1,tvg-name= "El nacimiento del dragón", tvg-logo= "https://pics.filmaffinity.com/birth_of_the_dragon-433074959-mmed.jpg", group-title= "ARTES MARCIALES"_8
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/El%20Nacimiento%20del%20Dragon.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_9
+#EXTINF:-1,tvg-name= "El reino prohibido", tvg-logo= "https://pics.filmaffinity.com/the_forbidden_kingdom-859178948-mmed.jpg", group-title= "ARTES MARCIALES"_9
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/El%20Reino%20Prohibido.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_10
+#EXTINF:-1,tvg-name= "El tigre y el dragón", tvg-logo= "https://pics.filmaffinity.com/wo_hu_cang_long_crouching_tiger_hidden_dragon-650580111-mmed.jpg", group-title= "ARTES MARCIALES"_10
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/El%20Tigre%20y%20El%20Drag%c3%b3n%202-%20La%20Espada%20del%20Destino.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_11
+#EXTINF:-1,tvg-name= "Fist of the Dragon", tvg-logo= "https://pics.filmaffinity.com/fist_of_the_dragon-670265025-mmed.jpg", group-title= "ARTES MARCIALES"_11
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/FIST%20OF%20THE%20DRAGON.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_12
+#EXTINF:-1,tvg-name= "Kickboxer: Represalias", tvg-logo= "https://pics.filmaffinity.com/kickboxer_retaliation-710219343-mmed.jpg", group-title= "ARTES MARCIALES"_12
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Kickboxer-%20Contrataque.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_13
+#EXTINF:-1,tvg-name= "Armour of God II: Operation Condor", tvg-logo= "https://pics.filmaffinity.com/fei_ying_gai_wak_armour_of_god_ii_operation_condor-383213472-mmed.jpg", group-title= "ARTES MARCIALES"_13
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/La%20Armadura%20de%20Dios%202-%20Operaci%c3%b3n%20C%c3%b3ndor.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_14
+#EXTINF:-1,tvg-name= "Shadow", tvg-logo= "https://pics.filmaffinity.com/shadow-633588166-mmed.jpg", group-title= "ARTES MARCIALES"_14
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/La%20Sombra.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_15
+#EXTINF:-1,tvg-name= "Mortal Kombat: La película", tvg-logo= "https://pics.filmaffinity.com/mortal_kombat-642777567-mmed.jpg", group-title= "ARTES MARCIALES"_15
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Mortal%20Kombat.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_16
+#EXTINF:-1,tvg-name= "Ninja Apocalypse", tvg-logo= "https://pics.filmaffinity.com/ninja_apocalypse-560984692-mmed.jpg", group-title= "ARTES MARCIALES"_16
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Ninja%20Apocalypse.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_17
+#EXTINF:-1,tvg-name= "Puños mortales", tvg-logo= "https://pics.filmaffinity.com/blood_and_bone-980747555-mmed.jpg", group-title= "ARTES MARCIALES"_17
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Promesa%20sangrienta%20(Pu%c3%b1os%20Mortales).mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_18
+#EXTINF:-1,tvg-name= "Retroceder nunca, rendirse jamás", tvg-logo= "https://pics.filmaffinity.com/no_retreat_no_surrender-158667762-mmed.jpg", group-title= "ARTES MARCIALES"_18
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/RETROCEDER%20NUNCA%20RENDIRSE%20JAMAS%201.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_19
+#EXTINF:-1,tvg-name= "Rendirse jamás 2: Combate final", tvg-logo= "https://pics.filmaffinity.com/never_back_down_2_the_beatdown-860923269-mmed.jpg", group-title= "ARTES MARCIALES"_19
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/ROMPEINDO%20LAS%20REGLAS%202%20EL%20GOLPE%20FINAL.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_20
+#EXTINF:-1,tvg-name= "No Retreat, No Surrender 3: Blood Brothers", tvg-logo= "https://pics.filmaffinity.com/no_retreat_no_surrender_3_blood_brothers-386881231-mmed.jpg", group-title= "ARTES MARCIALES"_20
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Retroceder%20Nunca,%20Rendirse%20Jam%c3%a1s%203.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_21
+#EXTINF:-1,tvg-name= "Rise of the Legend", tvg-logo= "https://pics.filmaffinity.com/huang_feihong_zhi_yingxiong_you_meng-361531809-mmed.jpg", group-title= "ARTES MARCIALES"_21
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Rise%20of%20the%20Legend.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_22
+#EXTINF:-1,tvg-name= "Romeo debe morir", tvg-logo= "https://pics.filmaffinity.com/romeo_must_die-302553013-mmed.jpg", group-title= "ARTES MARCIALES"_22
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Romeo%20debe%20Morir.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_23
+#EXTINF:-1,tvg-name= "Rompiendo las reglas", tvg-logo= "https://pics.filmaffinity.com/never_back_down-366700778-mmed.jpg", group-title= "ARTES MARCIALES"_23
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Rompiendo%20Las%20Reglas.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_24
+#EXTINF:-1,tvg-name= "Street Fighter: La leyenda", tvg-logo= "https://pics.filmaffinity.com/street_fighter_the_legend_of_chun_li-264731338-mmed.jpg", group-title= "ARTES MARCIALES"_24
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/STREET%20FIGHTER%20LA%20LEYENDA.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_25
+#EXTINF:-1,tvg-name= "Street Fighter, la última batalla", tvg-logo= "https://pics.filmaffinity.com/street_fighter-506934238-mmed.jpg", group-title= "ARTES MARCIALES"_25
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/STREET%20FIGHTER%20LA%20ULTIMA%20BATALLA.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_26
+#EXTINF:-1,tvg-name= "El guardaespaldas", tvg-logo= "https://pics.filmaffinity.com/the_bodyguard-745918506-mmed.jpg", group-title= "ARTES MARCIALES"_26
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/The%20Bodyguard%20(El%20Guardaespaldas).mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_27
+#EXTINF:-1,tvg-name= "The Four", tvg-logo= "https://pics.filmaffinity.com/si_da_ming_bu_the_four-549392081-mmed.jpg", group-title= "ARTES MARCIALES"_27
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/The%20Four%20(2012).mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_28
+#EXTINF:-1,tvg-name= "Triple amenaza", tvg-logo= "https://pics.filmaffinity.com/triple_threat-326958780-mmed.jpg", group-title= "ARTES MARCIALES"_28
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Triple%20Amenaza.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_29
+#EXTINF:-1,tvg-name= "La salchicha peleona", tvg-logo= "https://pics.filmaffinity.com/beverly_hills_ninja-365480487-mmed.jpg", group-title= "COMEDIA"_29
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Un%20Ninja%20En%20Beverly%20Hills.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_30
+#EXTINF:-1,tvg-name= "Campeón de campeones", tvg-logo= "https://pics.filmaffinity.com/best_of_the_best-541674850-mmed.jpg", group-title= "ARTES MARCIALES"_30
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Ver%20Campe%c3%b3n%20de%20Campeones%20(1989)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_31
+#EXTINF:-1,tvg-name= "El joven Detective Dee: El poder del dragón marino", tvg-logo= "https://pics.filmaffinity.com/di_renjie_zhi_shendu_longwang-813944187-mmed.jpg", group-title= "ARTES MARCIALES"_31
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Ver%20El%20Joven%20Detective%20Dee-%20El%20Poder%20del%20Drag%c3%b3n%20Marino%20(2013)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_32
+#EXTINF:-1,tvg-name= "Ip Man 4: El final", tvg-logo= "https://pics.filmaffinity.com/yip_man_4-628068540-mmed.jpg", group-title= "ARTES MARCIALES"_32
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Ver%20Ip%20Man%204%20(2019)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_33
+#EXTINF:-1,tvg-name= "Retroceder nunca, rendirse jamás 2", tvg-logo= "https://pics.filmaffinity.com/no_retreat_no_surrender_2_raging_thunder-159032621-mmed.jpg", group-title= "ARTES MARCIALES"_33
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Ver%20Retroceder%20Nunca,%20Rendirse%20Jam%c3%a1s%202%20(1987)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_34
+#EXTINF:-1,tvg-name= "Rompiendo las reglas 3", tvg-logo= "https://pics.filmaffinity.com/never_back_down_no_surrender_aka_never_back_down_3-397007554-mmed.jpg", group-title= "ARTES MARCIALES"_34
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Ver%20Rompiendo%20las%20Reglas%203%20(2016)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "ARTES MARCIALES"_35
+#EXTINF:-1,tvg-name= "The Grandmaster", tvg-logo= "https://pics.filmaffinity.com/yut_doi_jung_si_yi_dai_zong_shi_yidai_zongshi_the_grandmasters_the_grandmaster-419145401-mmed.jpg", group-title= "ARTES MARCIALES"_35
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/Ver%20The%20Grandmaster%20(2013)%20Online%20Latino%20HD%20-%20PELISPLUS.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_1
+#EXTINF:-1,tvg-name= "Malditos bastardos", tvg-logo= "https://pics.filmaffinity.com/inglourious_basterds-976286054-mmed.jpg", group-title= "BELICO"_1
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20Bastardos%20sin%20gloria.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_2
+#EXTINF:-1,tvg-name= "Good Morning, Vietnam", tvg-logo= "https://pics.filmaffinity.com/good_morning_vietnam-877287246-mmed.jpg", group-title= "DRAMA"_2
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20Buenos%20d%c3%adas%20vietnam%20.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_3
+#EXTINF:-1,tvg-name= "Cadena de favores", tvg-logo= "https://pics.filmaffinity.com/pay_it_forward-693981184-mmed.jpg", group-title= "DRAMA"_3
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20Cadena%20de%20favores.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_4
+#EXTINF:-1,tvg-name= "El banquero", tvg-logo= "https://pics.filmaffinity.com/the_banker-297565830-mmed.jpg", group-title= "DRAMA"_4
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20El%20Banquero%20(2020).mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_5
+#EXTINF:-1,tvg-name= "El sexto sentido", tvg-logo= "https://pics.filmaffinity.com/the_sixth_sense-516003703-mmed.jpg", group-title= "DRAMA"_5
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20%20-%20El%20sexto%20sentido.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_6
+#EXTINF:-1,tvg-name= "Fiebre del ladrillo", tvg-logo= "https://pics.filmaffinity.com/betonrausch-895151428-mmed.jpg", group-title= "COMEDIA"_6
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20%20-%20Fiebre%20del%20ladrillo%20(2020).mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_7
+#EXTINF:-1,tvg-name= "Fuga de Alcatraz", tvg-logo= "https://pics.filmaffinity.com/escape_from_alcatraz-562601250-mmed.jpg", group-title= "DRAMA"_7
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20Fuga%20de%20Alcatraz%20.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_8
+#EXTINF:-1,tvg-name= "Entrenador Carter", tvg-logo= "https://pics.filmaffinity.com/coach_carter-171649979-mmed.jpg", group-title= "DRAMA"_8
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20JUEGO%20DE%20HONOR%20Coach%20Carter.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_9
+#EXTINF:-1,tvg-name= "El mundo en sus manos (TV)", tvg-logo= "https://pics.filmaffinity.com/gifted_hands_the_ben_carson_story_tv_tv-318682368-mmed.jpg", group-title= "DRAMA"_9
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20Mano%20Milagrosas%20(2009).mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_10
+#EXTINF:-1,tvg-name= "Milagro en la celda 7", tvg-logo= "https://pics.filmaffinity.com/7_kogustaki_mucize-102392632-mmed.jpg", group-title= "DRAMA"_10
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20Milagros%20en%20la%20celda%207.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_11
+#EXTINF:-1,tvg-name= "Siempre a tu lado (Hachiko)", tvg-logo= "https://pics.filmaffinity.com/hachi_a_dog_s_tale_hachiko_a_dog_s_story-386676685-mmed.jpg", group-title= "DRAMA"_11
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20Siempre%20a%20tu%20lado%20(Hachiko)%20.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_12
+#EXTINF:-1,tvg-name= "Vidas en pedazos", tvg-logo= "https://pics.filmaffinity.com/the_parts_you_lose-482316035-mmed.jpg", group-title= "DRAMA"_12
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20Vidas%20en%20pedazos.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_13
+#EXTINF:-1,tvg-name= "Violet y Finch", tvg-logo= "https://pics.filmaffinity.com/all_the_bright_places-546691158-mmed.jpg", group-title= "DRAMA"_13
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20Violet%20y%20Finch.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_14
+#EXTINF:-1,tvg-name= "Historia de un matrimonio", tvg-logo= "https://pics.filmaffinity.com/marriage_story-714238540-mmed.jpg", group-title= "DRAMA"_14
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/HISTORIA%20DE%20UN%20MATROMONIO-480p.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_15
+#EXTINF:-1,tvg-name= "Hasta el último hombre", tvg-logo= "https://pics.filmaffinity.com/hacksaw_ridge-698653296-mmed.jpg", group-title= "DRAMA"_15
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/Ver%20Hasta%20el%20%c3%baltimo%20hombre%20Online%20(2016)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_16
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/Ver%20Joker%20Online%20(2019)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_17
+#EXTINF:-1,tvg-name= "Lion, un camino a casa", tvg-logo= "https://pics.filmaffinity.com/lion-474003663-mmed.jpg", group-title= "DRAMA"_17
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/Ver%20Lion%20_%20Un%20camino%20a%20casa%20Online%20(2017)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_18
+#EXTINF:-1,tvg-name= "Intocable", tvg-logo= "https://pics.filmaffinity.com/intouchables-218166359-mmed.jpg", group-title= "DRAMA"_18
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/Ver%20Los%20Intocables%20_%20Amigos%20intocables%20Online%20(2011)%20-%20REPELIS%20Pel%c3%adculas%20HD.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_19
+#EXTINF:-1,tvg-name= "Glass (Cristal)", tvg-logo= "https://pics.filmaffinity.com/glass-575981696-mmed.jpg", group-title= "DRAMA"_19
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/glass.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_20
+#EXTINF:-1,tvg-name= "Nosotros", tvg-logo= "https://pics.filmaffinity.com/us-208891193-mmed.jpg", group-title= "DRAMA"_20
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/nosotros.mp4
-#EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= "DRAMA"_21
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/DRAMA%20-%20Bastardos%20sin%20gloria.mp4
+
 
 
 #EXTINF:-1,tvg-name= "", tvg-logo= "", group-title= ""
