@@ -1049,7 +1049,7 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Batman%20y%20las%
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Big%20Hero%206%20_%20Grandes%20h%c3%a9roes.mp4
 #EXTINF:-1,tvg-name= "Bleach", tvg-logo= "https://pics.filmaffinity.com/bleach-908253101-mmed.jpg", group-title= "ACCION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/Bleach%20Online%20(2018).mp4
-#EXTINF:-1,tvg-name= "Cómo entrenar a tu dragón", tvg-logo= "https://pics.filmaffinity.com/how_to_train_your_dragon-577111358-mmed.jpg", group-title= "ANIMADA"
+#EXTINF:-1,tvg-name= "Cómo entrenar a tu dragón", tvg-logo= "https://pics.filmaffinity.com/how_to_train_your_dragon-577181358-mmed.jpg", group-title= "ANIMADA"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/C%c3%b3mo%20entrenar%20a%20tu%20drag%c3%b3n%201.mp4
 #EXTINF:-1,tvg-name= "Cómo entrenar a tu dragón 2", tvg-logo= "https://pics.filmaffinity.com/how_to_train_your_dragon_2-726409126-mmed.jpg", group-title= "ANIMADA"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ACCION/C%c3%b3mo%20entrenar%20a%20tu%20drag%c3%b3n%202.mp4
@@ -1343,3 +1343,53 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/Ver%20Los%20Intoca
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/glass.mp4
 #EXTINF:-1,tvg-name= "Nosotros", tvg-logo= "https://pics.filmaffinity.com/us-208891193-mmed.jpg", group-title= "DRAMA"_20
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/DRAMA/nosotros.mp4
+#EXTINF:-1, tvg-name= "101 dálmatas", tvg-logo= "https://pics.filmaffinity.com/one_hundred_and_one_dalmatians_101_dalmatians-288841661-mmed.jpg", group-title= "ANIMACION"7
+http://74.208.251.230/Contenido/Peliculas/Aventura/101%20dalmatas.mp4
+#EXTINF:-1, tvg-name= "Animales fantásticos y dónde encontrarlos", tvg-logo= "https://pics.filmaffinity.com/fantastic_beasts_and_where_to_find_them-378562740-mmed.jpg", group-title= "AVENTURA"8
+http://74.208.251.230/Contenido/Peliculas/Aventura/ANIMALES%20FANTASTICOS%20Y%20DONDE%20ENCONTRARLOS.mp4
+#EXTINF:-1, tvg-name= "Una bruja en apuros (A Witches' Ball)", tvg-logo= "https://m.media-amazon.com/images/I/5183Un0CNJL.jpg", group-title= "AVENTURA"9
+http://74.208.251.230/Contenido/Peliculas/Aventura/A%20Witches%c2%b4%20Ball.mp4
+#EXTINF:-1, tvg-name= "Abigail y la ciudad perdida", tvg-logo= "https://pics.filmaffinity.com/abigail-660346492-mmed.jpg", group-title= "AVENTURA"10
+http://74.208.251.230/Contenido/Peliculas/Aventura/Abigail%20y%20la%20ciudad%20perdida.mp4
+#EXTINF:-1, tvg-name= "Spy Cat", tvg-logo= "https://pics.filmaffinity.com/marnies_welt-115944766-mmed.jpg", group-title= "ANIMACION"11
+http://74.208.251.230/Contenido/Peliculas/Aventura/Agente%2000-Gato.mp4
+#EXTINF:-1,tvg-name= "AC/DC: Live at River Plate", tvg-logo= "https://pics.filmaffinity.com/ac_dc_live_at_river_plate-152111993-mmed.jpg", group-title= "CONCIERTOS"17
+http://74.208.251.230/Contenido/Peliculas/Conciertos/AC-DC%20-%20Live%20At%20River%20Plate%20(2011)%201080p%20HD.mkv
+#EXTINF:-1,tvg-name= "AC/DC: Let There Be Rock, la película", tvg-logo= "https://pics.filmaffinity.com/ac_dc_let_there_be_rock_the_movie_live_in_paris-226633958-mmed.jpg", group-title= "CONCIERTOS"19
+http://74.208.251.230/Contenido/Peliculas/Conciertos/AC.DC%20-%20Let%20There%20Be%20Rock.(1980).1080p.mp4
+#EXTINF:-1,tvg-name= "AC/DC: Let There Be Rock, la película", tvg-logo= "https://pics.filmaffinity.com/ac_dc_let_there_be_rock_the_movie_live_in_paris-226633958-mmed.jpg", group-title= "CONCIERTOS"19
+http://74.208.251.230/Contenido/Peliculas/Conciertos/AC.DC.Let.There.Be.Rock.1980.1080p.BluRay.x264-HANDJOB.mkv
+#EXTINF:-1,tvg-name= "AC/DC: Live at Donington", tvg-logo= "https://pics.filmaffinity.com/ac_dc_live_at_donington-173521737-mmed.jpg", group-title= "CONCIERTOS"21
+http://74.208.251.230/Contenido/Peliculas/Conciertos/ACDC%20-%20Live%20At%20Donington%20(1991)%20(1080p).mkv
+#EXTINF:-1,tvg-name= "AC/DC – Live '77 At The Hippodrome Golders Green London", tvg-logo= "https://img.discogs.com/8nWGz50lWFyrnZ9DDGZ-2fnCQzU=/fit-in/464x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9230750-1477235104-6783.jpeg.jpg", group-title= "CONCIERTOS"23
+http://74.208.251.230/Contenido/Peliculas/Conciertos/ACDC-live%20at%20the%20hippodrome%20golders%20green%20London%20(1977).mp4
+#EXTINF:-1,tvg-name= Aerosmith Rocks Donington 2014"", tvg-logo= "https://pics.filmaffinity.com/aerosmith_rocks_donington_2014-743631188-mmed.jpg", group-title= "CONCIERTOS"30
+http://74.208.251.230/Contenido/Peliculas/Conciertos/AEROSMITH%20ROCKS%20DONINGTON.mkv
+#EXTINF:-1,tvg-name= "007: Alta tensión", tvg-logo= "https://pics.filmaffinity.com/the_living_daylights-378598059-mmed.jpg", group-title= "ACCION"_2
+http://74.208.251.230/Contenido/Peliculas/Accion/007:%20Alta%20tension.mkv
+#EXTINF:-1,tvg-name= "Moonraker", tvg-logo= "https://pics.filmaffinity.com/moonraker_aka_james_bond_11-827211556-mmed.jpg", group-title= "ACCION"_3
+http://74.208.251.230/Contenido/Peliculas/Accion/007:%20MISION%20ESPACIAL.mkv
+#EXTINF:-1,tvg-name= "007: Alta tensión", tvg-logo= "https://pics.filmaffinity.com/the_living_daylights-378598059-mmed.jpg", group-title= "ACCION"_2
+http://74.208.251.230/Contenido/Peliculas/Accion/007:%20SU%20NOMBRE%20ES%20PELIGRO.mkv
+#EXTINF:-1,tvg-name= "9 días", tvg-logo= "https://pics.filmaffinity.com/bad_company-265276820-mmed.jpg", group-title= "ACCION"_6
+http://74.208.251.230/Contenido/Peliculas/Accion/9%20dias.mp4
+#EXTINF:-1,tvg-name= "13 Horas: Los soldados secretos de Bengasi", tvg-logo= "https://pics.filmaffinity.com/13_hours_the_secret_soldiers_of_benghazi-604218830-mmed.jpg", group-title= "ACCION"_8
+http://74.208.251.230/Contenido/Peliculas/Accion/13%20HORAS:%20LOS%20SOLDADOS%20SECRETOS%20DE%20BENGASI.mkv
+#EXTINF:-1, tvg-name= "Aztech", tvg-logo= "https://pics.filmaffinity.com/aztech-667979204-mmed.jpg", group-title= "CIENCIA FICCION"3
+http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/Aztech.mp4
+#EXTINF:-1, tvg-name= "Muere otra vez", tvg-logo= "https://pics.filmaffinity.com/boss_level-217735152-mmed.jpg", group-title= "CIENCIA FICCION"4
+http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/Boss%20Level.mp4
+#EXTINF:-1, tvg-name= "Código 8", tvg-logo= "https://pics.filmaffinity.com/code_8-684954213-mmed.jpg", group-title= "CIENCIA FICCION"5
+http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/C%c3%b3digo%208.mp4
+#EXTINF:-1, tvg-name= "Cosmoball", tvg-logo= "https://pics.filmaffinity.com/vratar_galaktiki-839643845-mmed.jpg", group-title= "CIENCIA FICCION"6
+http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/Cosmoball.mp4
+#EXTINF:-1, tvg-name= "Dark Light", tvg-logo= "https://pics.filmaffinity.com/dark_light-456743478-mmed.jpg", group-title= "TERROR"7
+http://74.208.251.230/Contenido/Peliculas/Ciencia%20ficci%c3%b3n/Dark%20Light.mp4
+#EXTINF:-1, tvg-name= "El vecindario", tvg-logo= "https://pics.filmaffinity.com/1br-884222857-mmed.jpg", group-title= "TERROR"2
+http://74.208.251.230/Contenido/Peliculas/Terror/1BR.mp4
+#EXTINF:-1, tvg-name= "13 pecados", tvg-logo= "https://pics.filmaffinity.com/13_sins-512636874-mmed.jpg", group-title= "TERROR"3
+http://74.208.251.230/Contenido/Peliculas/Terror/13%20Sins%20(%202014%20).mp4
+#EXTINF:-1, tvg-name= "28 días después", tvg-logo= "https://pics.filmaffinity.com/28_days_later-469569758-mmed.jpg", group-title= "TERROR"4
+http://74.208.251.230/Contenido/Peliculas/Terror/28%20Dias%20Antes.mp4
+#EXTINF:-1, tvg-name= "28 semanas después", tvg-logo= "https://pics.filmaffinity.com/28_weeks_later-892655817-mmed.jpg", group-title= "TERROR"5
+http://74.208.251.230/Contenido/Peliculas/Terror/28%20Semanas%20Despues.mp4
