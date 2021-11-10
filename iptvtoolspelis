@@ -1363,7 +1363,7 @@ http://74.208.251.230/Contenido/Peliculas/Conciertos/AC.DC.Let.There.Be.Rock.198
 http://74.208.251.230/Contenido/Peliculas/Conciertos/ACDC%20-%20Live%20At%20Donington%20(1991)%20(1080p).mkv
 #EXTINF:-1,tvg-name= "AC/DC – Live '77 At The Hippodrome Golders Green London", tvg-logo= "https://img.discogs.com/8nWGz50lWFyrnZ9DDGZ-2fnCQzU=/fit-in/464x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9230750-1477235104-6783.jpeg.jpg", group-title= "CONCIERTOS"23
 http://74.208.251.230/Contenido/Peliculas/Conciertos/ACDC-live%20at%20the%20hippodrome%20golders%20green%20London%20(1977).mp4
-#EXTINF:-1,tvg-name= Aerosmith Rocks Donington 2014"", tvg-logo= "https://pics.filmaffinity.com/aerosmith_rocks_donington_2014-743631188-mmed.jpg", group-title= "CONCIERTOS"30
+#EXTINF:-1,tvg-name= "Aerosmith Rocks Donington 2014", tvg-logo= "https://pics.filmaffinity.com/aerosmith_rocks_donington_2014-743631188-mmed.jpg", group-title= "CONCIERTOS"30
 http://74.208.251.230/Contenido/Peliculas/Conciertos/AEROSMITH%20ROCKS%20DONINGTON.mkv
 #EXTINF:-1,tvg-name= "007: Alta tensión", tvg-logo= "https://pics.filmaffinity.com/the_living_daylights-378598059-mmed.jpg", group-title= "ACCION"_2
 http://74.208.251.230/Contenido/Peliculas/Accion/007:%20Alta%20tension.mkv
@@ -1393,3 +1393,50 @@ http://74.208.251.230/Contenido/Peliculas/Terror/13%20Sins%20(%202014%20).mp4
 http://74.208.251.230/Contenido/Peliculas/Terror/28%20Dias%20Antes.mp4
 #EXTINF:-1, tvg-name= "28 semanas después", tvg-logo= "https://pics.filmaffinity.com/28_weeks_later-892655817-mmed.jpg", group-title= "TERROR"5
 http://74.208.251.230/Contenido/Peliculas/Terror/28%20Semanas%20Despues.mp4
+#EXTINF:-1, tvg-name= "La odisea de los giles", tvg-logo= "https://pics.filmaffinity.com/la_odisea_de_los_giles-274529633-mmed.jpg", group-title= "DRAMA"
+http://51.77.66.14/La%20Odisea%20de%20los%20Giles%202019%20Web-DL%201080p%20Latino/La%20Odisea%20de%20los%20Giles%202019%20Web-DL%201080p%20Latino.mkv
+
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+
+
+
+#EXTINF:-1, tvg-name= "
