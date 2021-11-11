@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-name= "007: Sin Tiempo Para Morir (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/rDfYClNuplM26KwPbyFAE7CDZo4.jpg", group-title= "ACCION"
+https://pelisplushd.net/fembed.php?url=myw52i5jr16xnw0
 #EXTINF:-1,tvg-name= "El dragón de los deseos (2021)", tvg-logo= "https://pics.filmaffinity.com/wish_dragon-759988207-mmed.jpg", group-title= "ANIMACION"
 http://201.172.61.203:88/Peliculas/mkv/Ver%20El%20drag%c3%b3n%20de%20los%20deseos%20(2021)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1,tvg-name= "Luca (2021)", tvg-logo= "https://pics.filmaffinity.com/luca-907827591-mmed.jpg", group-title= "ANIMACION"
@@ -1435,7 +1437,7 @@ http://51.77.66.14/La%20Odisea%20de%20los%20Giles%202019%20Web-DL%201080p%20Lati
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+
 
 
 
