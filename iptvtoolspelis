@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, tvg-name= "Shang-Chi y la leyenda de los Diez Anillos (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/9VqajJXm29uprSaxOcEh7O0d6E9.jpg", group-title= "ACCION"
+https://www2185.ff-05.com/token=qJ7M40gYxLlonEPc3TQBIw/1636701656/45.172.0.0/99/b/ad/2dcb0d85078b1d71945d56ac8776aadb-1080p.mp4
 #EXTINF:-1, tvg-name= "007: Sin Tiempo Para Morir (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/rDfYClNuplM26KwPbyFAE7CDZo4.jpg", group-title= "ACCION"
 https://pelisplushd.net/fembed.php?url=myw52i5jr16xnw0
 #EXTINF:-1,tvg-name= "El dragón de los deseos (2021)", tvg-logo= "https://pics.filmaffinity.com/wish_dragon-759988207-mmed.jpg", group-title= "ANIMACION"
@@ -1436,7 +1438,7 @@ http://51.77.66.14/La%20Odisea%20de%20los%20Giles%202019%20Web-DL%201080p%20Lati
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+
 
 
 
