@@ -1,8 +1,20 @@
 #EXTM3U
 #EXTINF:-1, tvg-name= "Shang-Chi y la leyenda de los Diez Anillos (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/9VqajJXm29uprSaxOcEh7O0d6E9.jpg", group-title= "ACCION"
 https://www2185.ff-05.com/token=qJ7M40gYxLlonEPc3TQBIw/1636701656/45.172.0.0/99/b/ad/2dcb0d85078b1d71945d56ac8776aadb-1080p.mp4
+#EXTINF:-1, tvg-name= "Claroscuro (Passing) (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/t4tYUT1oSWOP6XKZBoclPAG96KP.jpg", group-title= "DRAMA"
+https://www389.ff-01.com/token=wOhuyJa5pGddTjONCB8D3g/1636703848/45.172.0.0/179/d/72/83ef07fb5830542c49f1bf1bd510a72d-1080p.mp4
 #EXTINF:-1, tvg-name= "007: Sin Tiempo Para Morir (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/rDfYClNuplM26KwPbyFAE7CDZo4.jpg", group-title= "ACCION"
-https://pelisplushd.net/fembed.php?url=myw52i5jr16xnw0
+https://www771.ff-02.com/token=Kk3lX4TIsJ566_8lMA4gVA/1636704033/45.172.0.0/4/d/e2/f9b5a303cf7408a81732979795064e2d-1080p.mp4
+#EXTINF:-1, tvg-name= "Finch (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg", group-title= "AVENTURA"
+https://www192.ff-01.com/token=XcLveRudNqJo7ypMCRiXvA/1636704162/45.172.0.0/86/2/21/a202ae3a4de9a71225ee14469b213212-1080p.mp4
+#EXTINF:-1, tvg-name= "El ejército de los ladrones (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg", group-title= "SUSPENSO"
+https://www863.ff-02.com/token=ctr9NVh24S1EmW4ualc_7A/1636704958/45.172.0.0/72/e/c9/3cb85ed4e4963c4507667fcebfc8cc9e-1080p.mp4
+#EXTINF:-1, tvg-name= "Apex (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/iCVLDTGFJXSPtdMmdbVnmfJ3wPQ.jpg", group-title= "ACCION"
+https://www952.ff-02.com/token=jBobhbpJ-D4vQ7kTEIDYmg/1636705123/45.172.0.0/179/d/0e/6dd7002e4463c3b3117d2999f9e4e0ed-1080p.mp4
+#EXTINF:-1, tvg-name= "Más dura será la caída (2021)", tvg-logo= "https://image.tmdb.org/t/p/w300/su9WzL7lwUZPhjH6eZByAYFx2US.jpg", group-title= "ACCION"
+https://www686.ff-02.com/token=ev_8pAPYptxix4_uRvyRrg/1636705360/45.172.0.0/179/c/45/21ec340470d3462855d47ba19e74145c-1080p.mp4
+#EXTINF:-1, tvg-name= "Flashback (2020)", tvg-logo= "https://image.tmdb.org/t/p/w300/z8DPeAno9IT47gCQBrKqJ9czUyI.jpg", group-title= "SUSPENSO"
+https://www349.ff-01.com/token=zG0AGkXKCFB9AxwZ0GPWCQ/1636705773/45.172.0.0/179/c/ff/e58f70080c945db932ba79a7bf132ffc-1080p.mp4
 #EXTINF:-1,tvg-name= "El dragón de los deseos (2021)", tvg-logo= "https://pics.filmaffinity.com/wish_dragon-759988207-mmed.jpg", group-title= "ANIMACION"
 http://201.172.61.203:88/Peliculas/mkv/Ver%20El%20drag%c3%b3n%20de%20los%20deseos%20(2021)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
 #EXTINF:-1,tvg-name= "Luca (2021)", tvg-logo= "https://pics.filmaffinity.com/luca-907827591-mmed.jpg", group-title= "ANIMACION"
@@ -1400,12 +1412,7 @@ http://74.208.251.230/Contenido/Peliculas/Terror/28%20Semanas%20Despues.mp4
 #EXTINF:-1, tvg-name= "La odisea de los giles", tvg-logo= "https://pics.filmaffinity.com/la_odisea_de_los_giles-274529633-mmed.jpg", group-title= "DRAMA"
 http://51.77.66.14/La%20Odisea%20de%20los%20Giles%202019%20Web-DL%201080p%20Latino/La%20Odisea%20de%20los%20Giles%202019%20Web-DL%201080p%20Latino.mkv
 
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
@@ -1439,8 +1446,3 @@ http://51.77.66.14/La%20Odisea%20de%20los%20Giles%202019%20Web-DL%201080p%20Lati
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
 
-
-
-
-
-#EXTINF:-1, tvg-name= "
