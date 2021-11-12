@@ -1,21 +1,36 @@
 #EXTM3U
-#EXTINF:-1, tvg-name= "Retroceder nunca, rendirse jamás" tvg-logo= "https://es.web.img3.acsta.net/c_310_420/pictures/210/544/21054484_20131031194127077.jpg", group-title= "VAN DAMME",
+#EXTINF:-1, tvg-name= "Retroceder nunca, rendirse jamás (1986)" tvg-logo= "https://es.web.img3.acsta.net/c_310_420/pictures/210/544/21054484_20131031194127077.jpg", group-title= "VAN DAMME",
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/RETROCEDER%20NUNCA%20RENDIRSE%20JAMAS%201.mp4
+#EXTINF:-1, tvg-name= "Contacto sangriento (1988)" tvg-logo= "https://images-na.ssl-images-amazon.com/images/I/51XDOPCZf2L._SX300_SY300_QL70_FMwebp_.jpg", group-title= "VAN DAMME",
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/Copy%20of%20Contacto%20sangriento%20(1988)%20.mp4
+#EXTINF:-1, tvg-name= "Águila negra (1988)", tvg-logo= "https://image.tmdb.org/t/p/w300/sd31bu6gSmh6BEw6BH34b8I7Si6.jpg", group-title= "VAN DAMME"
+https://www1587.ff-04.com/token=tkRFe2e0gGIaEgOu8GM7Bw/1636708082/45.172.0.0/19/4/fa/c2ef4cf4793ced02bcb8bd62a2cccfa4-1080p.mp4
+#EXTINF:-1, tvg-name= "Cyborg (1989)", tvg-logo= "https://image.tmdb.org/t/p/w300/nOspcG8HP6KPdMvzezavRbzYCEw.jpg", group-title= "VAN DAMME"
+https://www1008.ff-03.com/token=vEpRWVokBd8g_CvfB7ZQAQ/1636708616/45.172.0.0/19/e/15/c469c982d0a5f4ba96e07cd994ee015e-720p.mp4
+#EXTINF:-1, tvg-name= "Kickboxer (1989)", tvg-logo= "https://image.tmdb.org/t/p/w300/fUudhrs3HaJEtWpvgwdvjSlE5FS.jpg", group-title= "VAN DAMME"
+https://www1627.ff-04.com/token=y2_g-zHrJGSvIfyNZDzDig/1636708859/45.172.0.0/122/2/f0/5071dda6a5d434c2b29b984c8c791f02-1080p.mp4
+#EXTINF:-1, tvg-name= "Lionheart, el luchador (1990)" tvg-logo= "https://pics.filmaffinity.com/lionheart-859027245-mmed.jpg", group-title= "VAN DAMME",
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Lionheart.mkv
+#EXTINF:-1, tvg-name= "Libertad para morir (1990)", tvg-logo= "https://image.tmdb.org/t/p/w300/6zwTdDmN9ubZu6QTbdwpHc0ylXf.jpg", group-title= "VAN DAMME"
+http://201.172.61.203:88/Peliculas/Febrero/1990.Libertad.para.morir.mp4
+#EXTINF:-1, tvg-name= "Doble impacto (1991)", tvg-logo= "https://image.tmdb.org/t/p/w300/tmzwvSqoMC37Tgqwj4mA2dHNSmw.jpg", group-title= "VAN DAMME"
+https://www1890.ff-04.com/token=YltbVythumSQNzBCktF6HQ/1636709210/45.172.0.0/133/9/f1/1ea8b5b1944f0efdba08895a58b6bf19-1080p.mp4
+#EXTINF:-1, tvg-name= "Soldado universal (1992)", tvg-logo= "https://image.tmdb.org/t/p/w300/fp0mWrHl1SW9PhP8QcsgYPoVYFc.jpg", group-title= "VAN DAMME"
+http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/1992%20Soldado%20Unisal%201%20(1).mkv%20-%20Google%20Drive.mp4
+#EXTINF:-1, tvg-name= "Sin Escape (Ganar o morir) — 1993", tvg-logo= "https://image.tmdb.org/t/p/w185/mEaVFbxWMHWbG8IUcqIL5w1MnbQ.jpg", group-title= "VAN DAMME"
+
+#EXTINF:-1, tvg-name= "Blanco humano (1993)", tvg-logo= "https://image.tmdb.org/t/p/w300/gSCKJCbwrS1WccphIRU2By7MMLW.jpg", group-title= "VAN DAMME"
+https://www1470.ff-03.com/token=KUXhUSPy-MJDRMxvLvl8yA/1636710985/45.172.0.0/136/b/ba/297464a965c60909987871da24271bab-1080p.mp4
+#EXTINF:-1, tvg-name= "Timecop: Policía en el tiempo (1994)", tvg-logo= "https://image.tmdb.org/t/p/w300/7CXa0Ji9CBbTMRAs53HItcfWzok.jpg", group-title= "VAN DAMME"
+https://www618.ff-02.com/token=dpwnz9VwFLNn1MlaCJ5cxQ/1636711195/45.172.0.0/135/5/5d/c9f1191a1c665a0c85d58440d8bae5d5-1080p.mp4
+#EXTINF:-1, tvg-name= "Street Fighter, la última batalla (1994)", tvg-logo= "https://image.tmdb.org/t/p/w300/x27DvYqsRlszX47KMOR5ZO0A8rY.jpg", group-title= "VAN DAMME"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/STREET%20FIGHTER%20LA%20ULTIMA%20BATALLA.mp4
 
 #EXTINF:-1, tvg-name= "REPLICANT" tvg-logo= "https://image.tmdb.org/t/p/w300/3oVs2AC7OH2gKeLZdWJr0VK6g4C.jpg", group-title= "VAN DAMME",
 http://103.152.18.18/Data/English/hollywood/2001/Replicant%20%282001%29/Replicant%20%282001%29.mp4
 
-#EXTINF:-1, tvg-name= "LIONHEART" tvg-logo= "https://pics.filmaffinity.com/lionheart-859027245-mmed.jpg", group-title= "VAN DAMME",
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/pelis/Lionheart.mkv
-
-#EXTINF:-1, tvg-name= "BLOODSPORT" tvg-logo= "https://images-na.ssl-images-amazon.com/images/I/51XDOPCZf2L._SX300_SY300_QL70_FMwebp_.jpg", group-title= "VAN DAMME",
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/junio%202021/NO%20subir%20esta%20carpeta/Copy%20of%20Contacto%20sangriento%20(1988)%20.mp4
-
 #EXTINF:-1, tvg-name= "SIN CONTROL" tvg-logo= "https://image.tmdb.org/t/p/w300/kfRQjhV6igdUdHNkukDbDZnmF9O.jpg", group-title= "VAN DAMME"
 https://www237.sbcdnvideo.com/hls/tysxfcyh3k66j6cdabwbrskhejgss4adxlqzzxvkp7bhndjfob5wphyyek2a/index-v1-a1.m3u8
-
-#EXTINF:-1, tvg-name= "POLICIA DEL TIEMPO", tvg-logo= "https://image.tmdb.org/t/p/w300/7CXa0Ji9CBbTMRAs53HItcfWzok.jpg", group-title= "VAN DAMME"
-https://www245.sbcdnvideo.com/hls/tysxf6fp3g66j6cdabubrhichov76z3yazzuhdqgjm53ukramqz2fhw3dsfq/index-v1-a1.m3u8
 
 #EXTINF:-1, tvg-name= "lWE DIE YOUNG", tvg-logo= "https://image.tmdb.org/t/p/w300/dB0Dl2nDRmvplaJLeHSfkppJXHs.jpg", group-title= "VAN DAMME"
 https://www189.ff-01.com/token=E5BiyCYzz8V0O85DmwLSPA/1635049578/45.172.0.0/87/d/d7/53689297095924907e419f1922918d7d-1080p.mp4
@@ -47,12 +62,6 @@ https://www45.sbcdnvideo.com/hls/tysxfs33jg66j6cdacmr7tsyocxhbqstl5mwxf6wbel77uh
 #EXTINF:-1, tvg-name= "Los mercenarios 2 ", tvg-logo= "https://image.tmdb.org/t/p/w300/6BxsfzRVjyt3D3KAyz3xgYKBxf7.jpg", group-title= "VAN DAMME"
 https://www225.sbcdnvideo.com/hls/tysxfxp63g66j6cdabkbrg2doco3lxwnuhrqbtr4popdnksoyz3ecs6yvrwq/index-v1-a1.m3u8
 
-#EXTINF:-1, tvg-name= "Águila negra ", tvg-logo= "https://image.tmdb.org/t/p/w300/sd31bu6gSmh6BEw6BH34b8I7Si6.jpg", group-title= "VAN DAMME"
-https://www87.sbcdnvideo.com/hls/tysxflfki266j6cdabkr5tkvhlzg6pxezrsbvi62x3ghrucrppn5dhmy2aqa/index-v1-a1.m3u8
-
-#EXTINF:-1, tvg-name= "Blanco humano", tvg-logo= "https://image.tmdb.org/t/p/w300/gSCKJCbwrS1WccphIRU2By7MMLW.jpg", group-title= "VAN DAMME"
-https://www224.sbcdnvideo.com/hls/tysxfuaq2266j6cdaaibrtcqoe724kezoxobklwe4a6esmlcuncqpj6tzgga/index-v1-a1.m3u8
-
 #EXTINF:-1, tvg-name= "6 Balas", tvg-logo= "https://image.tmdb.org/t/p/w300/tniFHeiQU55feNik7X0mHlEe9DE.jpg", group-title= "VAN DAMME"
 https://www11.sbcdnvideo.com/hls/tysxfz5eik66j6cdaamr5wyig24btxf5yzweeupcda6ziwtbwohdkpjybnyq/index-v1-a1.m3u8
 
@@ -68,26 +77,11 @@ https://www83.sbcdnvideo.com/hls/tysxfngals66j6cdaaxb5tcthjehxefnrwhzgtn4wihqnbs
 #EXTINF:-1, tvg-name= "Soldado de fortuna", tvg-logo= "https://image.tmdb.org/t/p/w300/vMNSGvi41FkE4uOIEopTpaSsy0E.jpg", group-title= "VAN DAMME"
 https://www244.sbcdnvideo.com/hls/tysxfcddxw66j6cdacbrzqcagfrb2racl6g3tmkymx5knyss4albu74hbdcq/index-v1-a1.m3u8
 
-#EXTINF:-1, tvg-name= "Libertad para morir", tvg-logo= "https://image.tmdb.org/t/p/w300/6zwTdDmN9ubZu6QTbdwpHc0ylXf.jpg", group-title= "VAN DAMME"
-http://201.172.61.203:88/Peliculas/Febrero/1990.Libertad.para.morir.mp4
-
 #EXTINF:-1, tvg-name= "Bienvenido a la jungla", tvg-logo= "https://image.tmdb.org/t/p/w300/ugaKE7mNU49Wm51aIRg75LwMqf9.jpg", group-title= "VAN DAMME"
 https://www98.sbcdnvideo.com/hls/tysxfzffjg66j6cdacjr7hkvgsz7rinhje4faout4kkqa7fbljtnt6jryk5q/index-v1-a1.m3u8
 
-#EXTINF:-1, tvg-name= "Doble impacto ", tvg-logo= "https://image.tmdb.org/t/p/w300/tmzwvSqoMC37Tgqwj4mA2dHNSmw.jpg", group-title= "VAN DAMME"
-https://www1.sbcdnvideo.com/hls/tysxfgrs3k66j6cdabwrrtktf5zzdjln4hfqhg6pwzalxvtcj5w46zawxeaa/index-v1-a1.m3u8
-
 #EXTINF:-1, tvg-name= "Pound of Flesh", tvg-logo= "https://image.tmdb.org/t/p/w300/vVqEXrb2DZeGk3lDTEf3J5JA3oF.jpg", group-title= "VAN DAMME"
 https://www116.sbcdnvideo.com/hls/tysxfmlwuc66j6cdadarzwkfgt6d7f5f5jloimi6rxdysi26lwvnnglguggq/index-v1-a1.m3u8
-
-#EXTINF:-1, tvg-name= "Cyborg", tvg-logo= "https://image.tmdb.org/t/p/w300/nOspcG8HP6KPdMvzezavRbzYCEw.jpg", group-title= "VAN DAMME"
-https://www108.sbcdnvideo.com/hls/tysxfgvzjg66j6cdacjr7gkcplxjsm4hd6j6mcb5iajzn5atkygjfstjodnq/index-v1-a1.m3u8
-
-#EXTINF:-1, tvg-name= "Street Fighter, la última batalla", tvg-logo= "https://image.tmdb.org/t/p/w300/x27DvYqsRlszX47KMOR5ZO0A8rY.jpg", group-title= "VAN DAMME"
-http://falcon514.dedicatedpanel.com/contenido/PELICULAS/ARTES%20MARCIALES/STREET%20FIGHTER%20LA%20ULTIMA%20BATALLA.mp4
-
-#EXTINF:-1, tvg-name= "Kickboxer ", tvg-logo= "https://image.tmdb.org/t/p/w300/fUudhrs3HaJEtWpvgwdvjSlE5FS.jpg", group-title= "VAN DAMME"
-https://www115.sbcdnvideo.com/hls/tysxfq62ls66j6cdaaxb5sceoytxa26a62gytx4aycfkxv3buk74tbr4b5qq/index-v1-a1.m3u8
 
 #EXTINF:-1, tvg-name= "Salvaje", tvg-logo= "https://image.tmdb.org/t/p/w300/3tbZ3aEYXHowUZxxOblIydi6goe.jpg", group-title= "VAN DAMME"
 https://www160.sbcdnvideo.com/hls/tysxey4z4s66j6cdabpbxwicebt6e55awiwosai2jvdwnuoyh4a4avpbpytq/index-v1-a1.m3u8
@@ -100,21 +94,6 @@ http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Soldado%20unive
 
 #EXTINF:-1, tvg-name= "Soldado universal. El regreso", tvg-logo= "https://image.tmdb.org/t/p/w300/m9snWHsV6Sb6NZAUQJCOunxKGQX.jpg", group-title= "VAN DAMME"
 http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/Ver%20Soldado%20universal.%20El%20regreso%20(1999)%20Online%20Latino%20HD%20-%20Pelisplus.mp4
-
-#EXTINF:-1, tvg-name= "Soldado universal", tvg-logo= "https://image.tmdb.org/t/p/w300/fp0mWrHl1SW9PhP8QcsgYPoVYFc.jpg", group-title= "VAN DAMME"
-http://201.172.61.81:85/peliculas/octubre/danna%2029*10*20/1992%20Soldado%20Unisal%201%20(1).mkv%20-%20Google%20Drive.mp4
-
-#EXTINF:-1, tvg-name= "Ganar o Morir", tvg-logo= "https://image.tmdb.org/t/p/w185/mEaVFbxWMHWbG8IUcqIL5w1MnbQ.jpg", group-title= "VAN DAMME"
-https://fs364.gounlimited.to/v4jhtgn7pdjp7solwakolq4v6mybu6zeuo2ad3kwj3kga6d5jriuzh2vlfla/v.mp4
-
-#EXTINF:-1, tvg-name= " 1 Sin Escape (Ganar o morir) — 1993", tvg-logo= "https://image.tmdb.org/t/p/w185/mEaVFbxWMHWbG8IUcqIL5w1MnbQ.jpg", group-title= "VAN DAMME"
-https://m60.uqload.org/3rfk22n3mrw2q4drdlppbk5jl2gjxtpntlo7xqrzuzhs3xrdomnciira3n4q/v.mp4
-
-#EXTINF:-1, tvg-name= "2 Sin Escape (Ganar o morir) — 1993", tvg-logo= "https://image.tmdb.org/t/p/w185/mEaVFbxWMHWbG8IUcqIL5w1MnbQ.jpg", group-title= "VAN DAMME"
-https://player.123emebed.co/play/2dacbe5b6710cc979ff22c5b4b78764e/b4a7652b04f685516c5245e0/index.m3u8
-
-#EXTINF:-1, tvg-name= "2 Sin Escape (Ganar o morir) — 1993", tvg-logo= "https://pelis-online.net/uploads/posts/2016/3/sin-escape-ganar-o-morir_1.jpg", group-title= "VAN DAMME"
-https://v7.gomoplayer.com/vxoke7ahwkalavf4eraivjotqdsskwmhijyiqmc2ltisvvdfysnycyco37xa/v.mp4
 
 #EXTINF:-1, tvg-name= "En el ojo del huracan", tvg-logo= "https://i1.wp.com/image.tmdb.org/t/p/w154/hMYAo7LntDexzenySf1sWvZti1x.jpg", group-title= "VAN DAMME"
 https://s72.upstreamcdn.co/hls/w47rzammofbnx2nrozx2arnbj3m3s7ctuz6wapaa7uw5pujyh5impdbdvkvq/seg-8-v1-a1.ts
