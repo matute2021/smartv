@@ -1406,8 +1406,6 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Toy%20
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Toy%20Story%202.mp4
 #EXTINF:-1, tvg-name= "Toy Story", tvg-logo= "https://pics.filmaffinity.com/toy_story-626273371-mmed.jpg", group-title= "ANIMACION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Toy%20Story%201.mp4
-
-
 #EXTINF:-1, tvg-name= "Spirit: Indomable", tvg-logo= "https://pics.filmaffinity.com/spirit_untamed-410290985-mmed.jpg", group-title= "ANIMACION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Spirit%20El%20indomable.mp4
 #EXTINF:-1, tvg-name= "Monster House", tvg-logo= "https://pics.filmaffinity.com/monster_house-931139713-mmed.jpg", group-title= "ANIMACION"
@@ -1420,7 +1418,7 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Los%20
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Frozen%20Una%20aventura%20congelada.mp4
 #EXTINF:-1, tvg-name= "Bob Esponja: La película", tvg-logo= "https://pics.filmaffinity.com/the_spongebob_squarepants_movie-242822605-mmed.jpg", group-title= "ANIMACION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Bob%20Esponja,%20la%20pel%c3%adcula.mp4
-#EXTINF:-1, tvg-name= "Bob Esponja: Un héroe fuera del agua", tvg-logo= "https://pics.filmaffinity.com/the_spongebob_movie_sponge_out_of_water_aka_spongebob_squarepants_2-704310225-mmed.jpg", group-title= "ANIMACION"
+#EXTINF:-1, tvg-name= "Bob esponja: Un héroe fuera del agua", tvg-logo= "https://pics.filmaffinity.com/the_spongebob_movie_sponge_out_of_water_aka_spongebob_squarepants_2-704310225-mmed.jpg", group-title= "ANIMACION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Bob%20Esponja%20Un%20h%c3%a9roe%20fuera%20del%20agua.mp4
 #EXTINF:-1, tvg-name= "Los Croods: Una nueva era", tvg-logo= "https://pics.filmaffinity.com/the_croods_a_new_age-122155535-mmed.jpg", group-title= "ANIMACION"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Los%20Croods%202%20Una%20nueva%20era.mp4
@@ -1436,10 +1434,15 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Ooops!
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Thor1.mp4
 #EXTINF:-1, tvg-name= "Thor: El mundo oscuro", tvg-logo= "https://pics.filmaffinity.com/thor_the_dark_world-763570829-mmed.jpg", group-title= "AVENTURA"
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Thor%20Un%20mundo%20oscuro1.mp4
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "La tierra antes del tiempo II La gran aventura", tvg-logo= "https://pics.filmaffinity.com/edgar_rice_burroughs_the_land_that_time_forgot-170478370-mmed.jpg", group-title= "FANTASIA"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/La%20tierra%20antes%20del%20tiempo%20I.mp4
+#EXTINF:-1, tvg-name= "La tierra antes del tiempo I", tvg-logo= "https://pics.filmaffinity.com/the_land_that_time_forgot-265914391-mmed.jpg", group-title= "AVENTURA"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/La%20tierra%20antes%20del%20tiempo%20I.mp4
+#EXTINF:-1, tvg-name= "La tierra antes del tiempo III  El tiempo de la gran entrega", tvg-logo= "", group-title= "AVENTURA"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/La%20tierra%20antes%20del%20tiempo%20III%20El%20tiempo%20de%20la%20gran%20entrega.mp4
+#EXTINF:-1, tvg-name= "La tierra antes del tiempo IV Viaje a través de las brumas", tvg-logo= "", group-title= "AVENTURA"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/La%20tierra%20antes%20del%20tiempo%20IV%20Viaje%20a%20trav%c3%a9s%20de%20las%20brumas.mp4
+
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
