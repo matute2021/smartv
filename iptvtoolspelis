@@ -1408,20 +1408,34 @@ http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Toy%20
 http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Toy%20Story%201.mp4
 
 
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
-#EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
+#EXTINF:-1, tvg-name= "Spirit: Indomable", tvg-logo= "https://pics.filmaffinity.com/spirit_untamed-410290985-mmed.jpg", group-title= "ANIMACION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Spirit%20El%20indomable.mp4
+#EXTINF:-1, tvg-name= "Monster House", tvg-logo= "https://pics.filmaffinity.com/monster_house-931139713-mmed.jpg", group-title= "ANIMACION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Monster%20House%20La%20casa%20de%20los%20sustos.mp4
+#EXTINF:-1, tvg-name= "Madagascar 2", tvg-logo= "https://pics.filmaffinity.com/madagascar_escape_2_africa_madagascar_2-894253190-mmed.jpg", group-title= "ANIMACION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Madagascar%20Escape%202%20Africa.mp4
+#EXTINF:-1, tvg-name= "Los pingüinos de Madagascar", tvg-logo= "https://pics.filmaffinity.com/the_penguins_of_madagascar-605442893-mmed.jpg", group-title= "ANIMACION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Los%20ping%c3%bcinos%20de%20Madagascar.mp4
+#EXTINF:-1, tvg-name= "Frozen. El reino del hielo", tvg-logo= "https://pics.filmaffinity.com/frozen-680009505-mmed.jpg", group-title= "ANIMACION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Frozen%20Una%20aventura%20congelada.mp4
+#EXTINF:-1, tvg-name= "Bob Esponja: La película", tvg-logo= "https://pics.filmaffinity.com/the_spongebob_squarepants_movie-242822605-mmed.jpg", group-title= "ANIMACION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Bob%20Esponja,%20la%20pel%c3%adcula.mp4
+#EXTINF:-1, tvg-name= "Bob Esponja: Un héroe fuera del agua", tvg-logo= "https://pics.filmaffinity.com/the_spongebob_movie_sponge_out_of_water_aka_spongebob_squarepants_2-704310225-mmed.jpg", group-title= "ANIMACION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Bob%20Esponja%20Un%20h%c3%a9roe%20fuera%20del%20agua.mp4
+#EXTINF:-1, tvg-name= "Los Croods: Una nueva era", tvg-logo= "https://pics.filmaffinity.com/the_croods_a_new_age-122155535-mmed.jpg", group-title= "ANIMACION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Los%20Croods%202%20Una%20nueva%20era.mp4
+#EXTINF:-1, tvg-name= "Estados Unidos: El peliculón", tvg-logo= "https://pics.filmaffinity.com/america_the_motion_picture-439744221-mmed.jpg", group-title= "ANIMACION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Estados%20Unidos%20La%20pel%c3%adcula.mp4
+#EXTINF:-1, tvg-name= "El planeta del tesoro", tvg-logo= "https://pics.filmaffinity.com/treasure_planet-317268663-mmed.jpg", group-title= "ANIMACION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/El%20planeta%20del%20tesoro.mp4
+#EXTINF:-1, tvg-name= "Uuups! La aventura continúa...", tvg-logo= "https://pics.filmaffinity.com/ooops_the_adventure_continues-855671126-mmed.jpg", group-title= "ANIMACION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Uuups!%20La%20aventura%20contin%c3%baa.mp4
+#EXTINF:-1, tvg-name= "¡Ups! ¿Dónde está Noé?", tvg-logo= "https://pics.filmaffinity.com/ooops_noah_is_gone_two_by_two-253245630-mmed.jpg", group-title= "ANIMACION"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Ooops!%20El%20arca%20nos%20dej%c3%b3.mp4
+#EXTINF:-1, tvg-name= "Thor", tvg-logo= "https://pics.filmaffinity.com/thor-223512549-mmed.jpg", group-title= "AVENTURA"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Thor1.mp4
+#EXTINF:-1, tvg-name= "Thor: El mundo oscuro", tvg-logo= "https://pics.filmaffinity.com/thor_the_dark_world-763570829-mmed.jpg", group-title= "AVENTURA"
+http://falcon514.dedicatedpanel.com/contenido/PELICULAS/NUEVO%20CONTENIDO/Thor%20Un%20mundo%20oscuro1.mp4
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
 #EXTINF:-1, tvg-name= "", tvg-logo= "", group-title= ""
